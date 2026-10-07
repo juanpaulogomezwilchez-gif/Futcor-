@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>FUTCOR — Análisis de fútbol</title>
+  <style>
+    :root{font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;color:#111827;background:#f3f4f6}
+    *{box-sizing:border-box}body{margin:0}.wrap{max-width:1000px;margin:auto;padding:18px}
+    header{background:#111827;color:white;border-radius:18px;padding:22px;margin-bottom:16px}
+    h1{margin:0 0 5px;font-size:28px}header p{margin:0;color:#d1d5db}
+    .bar{display:flex;gap:10px;flex-wrap:wrap;margin:14px 0}
+    button,input,select{font:inherit;border-radius:10px;border:1px solid #d1d5db;padding:11px}
+    button{cursor:pointer;background:#111827;color:white;border:0}button.secondary{background:white;color:#111827;border:1px solid #d1d5db}
+    .status{padding:12px;border-radius:12px;background:white;border:1px solid #e5e7eb;margin-bottom:16px}
+    .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:14px}
+    .card{background:white;border:1px solid #e5e7eb;border-radius:16px;padding:16px;box-shadow:0 2px 8px #0000000a}
+    .teams{font-size:18px;font-weight:700}.muted{color:#6b7280;font-size:14px}
+    .stats{display:grid;grid-template-columns:1fr 1fr 1fr;gap:8px;margin-top:12px}
+    .stat{background:#f9fafb;border-radius:10px;padding:9px;text-align:center}.stat b{display:block;font-size:18px}
+    .pill{display:inline-block;background:#eef2ff;border-radius:999px;padding:5px 9px;font-size:12px;margin:3px 3px 0 0}
+    .empty{text-align:center;padding:30px;color:#6b7280}
+    footer{padding:20px 0;color:#6b7280;font-size:12px}
+    @media(max-width:600px){.wrap{padding:12px}h1{font-size:24px}.bar>*{width:100%}}
+  </style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>⚽ FUTCOR</h1>
+    <p>Análisis de partidos, estadísticas y posibles selecciones.</p>
+  </header>
+
+  <div class="bar">
+    <select id="competition">
+      <option value="all">Todos los partidos</option>
+      <option value="EPL">Premier League</option>
+      <option value="LaLiga">LaLiga</option>
+      <option value="SerieA">Serie A</option>
+      <option value="Bundesliga">Bundesliga</option>
+      <option value="Ligue1">Ligue 1</option>
+      <option value="MLS">MLS</option>
+    </select>
+    <input id="search" placeholder="Buscar equipo...">
+    <button id="load">Analizar números reales</button>
+  </div>
+
+  <div id="status" class="status">Listo. Pulsa <b>Analizar números reales</b> para cargar datos.</div>
+  <main id="games" class="grid">
+    <div class="card empty">Todavía no hay partidos cargados.</div>
+  </main>
+
+  <footer>
+    FUTCOR v1.0 · Los datos reales requieren conectar una fuente/API de fútbol. Esta versión no realiza consultas automáticamente ni repetidas.
+  </footer>
+</div>
+
+<script>
+const gamesEl = document.getElementById('games');
+const statusEl = document.getElementById('status');
+const searchEl = document.getElementById('search');
+const competitionEl = document.getElementById('competition');
+
+const demoGames = [
+  {home:"Equipo local", away:"Equipo visitante", comp:"Ejemplo", time:"Próximo partido",
+   shots:"—", corners:"—", goals:"—", cards:"—",
+   note:"Conecta una API de fútbol para sustituir estos datos por estadísticas reales."}
+];
+
+function render(games){
+  const q = searchEl.value.trim().toLowerCase();
+  const comp = competitionEl.value;
+  const filtered = games.filter(g =>
+    (!q || `${g.home} ${g.away}`.toLowerCase().includes(q)) &&
+    (comp === 'all' || g.competitionCode === comp)
+  );
+  gamesEl.innerHTML = filtered.length ? filtered.map(g => `
+    <article class="card">
+      <div class="muted">${g.comp || g.league || ''} · ${g.time || ''}</div>
+      <div class="teams">${g.home} <span class="muted">vs</span> ${g.away}</div>
+      <div class="stats">
+        <div class="stat"><b>${g.shots ?? '—'}</b>Tiros a puerta</div>
+        <div class="stat"><b>${g.corners ?? '—'}</b>Córners</div>
+        <div class="stat"><b>${g.goals ?? '—'}</b>Goles</div>
+      </div>
+      <div>
+        <span class="pill">🟨 Tarjetas: ${g.cards ?? '—'}</span>
+        <span class="pill">📈 Análisis disponible</span>
+      </div>
+      <p class="muted">${g.note || ''}</p>
+    </article>
+  `).join('') : `<div class="card empty">No hay partidos que coincidan con la búsqueda.</div>`;
+}
+
+document.getElementById('load').addEventListener('click', () => {
+  statusEl.innerHTML = '<b>Preparado.</b> La interfaz está funcionando. Para mostrar partidos reales necesitamos conectar una API de fútbol en el siguiente paso.';
+  render(demoGames);
+});
+
+searchEl.addEventListener('input', () => render(demoGames));
+competitionEl.addEventListener('change', () => render(demoGames));
+render(demoGames);
+</script>
+</body>
+</html>
