@@ -1,25 +1,69 @@
-name: Deploy FUTCOR
+
+name: Actualizar datos FUTCOR
 
 on:
   push:
-    branches:
-      - main
+    branches: [main]
   workflow_dispatch:
+  schedule:
+    - cron: "0 * * * *"
+
+permissions:
+  contents: write
 
 jobs:
-  deploy:
+  update:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Descargar código
+      - name: Descargar FUTCOR
         uses: actions/checkout@v4
 
-      - name: Verificar API key
+      - name: Consultar API-Football
         env:
           API_KEY: ${{ secrets.API_FOOTBALL_KEY }}
         run: |
-          if [ -z "$API_KEY" ]; then
-            echo "Falta API_FOOTBALL_KEY"
+          DATE=$(TZ=America/Bogota date +%Y-%m-%d)
+
+          curl -s \
+            -H "x-apisports-key: $API_KEY" \
+            "https://v3.football.api-sports.io/fixtures?date=$DATE&timezone=America/Bogota" \
+            -o api.json
+
+          if [ "$(jq '.errors | length' api.json)" != "0" ]; then
+            echo "Error de API:"
+            cat api.json
             exit 1
           fi
-          echo "API key encontrada correctamente"
+
+          jq '[
+            .response[] |
+            {
+              home: .teams.home.name,
+              away: .teams.away.name,
+              comp: .league.name,
+              competitionCode: (
+                if .league.name == "Premier League" then "EPL"
+                elif .league.name == "La Liga" then "LaLiga"
+                elif .league.name == "Serie A" then "SerieA"
+                elif .league.name == "Bundesliga" then "Bundesliga"
+                elif .league.name == "Ligue 1" then "Ligue1"
+                elif .league.name == "MLS" then "MLS"
+                else "all"
+                end
+              ),
+              time: .fixture.date,
+              goals: ((.goals.home // 0) | tostring) + " - " + ((.goals.away // 0) | tostring),
+              fixtureId: .fixture.id
+            }
+          ]' api.json > data.json
+
+          rm -f api.json
+
+      - name: Guardar datos
+        run: |
+          git config user.name "FUTCOR Bot"
+          git config user.email "actions@github.com"
+          git add data.json
+          git diff --cached --quiet || git commit -m "Actualizar partidos reales"
+          git push
