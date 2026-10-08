@@ -1,0 +1,25 @@
+name: Deploy FUTCOR
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Descargar código
+        uses: actions/checkout@v4
+
+      - name: Verificar API key
+        env:
+          API_KEY: ${{ secrets.API_FOOTBALL_KEY }}
+        run: |
+          if [ -z "$API_KEY" ]; then
+            echo "Falta API_FOOTBALL_KEY"
+            exit 1
+          fi
+          echo "API key encontrada correctamente"
