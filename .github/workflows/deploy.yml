@@ -53,7 +53,7 @@ jobs:
                 end
               ),
               time: .fixture.date,
-              goals: ((.goals.home // 0) | tostring) + " - " + ((.goals.away // 0) | tostring),
+              goals: (((.goals.home // 0) | tostring) + " - " + ((.goals.away // 0) | tostring)),
               fixtureId: .fixture.id
             }
           ]' api.json > data.json
