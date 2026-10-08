@@ -545,7 +545,7 @@
     "comp": "Friendlies Women",
     "competitionCode": "all",
     "time": "2026-10-08T09:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "2 - 0",
     "fixtureId": 1645147
   },
   {
@@ -554,7 +554,7 @@
     "comp": "First League",
     "competitionCode": "all",
     "time": "2026-10-08T09:30:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 1",
     "fixtureId": 1605092
   },
   {
@@ -563,7 +563,7 @@
     "comp": "Stars League",
     "competitionCode": "all",
     "time": "2026-10-08T09:45:00-05:00",
-    "goals": "0 - 1",
+    "goals": "0 - 4",
     "fixtureId": 1597937
   },
   {
@@ -572,7 +572,7 @@
     "comp": "Division 1",
     "competitionCode": "all",
     "time": "2026-10-08T09:50:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 1",
     "fixtureId": 1644615
   },
   {
@@ -581,7 +581,7 @@
     "comp": "Division 1",
     "competitionCode": "all",
     "time": "2026-10-08T09:50:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 1",
     "fixtureId": 1644616
   },
   {
@@ -590,7 +590,7 @@
     "comp": "Division 1",
     "competitionCode": "all",
     "time": "2026-10-08T09:50:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 6",
     "fixtureId": 1644617
   },
   {
@@ -599,7 +599,7 @@
     "comp": "Liga II",
     "competitionCode": "all",
     "time": "2026-10-08T10:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 1",
     "fixtureId": 1602506
   },
   {
@@ -617,7 +617,7 @@
     "comp": "Liga Alef",
     "competitionCode": "all",
     "time": "2026-10-08T10:00:00-05:00",
-    "goals": "1 - 0",
+    "goals": "1 - 1",
     "fixtureId": 1621633
   },
   {
@@ -626,7 +626,7 @@
     "comp": "Iraqi League",
     "competitionCode": "all",
     "time": "2026-10-08T10:00:00-05:00",
-    "goals": "1 - 0",
+    "goals": "3 - 0",
     "fixtureId": 1627995
   },
   {
@@ -635,7 +635,7 @@
     "comp": "Veikkausliiga",
     "competitionCode": "all",
     "time": "2026-10-08T10:00:00-05:00",
-    "goals": "3 - 0",
+    "goals": "6 - 0",
     "fixtureId": 1638102
   },
   {
@@ -644,7 +644,7 @@
     "comp": "League",
     "competitionCode": "all",
     "time": "2026-10-08T10:00:00-05:00",
-    "goals": "0 - 1",
+    "goals": "0 - 3",
     "fixtureId": 1643356
   },
   {
@@ -653,7 +653,7 @@
     "comp": "Persian Gulf Pro League",
     "competitionCode": "all",
     "time": "2026-10-08T10:15:00-05:00",
-    "goals": "2 - 0",
+    "goals": "6 - 1",
     "fixtureId": 1639647
   },
   {
@@ -671,7 +671,7 @@
     "comp": "Persian Gulf Pro League",
     "competitionCode": "all",
     "time": "2026-10-08T10:30:00-05:00",
-    "goals": "0 - 0",
+    "goals": "2 - 1",
     "fixtureId": 1639648
   },
   {
@@ -680,7 +680,7 @@
     "comp": "Iraqi League",
     "competitionCode": "all",
     "time": "2026-10-08T10:45:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 1",
     "fixtureId": 1627997
   },
   {
@@ -698,7 +698,7 @@
     "comp": "League Cup",
     "competitionCode": "all",
     "time": "2026-10-08T10:45:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 1",
     "fixtureId": 1639243
   },
   {
@@ -716,7 +716,7 @@
     "comp": "First League",
     "competitionCode": "all",
     "time": "2026-10-08T11:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "2 - 2",
     "fixtureId": 1558534
   },
   {
@@ -725,7 +725,7 @@
     "comp": "Liga Alef",
     "competitionCode": "all",
     "time": "2026-10-08T11:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 1",
     "fixtureId": 1621631
   },
   {
@@ -743,7 +743,7 @@
     "comp": "Veikkausliiga",
     "competitionCode": "all",
     "time": "2026-10-08T11:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 1",
     "fixtureId": 1638103
   },
   {
@@ -761,7 +761,7 @@
     "comp": "Liga Alef",
     "competitionCode": "all",
     "time": "2026-10-08T11:30:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 0",
     "fixtureId": 1621354
   },
   {
@@ -770,7 +770,7 @@
     "comp": "Svenska Cupen - Women",
     "competitionCode": "all",
     "time": "2026-10-08T11:30:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 1",
     "fixtureId": 1636782
   },
   {
@@ -779,7 +779,7 @@
     "comp": "Liga Alef",
     "competitionCode": "all",
     "time": "2026-10-08T11:40:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 0",
     "fixtureId": 1621636
   },
   {
