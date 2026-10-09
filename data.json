@@ -41,7 +41,7 @@
     "comp": "K League 1",
     "competitionCode": "all",
     "time": "2026-10-09T02:30:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 0",
     "fixtureId": 1507078
   },
   {
@@ -50,7 +50,7 @@
     "comp": "K League 2",
     "competitionCode": "all",
     "time": "2026-10-09T02:30:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 0",
     "fixtureId": 1510460
   },
   {
@@ -342,6 +342,15 @@
     "fixtureId": 1628901
   },
   {
+    "home": "Galatasaray U19",
+    "away": "Kasimpasa U19",
+    "comp": "U19 league",
+    "competitionCode": "all",
+    "time": "2026-10-09T05:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1629440
+  },
+  {
     "home": "Ghiroda şi Giarmata Vii",
     "away": "Progresul Pecica",
     "comp": "Liga III - Serie 7",
@@ -349,6 +358,15 @@
     "time": "2026-10-09T05:00:00-05:00",
     "goals": "0 - 0",
     "fixtureId": 1633657
+  },
+  {
+    "home": "Parvoz",
+    "away": "Khujand",
+    "comp": "Vysshaya Liga",
+    "competitionCode": "all",
+    "time": "2026-10-09T05:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1527742
   },
   {
     "home": "Hapoel Hadera",
@@ -1044,24 +1062,6 @@
     "fixtureId": 1634309
   },
   {
-    "home": "Parvoz",
-    "away": "Khujand",
-    "comp": "Vysshaya Liga",
-    "competitionCode": "all",
-    "time": "2026-10-09T07:30:00-05:00",
-    "goals": "0 - 0",
-    "fixtureId": 1527742
-  },
-  {
-    "home": "Sardor Tursunzoda",
-    "away": "Eskhata",
-    "comp": "Vysshaya Liga",
-    "competitionCode": "all",
-    "time": "2026-10-09T07:30:00-05:00",
-    "goals": "0 - 0",
-    "fixtureId": 1527743
-  },
-  {
     "home": "Veres Rivne",
     "away": "Shakhtar Donetsk",
     "comp": "Premier League",
@@ -1222,15 +1222,6 @@
     "time": "2026-10-09T08:00:00-05:00",
     "goals": "0 - 0",
     "fixtureId": 1619572
-  },
-  {
-    "home": "Nairobi United",
-    "away": "KCB",
-    "comp": "FKF Premier League",
-    "competitionCode": "all",
-    "time": "2026-10-09T08:00:00-05:00",
-    "goals": "0 - 0",
-    "fixtureId": 1629066
   },
   {
     "home": "Halaba Ketema",
@@ -1438,15 +1429,6 @@
     "time": "2026-10-09T08:30:00-05:00",
     "goals": "0 - 0",
     "fixtureId": 1645156
-  },
-  {
-    "home": "Musongati",
-    "away": "Le Messager Ngozi",
-    "comp": "Ligue A",
-    "competitionCode": "all",
-    "time": "2026-10-09T08:45:00-05:00",
-    "goals": "0 - 0",
-    "fixtureId": 1619576
   },
   {
     "home": "Al Kholood",
@@ -3888,6 +3870,15 @@
     "fixtureId": 1619320
   },
   {
+    "home": "San Martín Mendoza",
+    "away": "Argentino Monte Maíz",
+    "comp": "Torneo Federal A",
+    "competitionCode": "all",
+    "time": "2026-10-09T14:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1641293
+  },
+  {
     "home": "SC Braga",
     "away": "Sporting CP",
     "comp": "Primeira Liga",
@@ -4041,6 +4032,15 @@
     "fixtureId": 1582347
   },
   {
+    "home": "Trindade",
+    "away": "Tupy FC",
+    "comp": "Goiano - 2",
+    "competitionCode": "all",
+    "time": "2026-10-09T17:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1606339
+  },
+  {
     "home": "Instituto Cordoba",
     "away": "Boca Juniors",
     "comp": "Liga Profesional Argentina",
@@ -4149,15 +4149,6 @@
     "fixtureId": 1600624
   },
   {
-    "home": "San Martín Mendoza",
-    "away": "Argentino Monte Maíz",
-    "comp": "Torneo Federal A",
-    "competitionCode": "all",
-    "time": "2026-10-09T19:30:00-05:00",
-    "goals": "0 - 0",
-    "fixtureId": 1641293
-  },
-  {
     "home": "Union Santa Fe",
     "away": "Defensa Y Justicia",
     "comp": "Liga Profesional Argentina",
@@ -4230,8 +4221,8 @@
     "fixtureId": 1639026
   },
   {
-    "home": "Paraguay W",
-    "away": "El Salvador W",
+    "home": "El Salvador W",
+    "away": "Paraguay W",
     "comp": "Friendlies Women",
     "competitionCode": "all",
     "time": "2026-10-09T20:30:00-05:00",
