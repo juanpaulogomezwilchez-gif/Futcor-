@@ -32,7 +32,7 @@
     "comp": "K League 1",
     "competitionCode": "all",
     "time": "2026-10-09T02:30:00-05:00",
-    "goals": "1 - 0",
+    "goals": "2 - 0",
     "fixtureId": 1507077
   },
   {
@@ -50,7 +50,7 @@
     "comp": "K League 2",
     "competitionCode": "all",
     "time": "2026-10-09T02:30:00-05:00",
-    "goals": "2 - 1",
+    "goals": "3 - 1",
     "fixtureId": 1510460
   },
   {
@@ -68,7 +68,7 @@
     "comp": "Liga 3",
     "competitionCode": "all",
     "time": "2026-10-09T03:00:00-05:00",
-    "goals": "0 - 2",
+    "goals": "1 - 3",
     "fixtureId": 1507451
   },
   {
@@ -77,7 +77,7 @@
     "comp": "1. Liga U19",
     "competitionCode": "all",
     "time": "2026-10-09T03:30:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 0",
     "fixtureId": 1565118
   },
   {
@@ -86,7 +86,7 @@
     "comp": "1. Liga U19",
     "competitionCode": "all",
     "time": "2026-10-09T03:30:00-05:00",
-    "goals": "0 - 0",
+    "goals": "3 - 0",
     "fixtureId": 1565120
   },
   {
@@ -104,7 +104,7 @@
     "comp": "Liga 2",
     "competitionCode": "all",
     "time": "2026-10-09T03:30:00-05:00",
-    "goals": "0 - 1",
+    "goals": "0 - 3",
     "fixtureId": 1637661
   },
   {
@@ -113,7 +113,7 @@
     "comp": "Premier League",
     "competitionCode": "EPL",
     "time": "2026-10-09T03:45:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 1",
     "fixtureId": 1640107
   },
   {
@@ -122,7 +122,7 @@
     "comp": "Premier League",
     "competitionCode": "EPL",
     "time": "2026-10-09T03:45:00-05:00",
-    "goals": "1 - 0",
+    "goals": "2 - 0",
     "fixtureId": 1640108
   },
   {
@@ -140,7 +140,7 @@
     "comp": "Premier League",
     "competitionCode": "EPL",
     "time": "2026-10-09T03:45:00-05:00",
-    "goals": "0 - 1",
+    "goals": "1 - 1",
     "fixtureId": 1640110
   },
   {
@@ -149,7 +149,7 @@
     "comp": "1. Liga U19",
     "competitionCode": "all",
     "time": "2026-10-09T04:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "4 - 0",
     "fixtureId": 1565169
   },
   {
@@ -158,7 +158,7 @@
     "comp": "Persha Liga",
     "competitionCode": "all",
     "time": "2026-10-09T04:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 1",
     "fixtureId": 1581931
   },
   {
@@ -167,7 +167,7 @@
     "comp": "Central Youth League",
     "competitionCode": "all",
     "time": "2026-10-09T04:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 1",
     "fixtureId": 1599248
   },
   {
@@ -176,7 +176,7 @@
     "comp": "Liga Alef",
     "competitionCode": "all",
     "time": "2026-10-09T04:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 1",
     "fixtureId": 1621632
   },
   {
@@ -185,7 +185,7 @@
     "comp": "National League",
     "competitionCode": "all",
     "time": "2026-10-09T04:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 1",
     "fixtureId": 1634835
   },
   {
@@ -194,7 +194,7 @@
     "comp": "National League",
     "competitionCode": "all",
     "time": "2026-10-09T04:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 1",
     "fixtureId": 1634836
   },
   {
@@ -203,7 +203,7 @@
     "comp": "FA Cup",
     "competitionCode": "all",
     "time": "2026-10-09T04:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "3 - 0",
     "fixtureId": 1638889
   },
   {
@@ -221,7 +221,7 @@
     "comp": "J3 League",
     "competitionCode": "all",
     "time": "2026-10-09T04:30:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 1",
     "fixtureId": 1555738
   },
   {
@@ -239,7 +239,7 @@
     "comp": "Youth Championship",
     "competitionCode": "all",
     "time": "2026-10-09T05:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 0",
     "fixtureId": 1519229
   },
   {
@@ -1015,15 +1015,6 @@
     "time": "2026-10-09T07:00:00-05:00",
     "goals": "0 - 0",
     "fixtureId": 1642098
-  },
-  {
-    "home": "Malaysia W",
-    "away": "Saudi Arabia W",
-    "comp": "Friendlies Women",
-    "competitionCode": "all",
-    "time": "2026-10-09T07:00:00-05:00",
-    "goals": "0 - 0",
-    "fixtureId": 1645148
   },
   {
     "home": "Al Nawaeir",
@@ -2133,6 +2124,15 @@
     "fixtureId": 1614285
   },
   {
+    "home": "Katsina United",
+    "away": "Enyimba",
+    "comp": "NPFL",
+    "competitionCode": "all",
+    "time": "2026-10-09T11:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1628544
+  },
+  {
     "home": "CSM Targu Jiu",
     "away": "Unirea Bascov",
     "comp": "Liga III - Serie 6",
@@ -2176,6 +2176,15 @@
     "time": "2026-10-09T11:00:00-05:00",
     "goals": "0 - 0",
     "fixtureId": 1643395
+  },
+  {
+    "home": "Malaysia W",
+    "away": "Saudi Arabia W",
+    "comp": "Friendlies Women",
+    "competitionCode": "all",
+    "time": "2026-10-09T11:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1645148
   },
   {
     "home": "Lithuania W",
@@ -2293,15 +2302,6 @@
     "time": "2026-10-09T11:30:00-05:00",
     "goals": "0 - 0",
     "fixtureId": 1614286
-  },
-  {
-    "home": "Katsina United",
-    "away": "Enyimba",
-    "comp": "NPFL",
-    "competitionCode": "all",
-    "time": "2026-10-09T11:30:00-05:00",
-    "goals": "0 - 0",
-    "fixtureId": 1628544
   },
   {
     "home": "Al Jazeera",
@@ -3897,13 +3897,13 @@
     "fixtureId": 1619320
   },
   {
-    "home": "San Martín Mendoza",
-    "away": "Argentino Monte Maíz",
-    "comp": "Torneo Federal A",
+    "home": "Tesla",
+    "away": "Pinheirense",
+    "comp": "Paraense A3",
     "competitionCode": "all",
     "time": "2026-10-09T14:00:00-05:00",
     "goals": "0 - 0",
-    "fixtureId": 1641293
+    "fixtureId": 1645294
   },
   {
     "home": "SC Braga",
@@ -4183,6 +4183,15 @@
     "time": "2026-10-09T19:00:00-05:00",
     "goals": "0 - 0",
     "fixtureId": 1640026
+  },
+  {
+    "home": "San Martín Mendoza",
+    "away": "Argentino Monte Maíz",
+    "comp": "Torneo Federal A",
+    "competitionCode": "all",
+    "time": "2026-10-09T19:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1641293
   },
   {
     "home": "Union Santa Fe",
