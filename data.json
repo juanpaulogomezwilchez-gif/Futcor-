@@ -1,1361 +1,4304 @@
 [
   {
-    "home": "Montenegro U19 W",
-    "away": "Cyprus U19 W",
-    "comp": "Friendlies Women",
+    "home": "Daejeon Citizen",
+    "away": "Jeonbuk Motors",
+    "comp": "K League 1",
     "competitionCode": "all",
-    "time": "2026-10-08T04:00:00-05:00",
-    "goals": "3 - 1",
-    "fixtureId": 1644442
-  },
-  {
-    "home": "Slovenia U19 W",
-    "away": "Serbia U19 W",
-    "comp": "Friendlies Women",
-    "competitionCode": "all",
-    "time": "2026-10-08T04:00:00-05:00",
+    "time": "2026-10-09T00:00:00-05:00",
     "goals": "0 - 0",
-    "fixtureId": 1645143
+    "fixtureId": 1507076
   },
   {
-    "home": "Shakhter Karagandy",
-    "away": "Akademiya Ontustik",
-    "comp": "1. Division",
+    "home": "Suwon City FC",
+    "away": "Hwaseong",
+    "comp": "K League 2",
     "competitionCode": "all",
-    "time": "2026-10-08T05:00:00-05:00",
-    "goals": "2 - 0",
-    "fixtureId": 1534867
+    "time": "2026-10-09T00:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1510459
   },
   {
-    "home": "Yelimay Semey 2",
-    "away": "Arys",
-    "comp": "1. Division",
+    "home": "Yangpyeong",
+    "away": "Ulsan Citizen",
+    "comp": "K3 League",
     "competitionCode": "all",
-    "time": "2026-10-08T05:00:00-05:00",
-    "goals": "2 - 3",
-    "fixtureId": 1534869
+    "time": "2026-10-09T00:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1520569
   },
   {
-    "home": "Veres Rivne U19",
-    "away": "LNZ Cherkasy U19",
-    "comp": "U19 League",
+    "home": "Gangwon FC",
+    "away": "Bucheon FC 1995",
+    "comp": "K League 1",
     "competitionCode": "all",
-    "time": "2026-10-08T05:00:00-05:00",
-    "goals": "2 - 2",
-    "fixtureId": 1611773
+    "time": "2026-10-09T02:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1507077
   },
   {
-    "home": "Respublika FA",
-    "away": "Yaypan",
-    "comp": "Pro League A",
+    "home": "Incheon United",
+    "away": "Pohang Steelers",
+    "comp": "K League 1",
     "competitionCode": "all",
-    "time": "2026-10-08T05:30:00-05:00",
-    "goals": "2 - 1",
-    "fixtureId": 1531108
+    "time": "2026-10-09T02:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1507078
   },
   {
-    "home": "WIT Georgia",
-    "away": "Gonio",
+    "home": "Cheongju",
+    "away": "Seongnam FC",
+    "comp": "K League 2",
+    "competitionCode": "all",
+    "time": "2026-10-09T02:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1510460
+  },
+  {
+    "home": "Gimpo Citizen",
+    "away": "Seoul E-Land FC",
+    "comp": "K League 2",
+    "competitionCode": "all",
+    "time": "2026-10-09T02:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1510461
+  },
+  {
+    "home": "Didube 2014",
+    "away": "Lokomotivi Tbilisi",
     "comp": "Liga 3",
     "competitionCode": "all",
-    "time": "2026-10-08T06:00:00-05:00",
-    "goals": "2 - 0",
-    "fixtureId": 1507457
-  },
-  {
-    "home": "Kattaqurgon",
-    "away": "Metalourg",
-    "comp": "Pro League A",
-    "competitionCode": "all",
-    "time": "2026-10-08T06:00:00-05:00",
+    "time": "2026-10-09T03:00:00-05:00",
     "goals": "0 - 0",
-    "fixtureId": 1531003
+    "fixtureId": 1507451
   },
   {
-    "home": "Aktobe Jas",
-    "away": "Tobol 2",
-    "comp": "1. Division",
+    "home": "Viktoria Plzeň U19",
+    "away": "Dukla Praha U19",
+    "comp": "1. Liga U19",
     "competitionCode": "all",
-    "time": "2026-10-08T06:00:00-05:00",
-    "goals": "4 - 4",
-    "fixtureId": 1534863
+    "time": "2026-10-09T03:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1565118
   },
   {
-    "home": "Kaspij Aktau 2",
-    "away": "Astana II",
-    "comp": "1. Division",
+    "home": "České Budějovice U19",
+    "away": "Karviná U19",
+    "comp": "1. Liga U19",
     "competitionCode": "all",
-    "time": "2026-10-08T06:00:00-05:00",
-    "goals": "6 - 0",
-    "fixtureId": 1534866
+    "time": "2026-10-09T03:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1565120
   },
   {
-    "home": "Mashujaa",
-    "away": "Polisi Tanzania",
-    "comp": "Ligi kuu Bara",
+    "home": "Persik Kediri",
+    "away": "Persepam Madura Utd",
+    "comp": "Liga 1",
     "competitionCode": "all",
-    "time": "2026-10-08T06:00:00-05:00",
-    "goals": "2 - 1",
-    "fixtureId": 1600780
+    "time": "2026-10-09T03:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1622781
   },
   {
-    "home": "Talasgücü Belediyespor",
-    "away": "Kahta 02 Spor",
-    "comp": "Türkiye Kupası",
+    "home": "Persipura Jayapura",
+    "away": "RANS Nusantara",
+    "comp": "Liga 2",
     "competitionCode": "all",
-    "time": "2026-10-08T06:00:00-05:00",
-    "goals": "2 - 0",
-    "fixtureId": 1640680
+    "time": "2026-10-09T03:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1637661
   },
   {
-    "home": "Home United",
-    "away": "Công An Nhân Dân",
-    "comp": "ASEAN Club Championship",
-    "competitionCode": "all",
-    "time": "2026-10-08T06:30:00-05:00",
-    "goals": "0 - 1",
-    "fixtureId": 1551232
+    "home": "Brothers Union",
+    "away": "Fortis",
+    "comp": "Premier League",
+    "competitionCode": "EPL",
+    "time": "2026-10-09T03:45:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1640107
   },
   {
-    "home": "Ararat-Armenia II",
-    "away": "Andranik",
-    "comp": "First League",
-    "competitionCode": "all",
-    "time": "2026-10-08T06:30:00-05:00",
-    "goals": "1 - 4",
-    "fixtureId": 1605086
+    "home": "City Club",
+    "away": "Chattogram",
+    "comp": "Premier League",
+    "competitionCode": "EPL",
+    "time": "2026-10-09T03:45:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1640108
   },
   {
-    "home": "Lernayin Artsakh",
-    "away": "Araks Ararat",
-    "comp": "First League",
-    "competitionCode": "all",
-    "time": "2026-10-08T06:30:00-05:00",
-    "goals": "1 - 2",
-    "fixtureId": 1605088
+    "home": "Mohammedan Dhaka",
+    "away": "Arambagh",
+    "comp": "Premier League",
+    "competitionCode": "EPL",
+    "time": "2026-10-09T03:45:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1640109
   },
   {
-    "home": "Mika",
-    "away": "Sardarapat 2",
-    "comp": "First League",
-    "competitionCode": "all",
-    "time": "2026-10-08T06:30:00-05:00",
-    "goals": "3 - 2",
-    "fixtureId": 1605089
+    "home": "Rahmatgonj MFS",
+    "away": "PWD Sports Club",
+    "comp": "Premier League",
+    "competitionCode": "EPL",
+    "time": "2026-10-09T03:45:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1640110
   },
   {
-    "home": "Səbail",
-    "away": "Karvan",
-    "comp": "Birinci Dasta",
+    "home": "Sigma Olomouc U19",
+    "away": "Teplice U19",
+    "comp": "1. Liga U19",
     "competitionCode": "all",
-    "time": "2026-10-08T06:30:00-05:00",
-    "goals": "1 - 1",
-    "fixtureId": 1630447
+    "time": "2026-10-09T04:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1565169
+  },
+  {
+    "home": "Metal Kharkiv",
+    "away": "Viktoriya Mykolaivka",
+    "comp": "Persha Liga",
+    "competitionCode": "all",
+    "time": "2026-10-09T04:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1581931
+  },
+  {
+    "home": "Jagiellonia U19",
+    "away": "Górnik Zabrze U19",
+    "comp": "Central Youth League",
+    "competitionCode": "all",
+    "time": "2026-10-09T04:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1599248
+  },
+  {
+    "home": "FC Jerusalem",
+    "away": "Maccabi Kiryat Malachi",
+    "comp": "Liga Alef",
+    "competitionCode": "all",
+    "time": "2026-10-09T04:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1621632
+  },
+  {
+    "home": "I.S.P.E",
+    "away": "Dagon",
+    "comp": "National League",
+    "competitionCode": "all",
+    "time": "2026-10-09T04:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1634835
+  },
+  {
+    "home": "Sagaing United",
+    "away": "GFA",
+    "comp": "National League",
+    "competitionCode": "all",
+    "time": "2026-10-09T04:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1634836
   },
   {
     "home": "Johor Darul Takzim FC",
-    "away": "Svay Rieng",
-    "comp": "ASEAN Club Championship",
+    "away": "Penang",
+    "comp": "FA Cup",
     "competitionCode": "all",
-    "time": "2026-10-08T07:00:00-05:00",
-    "goals": "6 - 0",
-    "fixtureId": 1551231
-  },
-  {
-    "home": "Port FC",
-    "away": "Persib Bandung",
-    "comp": "ASEAN Club Championship",
-    "competitionCode": "all",
-    "time": "2026-10-08T07:00:00-05:00",
-    "goals": "1 - 3",
-    "fixtureId": 1551233
-  },
-  {
-    "home": "Arsenal Tivat",
-    "away": "Dečić",
-    "comp": "First League",
-    "competitionCode": "all",
-    "time": "2026-10-08T07:00:00-05:00",
+    "time": "2026-10-09T04:00:00-05:00",
     "goals": "0 - 0",
-    "fixtureId": 1558531
+    "fixtureId": 1638889
   },
   {
-    "home": "Otrant-Olympic",
-    "away": "Mladost DG",
-    "comp": "First League",
+    "home": "Metalurh Zaporizhya",
+    "away": "SC Poltava 2",
+    "comp": "Druha Liga",
     "competitionCode": "all",
-    "time": "2026-10-08T07:00:00-05:00",
-    "goals": "2 - 2",
-    "fixtureId": 1558535
+    "time": "2026-10-09T04:15:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1593041
   },
   {
-    "home": "Thimphu City",
-    "away": "Paro",
-    "comp": "Premier League",
-    "competitionCode": "EPL",
-    "time": "2026-10-08T07:00:00-05:00",
-    "goals": "0 - 2",
-    "fixtureId": 1636780
-  },
-  {
-    "home": "Al Akhaa Al Ahli",
-    "away": "Al Nejmeh",
-    "comp": "Premier League",
-    "competitionCode": "EPL",
-    "time": "2026-10-08T07:00:00-05:00",
-    "goals": "0 - 2",
-    "fixtureId": 1642032
-  },
-  {
-    "home": "Shabab Al Sahel",
-    "away": "Tadamon Sour",
-    "comp": "Premier League",
-    "competitionCode": "EPL",
-    "time": "2026-10-08T07:00:00-05:00",
-    "goals": "0 - 1",
-    "fixtureId": 1642033
-  },
-  {
-    "home": "Viettel",
-    "away": "Hồng Lĩnh Hà Tĩnh",
-    "comp": "V.League 1",
+    "home": "Sagamihara",
+    "away": "Kamatamare Sanuki",
+    "comp": "J3 League",
     "competitionCode": "all",
-    "time": "2026-10-08T07:15:00-05:00",
-    "goals": "1 - 3",
-    "fixtureId": 1633901
+    "time": "2026-10-09T04:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1555738
   },
   {
-    "home": "AL Nasr SC",
-    "away": "Proxy",
-    "comp": "Second League",
+    "home": "Nizhny Novgorod U19",
+    "away": "Rostov U19",
+    "comp": "Youth Championship",
     "competitionCode": "all",
-    "time": "2026-10-08T07:30:00-05:00",
-    "goals": "1 - 1",
-    "fixtureId": 1594859
+    "time": "2026-10-09T05:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1519168
   },
   {
-    "home": "Haras El Hodood",
-    "away": "El Seka El Hadid",
-    "comp": "Second League",
+    "home": "Almaz Antey U19",
+    "away": "Krasnodar U19",
+    "comp": "Youth Championship",
     "competitionCode": "all",
-    "time": "2026-10-08T07:30:00-05:00",
-    "goals": "1 - 1",
-    "fixtureId": 1594860
+    "time": "2026-10-09T05:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1519229
   },
   {
-    "home": "Masar",
-    "away": "El Dakhleya",
-    "comp": "Second League",
+    "home": "Ekibastuz",
+    "away": "Khan Tengri",
+    "comp": "1. Division",
     "competitionCode": "all",
-    "time": "2026-10-08T07:30:00-05:00",
-    "goals": "3 - 1",
-    "fixtureId": 1594861
+    "time": "2026-10-09T05:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1534864
   },
   {
-    "home": "Tersana",
-    "away": "Kahraba Ismailia",
-    "comp": "Second League",
+    "home": "Osaka",
+    "away": "Kanazawa",
+    "comp": "J3 League",
     "competitionCode": "all",
-    "time": "2026-10-08T07:30:00-05:00",
-    "goals": "2 - 2",
-    "fixtureId": 1594862
+    "time": "2026-10-09T05:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1555737
   },
   {
-    "home": "Mega Sport",
-    "away": "Dayrout",
-    "comp": "Second League",
+    "home": "Kashima",
+    "away": "Gamba Osaka",
+    "comp": "J1 League",
     "competitionCode": "all",
-    "time": "2026-10-08T07:30:00-05:00",
-    "goals": "0 - 1",
-    "fixtureId": 1595145
+    "time": "2026-10-09T05:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1556085
   },
   {
-    "home": "Aluminium Arak",
-    "away": "Malavan",
-    "comp": "Persian Gulf Pro League",
+    "home": "Kashiwa Reysol",
+    "away": "Vissel Kobe",
+    "comp": "J1 League",
     "competitionCode": "all",
-    "time": "2026-10-08T07:30:00-05:00",
-    "goals": "1 - 1",
-    "fixtureId": 1639644
+    "time": "2026-10-09T05:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1556086
   },
   {
-    "home": "Nassaji Mazandaran",
-    "away": "ZOB Ahan",
-    "comp": "Persian Gulf Pro League",
+    "home": "Zbrojovka Brno U19",
+    "away": "Mladá Boleslav U19",
+    "comp": "1. Liga U19",
     "competitionCode": "all",
-    "time": "2026-10-08T07:30:00-05:00",
-    "goals": "1 - 1",
-    "fixtureId": 1639645
+    "time": "2026-10-09T05:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1565119
   },
   {
-    "home": "India W",
-    "away": "Russia W",
+    "home": "Pardubice U19",
+    "away": "Baník Ostrava U19",
+    "comp": "1. Liga U19",
+    "competitionCode": "all",
+    "time": "2026-10-09T05:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1565121
+  },
+  {
+    "home": "Hradec Králové U19",
+    "away": "Zlín U19",
+    "comp": "1. Liga U19",
+    "competitionCode": "all",
+    "time": "2026-10-09T05:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1565122
+  },
+  {
+    "home": "Estoril U23",
+    "away": "Sporting CP U23",
+    "comp": "Liga Revelação U23",
+    "competitionCode": "all",
+    "time": "2026-10-09T05:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1598704
+  },
+  {
+    "home": "Torrent",
+    "away": "Hércules II",
+    "comp": "Tercera División RFEF - Group 6",
+    "competitionCode": "all",
+    "time": "2026-10-09T05:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1614284
+  },
+  {
+    "home": "Beitar Nahariya",
+    "away": "Hapoel Umm al-Fahm",
+    "comp": "Liga Alef",
+    "competitionCode": "all",
+    "time": "2026-10-09T05:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1621359
+  },
+  {
+    "home": "Ironi Beit Shemesh",
+    "away": "Tzeirey Tira",
+    "comp": "Liga Alef",
+    "competitionCode": "all",
+    "time": "2026-10-09T05:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1628901
+  },
+  {
+    "home": "Ghiroda şi Giarmata Vii",
+    "away": "Progresul Pecica",
+    "comp": "Liga III - Serie 7",
+    "competitionCode": "all",
+    "time": "2026-10-09T05:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1633657
+  },
+  {
+    "home": "Hapoel Hadera",
+    "away": "Maccabi Yavne",
+    "comp": "Liga Alef",
+    "competitionCode": "all",
+    "time": "2026-10-09T05:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1621635
+  },
+  {
+    "home": "Shimshon Tel Aviv",
+    "away": "Kfar Saba 1928",
+    "comp": "Liga Alef",
+    "competitionCode": "all",
+    "time": "2026-10-09T05:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1621638
+  },
+  {
+    "home": "Andorra W",
+    "away": "Faroe Islands W",
     "comp": "Friendlies Women",
     "competitionCode": "all",
-    "time": "2026-10-08T07:30:00-05:00",
-    "goals": "0 - 4",
-    "fixtureId": 1643240
-  },
-  {
-    "home": "ATK Mohun Bagan",
-    "away": "East Bengal II",
-    "comp": "IFA Shield",
-    "competitionCode": "all",
-    "time": "2026-10-08T07:45:00-05:00",
-    "goals": "1 - 0",
-    "fixtureId": 1644447
-  },
-  {
-    "home": "Aral",
-    "away": "Qiziriq",
-    "comp": "Pro League A",
-    "competitionCode": "all",
-    "time": "2026-10-08T08:00:00-05:00",
+    "time": "2026-10-09T05:30:00-05:00",
     "goals": "0 - 0",
-    "fixtureId": 1531002
+    "fixtureId": 1638582
   },
   {
-    "home": "Gazalkent",
-    "away": "Pakhtakor II",
-    "comp": "Pro League A",
+    "home": "Dimona",
+    "away": "Hapoel Sderot",
+    "comp": "Liga Alef",
     "competitionCode": "all",
-    "time": "2026-10-08T08:00:00-05:00",
-    "goals": "3 - 2",
-    "fixtureId": 1531107
+    "time": "2026-10-09T05:35:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1621637
   },
   {
-    "home": "Hayq",
-    "away": "Pyunik II",
+    "home": "Maccabi K. Ata Bialik",
+    "away": "Maccabi Neve Sha'anan",
+    "comp": "Liga Alef",
+    "competitionCode": "all",
+    "time": "2026-10-09T05:40:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1621357
+  },
+  {
+    "home": "Betlemi",
+    "away": "Iberia 2010",
+    "comp": "Liga 3",
+    "competitionCode": "all",
+    "time": "2026-10-09T06:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1507450
+  },
+  {
+    "home": "Gardabani",
+    "away": "Kolkheti Khobi",
+    "comp": "Liga 3",
+    "competitionCode": "all",
+    "time": "2026-10-09T06:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1507452
+  },
+  {
+    "home": "Margveti 2006",
+    "away": "Guria",
+    "comp": "Liga 3",
+    "competitionCode": "all",
+    "time": "2026-10-09T06:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1507453
+  },
+  {
+    "home": "Merani Tbilisi",
+    "away": "Iveria Khashuri",
+    "comp": "Liga 3",
+    "competitionCode": "all",
+    "time": "2026-10-09T06:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1507454
+  },
+  {
+    "home": "Irao",
+    "away": "FC Iberia 1999 II",
+    "comp": "Liga 3",
+    "competitionCode": "all",
+    "time": "2026-10-09T06:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1507455
+  },
+  {
+    "home": "Jaiyq",
+    "away": "Turan Turkistan",
+    "comp": "1. Division",
+    "competitionCode": "all",
+    "time": "2026-10-09T06:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1534865
+  },
+  {
+    "home": "Taraz",
+    "away": "Sport Academy Kairat",
+    "comp": "1. Division",
+    "competitionCode": "all",
+    "time": "2026-10-09T06:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1534868
+  },
+  {
+    "home": "Kazakhstan W",
+    "away": "Republic of Ireland W",
+    "comp": "World Cup - Women - Qualification Europe",
+    "competitionCode": "all",
+    "time": "2026-10-09T06:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1557251
+  },
+  {
+    "home": "Slavia Praha U19",
+    "away": "Slovácko U19",
+    "comp": "1. Liga U19",
+    "competitionCode": "all",
+    "time": "2026-10-09T06:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1565123
+  },
+  {
+    "home": "Sparta Praha U19",
+    "away": "Opava U19",
+    "comp": "1. Liga U19",
+    "competitionCode": "all",
+    "time": "2026-10-09T06:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1565124
+  },
+  {
+    "home": "Ratchaburi",
+    "away": "Sukhothai FC",
+    "comp": "Thai League 1",
+    "competitionCode": "all",
+    "time": "2026-10-09T06:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1598038
+  },
+  {
+    "home": "Fountain Gate",
+    "away": "JKT Tanzania",
+    "comp": "Ligi kuu Bara",
+    "competitionCode": "all",
+    "time": "2026-10-09T06:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1600784
+  },
+  {
+    "home": "Montenegro W",
+    "away": "Bosnia-Herzegovina W",
+    "comp": "Friendlies Women",
+    "competitionCode": "all",
+    "time": "2026-10-09T06:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1644443
+  },
+  {
+    "home": "BKMA II",
+    "away": "Ararat II",
     "comp": "First League",
     "competitionCode": "all",
-    "time": "2026-10-08T08:00:00-05:00",
+    "time": "2026-10-09T06:30:00-05:00",
     "goals": "0 - 0",
-    "fixtureId": 1605096
+    "fixtureId": 1605087
   },
   {
-    "home": "Blacks Power",
-    "away": "Vipers",
+    "home": "Pyunik II",
+    "away": "Shirak II",
+    "comp": "First League",
+    "competitionCode": "all",
+    "time": "2026-10-09T06:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1605091
+  },
+  {
+    "home": "Hapoel Ironi Arraba",
+    "away": "Hapoel Ihud Bnei Jatt",
+    "comp": "Liga Alef",
+    "competitionCode": "all",
+    "time": "2026-10-09T06:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1621896
+  },
+  {
+    "home": "MOIK",
+    "away": "Mingəçevir",
+    "comp": "Birinci Dasta",
+    "competitionCode": "all",
+    "time": "2026-10-09T06:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1630446
+  },
+  {
+    "home": "Şimal",
+    "away": "Xankəndi FK",
+    "comp": "Birinci Dasta",
+    "competitionCode": "all",
+    "time": "2026-10-09T06:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1630449
+  },
+  {
+    "home": "Bashundhara Kings",
+    "away": "Dhaka Wanderers",
     "comp": "Premier League",
     "competitionCode": "EPL",
-    "time": "2026-10-08T08:00:00-05:00",
-    "goals": "0 - 4",
-    "fixtureId": 1635269
+    "time": "2026-10-09T06:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1640111
   },
   {
-    "home": "Rosenborg U19",
-    "away": "Lillestrøm U19",
+    "home": "Sichuan Jiuniu",
+    "away": "Henan Jianye",
+    "comp": "Super League",
+    "competitionCode": "all",
+    "time": "2026-10-09T06:35:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1523267
+  },
+  {
+    "home": "Qingdao Jonoon",
+    "away": "Beijing Guoan",
+    "comp": "Super League",
+    "competitionCode": "all",
+    "time": "2026-10-09T06:35:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1523271
+  },
+  {
+    "home": "CSKA Moskva U19",
+    "away": "Akademiya Konoplev U20",
+    "comp": "Youth Championship",
+    "competitionCode": "all",
+    "time": "2026-10-09T07:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1519163
+  },
+  {
+    "home": "Dynamo Makhachkala U19",
+    "away": "Rubin Kazan U20",
+    "comp": "Youth Championship",
+    "competitionCode": "all",
+    "time": "2026-10-09T07:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1519164
+  },
+  {
+    "home": "Fakel U19",
+    "away": "Chertanovo U20",
+    "comp": "Youth Championship",
+    "competitionCode": "all",
+    "time": "2026-10-09T07:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1519166
+  },
+  {
+    "home": "Lokomotiv Moskva U19",
+    "away": "Zenit U19",
+    "comp": "Youth Championship",
+    "competitionCode": "all",
+    "time": "2026-10-09T07:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1519167
+  },
+  {
+    "home": "Spartak Moskva U19",
+    "away": "Ural U20",
+    "comp": "Youth Championship",
+    "competitionCode": "all",
+    "time": "2026-10-09T07:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1519169
+  },
+  {
+    "home": "Hangzhou Greentown",
+    "away": "SHANGHAI SIPG",
+    "comp": "Super League",
+    "competitionCode": "all",
+    "time": "2026-10-09T07:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1523268
+  },
+  {
+    "home": "Lovćen",
+    "away": "Jedinstvo",
+    "comp": "Second League",
+    "competitionCode": "all",
+    "time": "2026-10-09T07:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1559390
+  },
+  {
+    "home": "FCM Ungheni",
+    "away": "Zimbru II",
+    "comp": "Liga 1",
+    "competitionCode": "all",
+    "time": "2026-10-09T07:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1576920
+  },
+  {
+    "home": "Oguzsport",
+    "away": "FC Stăuceni",
+    "comp": "Liga 1",
+    "competitionCode": "all",
+    "time": "2026-10-09T07:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1576921
+  },
+  {
+    "home": "Vulturii Cutezători",
+    "away": "Univer Comrat",
+    "comp": "Liga 1",
+    "competitionCode": "all",
+    "time": "2026-10-09T07:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1576924
+  },
+  {
+    "home": "Nyva Ternopil II",
+    "away": "Vilkhivtsi",
+    "comp": "Druha Liga",
+    "competitionCode": "all",
+    "time": "2026-10-09T07:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1593035
+  },
+  {
+    "home": "Araz",
+    "away": "Kapaz",
+    "comp": "Premyer Liqa",
+    "competitionCode": "all",
+    "time": "2026-10-09T07:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1601903
+  },
+  {
+    "home": "Phrae United",
+    "away": "Kanchanaburi",
+    "comp": "Thai League 2",
+    "competitionCode": "all",
+    "time": "2026-10-09T07:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1602682
+  },
+  {
+    "home": "Eastern",
+    "away": "North District",
+    "comp": "Premier League",
+    "competitionCode": "EPL",
+    "time": "2026-10-09T07:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1607321
+  },
+  {
+    "home": "Barnsley U21",
+    "away": "Hull City U21",
+    "comp": "Professional Development League",
+    "competitionCode": "all",
+    "time": "2026-10-09T07:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1619163
+  },
+  {
+    "home": "Maccabi Nujeidat Ahmed",
+    "away": "Hapoel Bnei Musmus",
+    "comp": "Liga Alef",
+    "competitionCode": "all",
+    "time": "2026-10-09T07:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1621356
+  },
+  {
+    "home": "Isenmulang Kalteng",
+    "away": "Persebaya Surabaya",
+    "comp": "Liga 1",
+    "competitionCode": "all",
+    "time": "2026-10-09T07:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1622782
+  },
+  {
+    "home": "3K",
+    "away": "AFC Leopards",
+    "comp": "FKF Premier League",
+    "competitionCode": "all",
+    "time": "2026-10-09T07:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1629105
+  },
+  {
+    "home": "Bandari",
+    "away": "Tusker",
+    "comp": "FKF Premier League",
+    "competitionCode": "all",
+    "time": "2026-10-09T07:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1629106
+  },
+  {
+    "home": "GOR Mahia",
+    "away": "Nairobi United",
+    "comp": "FKF Premier League",
+    "competitionCode": "all",
+    "time": "2026-10-09T07:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1629107
+  },
+  {
+    "home": "Homeboyz",
+    "away": "Police",
+    "comp": "FKF Premier League",
+    "competitionCode": "all",
+    "time": "2026-10-09T07:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1629108
+  },
+  {
+    "home": "KCB",
+    "away": "APS Bomet",
+    "comp": "FKF Premier League",
+    "competitionCode": "all",
+    "time": "2026-10-09T07:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1629109
+  },
+  {
+    "home": "Mara Sugar",
+    "away": "Migori Youth",
+    "comp": "FKF Premier League",
+    "competitionCode": "all",
+    "time": "2026-10-09T07:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1629110
+  },
+  {
+    "home": "Mathare United",
+    "away": "Posta Rangers FC",
+    "comp": "FKF Premier League",
+    "competitionCode": "all",
+    "time": "2026-10-09T07:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1629111
+  },
+  {
+    "home": "Mombasa Elite",
+    "away": "Shabana",
+    "comp": "FKF Premier League",
+    "competitionCode": "all",
+    "time": "2026-10-09T07:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1629112
+  },
+  {
+    "home": "Murang'a SEAL",
+    "away": "Ulinzi Stars",
+    "comp": "FKF Premier League",
+    "competitionCode": "all",
+    "time": "2026-10-09T07:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1629113
+  },
+  {
+    "home": "FC Bacău II",
+    "away": "CSM FC Vaslui",
+    "comp": "Liga III - Serie 1",
+    "competitionCode": "all",
+    "time": "2026-10-09T07:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1632866
+  },
+  {
+    "home": "ACS Mediaş 2022",
+    "away": "Kids Tâmpa Braşov",
+    "comp": "Liga III - Serie 2",
+    "competitionCode": "all",
+    "time": "2026-10-09T07:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1632996
+  },
+  {
+    "home": "ARO Muscelul Câmpulung",
+    "away": "Săcele",
+    "comp": "Liga III - Serie 2",
+    "competitionCode": "all",
+    "time": "2026-10-09T07:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1632997
+  },
+  {
+    "home": "Blejoi",
+    "away": "Păuleşti",
+    "comp": "Liga III - Serie 3",
+    "competitionCode": "all",
+    "time": "2026-10-09T07:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1633128
+  },
+  {
+    "home": "Râmnicu Sărat",
+    "away": "Plopeni",
+    "comp": "Liga III - Serie 3",
+    "competitionCode": "all",
+    "time": "2026-10-09T07:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1633129
+  },
+  {
+    "home": "Flacăra Moreni",
+    "away": "Viitorul Corbeanca",
+    "comp": "Liga III - Serie 3",
+    "competitionCode": "all",
+    "time": "2026-10-09T07:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1633131
+  },
+  {
+    "home": "Progresul Draganesti",
+    "away": "Tunari",
+    "comp": "Liga III - Serie 3",
+    "competitionCode": "all",
+    "time": "2026-10-09T07:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1633132
+  },
+  {
+    "home": "Înainte Modelu",
+    "away": "Dunarea Calarasi",
+    "comp": "Liga III - Serie 4",
+    "competitionCode": "all",
+    "time": "2026-10-09T07:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1633262
+  },
+  {
+    "home": "Alexandria",
+    "away": "Dinamo Bucureşti II",
+    "comp": "Liga III - Serie 5",
+    "competitionCode": "all",
+    "time": "2026-10-09T07:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1633392
+  },
+  {
+    "home": "Oxigen Bucuresti",
+    "away": "Cetatea",
+    "comp": "Liga III - Serie 5",
+    "competitionCode": "all",
+    "time": "2026-10-09T07:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1633396
+  },
+  {
+    "home": "Filiaşi",
+    "away": "Minerul Lupeni",
+    "comp": "Liga III - Serie 6",
+    "competitionCode": "all",
+    "time": "2026-10-09T07:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1633525
+  },
+  {
+    "home": "CIL Blaj",
+    "away": "Universitatea Alba Iulia",
+    "comp": "Liga III - Serie 7",
+    "competitionCode": "all",
+    "time": "2026-10-09T07:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1633656
+  },
+  {
+    "home": "Metalurgistul Cugir",
+    "away": "Cetate Deva",
+    "comp": "Liga III - Serie 7",
+    "competitionCode": "all",
+    "time": "2026-10-09T07:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1633658
+  },
+  {
+    "home": "Timişul Şag",
+    "away": "Unirea Sântana",
+    "comp": "Liga III - Serie 7",
+    "competitionCode": "all",
+    "time": "2026-10-09T07:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1633660
+  },
+  {
+    "home": "Sânmartin",
+    "away": "Bihorul Beiuş",
+    "comp": "Liga III - Serie 8",
+    "competitionCode": "all",
+    "time": "2026-10-09T07:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1633789
+  },
+  {
+    "home": "Sănătatea Cluj",
+    "away": "SCM Zalău",
+    "comp": "Liga III - Serie 8",
+    "competitionCode": "all",
+    "time": "2026-10-09T07:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1633790
+  },
+  {
+    "home": "PSIS Semarang",
+    "away": "Persiraja Banda Aceh",
+    "comp": "Liga 2",
+    "competitionCode": "all",
+    "time": "2026-10-09T07:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1637662
+  },
+  {
+    "home": "Mebrat Hayl",
+    "away": "Adama Kenema",
+    "comp": "Premier League",
+    "competitionCode": "EPL",
+    "time": "2026-10-09T07:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1641303
+  },
+  {
+    "home": "Tripoli SC",
+    "away": "Al Ahed",
+    "comp": "Premier League",
+    "competitionCode": "EPL",
+    "time": "2026-10-09T07:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1642036
+  },
+  {
+    "home": "Llapi",
+    "away": "Ballkani",
+    "comp": "Superliga",
+    "competitionCode": "all",
+    "time": "2026-10-09T07:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1642098
+  },
+  {
+    "home": "Malaysia W",
+    "away": "Saudi Arabia W",
+    "comp": "Friendlies Women",
+    "competitionCode": "all",
+    "time": "2026-10-09T07:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1645148
+  },
+  {
+    "home": "Al Safa",
+    "away": "Afif",
+    "comp": "Division 2",
+    "competitionCode": "all",
+    "time": "2026-10-09T07:10:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1634306
+  },
+  {
+    "home": "Al Sahel",
+    "away": "Al Taraji",
+    "comp": "Division 2",
+    "competitionCode": "all",
+    "time": "2026-10-09T07:10:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1634307
+  },
+  {
+    "home": "Al Nairyah",
+    "away": "Al-Wajj",
+    "comp": "Division 2",
+    "competitionCode": "all",
+    "time": "2026-10-09T07:15:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1634308
+  },
+  {
+    "home": "Al Baten",
+    "away": "Al Qwarah",
+    "comp": "Division 2",
+    "competitionCode": "all",
+    "time": "2026-10-09T07:25:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1634309
+  },
+  {
+    "home": "Parvoz",
+    "away": "Khujand",
+    "comp": "Vysshaya Liga",
+    "competitionCode": "all",
+    "time": "2026-10-09T07:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1527742
+  },
+  {
+    "home": "Sardor Tursunzoda",
+    "away": "Eskhata",
+    "comp": "Vysshaya Liga",
+    "competitionCode": "all",
+    "time": "2026-10-09T07:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1527743
+  },
+  {
+    "home": "Veres Rivne",
+    "away": "Shakhtar Donetsk",
+    "comp": "Premier League",
+    "competitionCode": "EPL",
+    "time": "2026-10-09T07:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1565496
+  },
+  {
+    "home": "El Entag EL Harby",
+    "away": "La Viena FC",
+    "comp": "Second League",
+    "competitionCode": "all",
+    "time": "2026-10-09T07:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1594863
+  },
+  {
+    "home": "Ismaily SC",
+    "away": "Tanta SC",
+    "comp": "Second League",
+    "competitionCode": "all",
+    "time": "2026-10-09T07:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1594864
+  },
+  {
+    "home": "Maleyet Kafr El Zayiat",
+    "away": "Baladiyyat Al Mehalla",
+    "comp": "Second League",
+    "competitionCode": "all",
+    "time": "2026-10-09T07:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1594865
+  },
+  {
+    "home": "Team",
+    "away": "Pharco",
+    "comp": "Second League",
+    "competitionCode": "all",
+    "time": "2026-10-09T07:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1594866
+  },
+  {
+    "home": "Itesalat",
+    "away": "El Mansura",
+    "comp": "Second League",
+    "competitionCode": "all",
+    "time": "2026-10-09T07:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1594867
+  },
+  {
+    "home": "Fredrikstad FK U19",
+    "away": "Brann U19",
     "comp": "Nasjonal U19 Champions League",
     "competitionCode": "all",
-    "time": "2026-10-08T08:00:00-05:00",
-    "goals": "2 - 1",
-    "fixtureId": 1639324
-  },
-  {
-    "home": "Al Ansar",
-    "away": "Al Hikma",
-    "comp": "Premier League",
-    "competitionCode": "EPL",
-    "time": "2026-10-08T08:00:00-05:00",
-    "goals": "2 - 1",
-    "fixtureId": 1642035
-  },
-  {
-    "home": "Ngezi Platinum",
-    "away": "Highlanders",
-    "comp": "Premier Soccer League",
-    "competitionCode": "all",
-    "time": "2026-10-08T08:00:00-05:00",
-    "goals": "1 - 0",
-    "fixtureId": 1644392
-  },
-  {
-    "home": "Alga",
-    "away": "Asiagoal",
-    "comp": "Premier League",
-    "competitionCode": "EPL",
-    "time": "2026-10-08T08:00:00-05:00",
-    "goals": "3 - 2",
-    "fixtureId": 1644610
-  },
-  {
-    "home": "Ilbirs",
-    "away": "Bars",
-    "comp": "Premier League",
-    "competitionCode": "EPL",
-    "time": "2026-10-08T08:00:00-05:00",
+    "time": "2026-10-09T07:30:00-05:00",
     "goals": "0 - 0",
-    "fixtureId": 1644611
+    "fixtureId": 1639323
   },
   {
-    "home": "Neftchi",
-    "away": "Muras United",
+    "home": "Al Gottah",
+    "away": "Al Rayan",
+    "comp": "Division 2",
+    "competitionCode": "all",
+    "time": "2026-10-09T07:40:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1634310
+  },
+  {
+    "home": "Arar",
+    "away": "Mudhar Club",
+    "comp": "Division 2",
+    "competitionCode": "all",
+    "time": "2026-10-09T07:45:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1634312
+  },
+  {
+    "home": "Hapoel Acre",
+    "away": "Maccabi Bnei Raina",
+    "comp": "Liga Leumit",
+    "competitionCode": "all",
+    "time": "2026-10-09T08:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1555171
+  },
+  {
+    "home": "Ironi Modi'in",
+    "away": "Hapoel Afula",
+    "comp": "Liga Leumit",
+    "competitionCode": "all",
+    "time": "2026-10-09T08:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1555175
+  },
+  {
+    "home": "Maccabi Kiryat Gat",
+    "away": "Kiryat Yam SC",
+    "comp": "Liga Leumit",
+    "competitionCode": "all",
+    "time": "2026-10-09T08:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1555176
+  },
+  {
+    "home": "Maccabi Herzliya",
+    "away": "Maccabi Ahi Nazareth",
+    "comp": "Liga Leumit",
+    "competitionCode": "all",
+    "time": "2026-10-09T08:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1555177
+  },
+  {
+    "home": "Kafr Qasim",
+    "away": "Bnei Yehuda",
+    "comp": "Liga Leumit",
+    "competitionCode": "all",
+    "time": "2026-10-09T08:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1555178
+  },
+  {
+    "home": "Boavista U20",
+    "away": "Bangu U20",
+    "comp": "Carioca U20",
+    "competitionCode": "all",
+    "time": "2026-10-09T08:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1575040
+  },
+  {
+    "home": "Sesvete",
+    "away": "Jadran LP",
+    "comp": "First NL",
+    "competitionCode": "all",
+    "time": "2026-10-09T08:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1590184
+  },
+  {
+    "home": "Inter Star",
+    "away": "Panthere Noir",
+    "comp": "Ligue A",
+    "competitionCode": "all",
+    "time": "2026-10-09T08:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1619571
+  },
+  {
+    "home": "Young Star",
+    "away": "Bumamuru",
+    "comp": "Ligue A",
+    "competitionCode": "all",
+    "time": "2026-10-09T08:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1619572
+  },
+  {
+    "home": "Nairobi United",
+    "away": "KCB",
+    "comp": "FKF Premier League",
+    "competitionCode": "all",
+    "time": "2026-10-09T08:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1629066
+  },
+  {
+    "home": "Halaba Ketema",
+    "away": "Welwalo Adigrat Uni",
     "comp": "Premier League",
     "competitionCode": "EPL",
-    "time": "2026-10-08T08:00:00-05:00",
+    "time": "2026-10-09T08:00:00-05:00",
     "goals": "0 - 0",
-    "fixtureId": 1644612
+    "fixtureId": 1641307
   },
   {
-    "home": "Ozgon",
-    "away": "Dordoi Bishkek",
+    "home": "Fanja",
+    "away": "Ibri",
+    "comp": "Professional League",
+    "competitionCode": "all",
+    "time": "2026-10-09T08:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1642108
+  },
+  {
+    "home": "Asia Talas",
+    "away": "Toktogul",
     "comp": "Premier League",
     "competitionCode": "EPL",
-    "time": "2026-10-08T08:00:00-05:00",
+    "time": "2026-10-09T08:00:00-05:00",
     "goals": "0 - 0",
-    "fixtureId": 1644613
+    "fixtureId": 1644614
   },
   {
-    "home": "Hay Al Amir",
-    "away": "Al Tora",
-    "comp": "Cup",
-    "competitionCode": "all",
-    "time": "2026-10-08T08:00:00-05:00",
-    "goals": "3 - 0",
-    "fixtureId": 1645128
-  },
-  {
-    "home": "Sama Al Sarhan",
-    "away": "Ittihad Al Ramtha",
-    "comp": "Cup",
-    "competitionCode": "all",
-    "time": "2026-10-08T08:00:00-05:00",
-    "goals": "1 - 1",
-    "fixtureId": 1645129
-  },
-  {
-    "home": "Finland U19 W",
-    "away": "Belgium U19 W",
+    "home": "Slovakia U19 W",
+    "away": "Turkey U19 W",
     "comp": "Friendlies Women",
     "competitionCode": "all",
-    "time": "2026-10-08T08:00:00-05:00",
-    "goals": "1 - 0",
-    "fixtureId": 1645144
+    "time": "2026-10-09T08:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1645149
   },
   {
-    "home": "Al Ain",
-    "away": "Al-Ittihad Kalba",
+    "home": "Al Jazira Al Hamra",
+    "away": "Dibba Al-Fujairah",
+    "comp": "Division 1",
+    "competitionCode": "all",
+    "time": "2026-10-09T08:10:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1590013
+  },
+  {
+    "home": "Ajman",
+    "away": "Baniyas SC",
     "comp": "League Cup",
     "competitionCode": "all",
-    "time": "2026-10-08T08:10:00-05:00",
-    "goals": "2 - 2",
-    "fixtureId": 1639238
+    "time": "2026-10-09T08:10:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1639241
   },
   {
-    "home": "Shabab Al Ahli Dubai",
-    "away": "Dubai United",
+    "home": "Al Wahda FC",
+    "away": "Al-Dhafra",
     "comp": "League Cup",
     "competitionCode": "all",
-    "time": "2026-10-08T08:10:00-05:00",
-    "goals": "2 - 1",
-    "fixtureId": 1639239
+    "time": "2026-10-09T08:10:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1639242
   },
   {
-    "home": "Pamba Jiji",
-    "away": "Geita Gold",
+    "home": "Al Arabi",
+    "away": "Gulf United",
+    "comp": "Division 1",
+    "competitionCode": "all",
+    "time": "2026-10-09T08:15:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1590014
+  },
+  {
+    "home": "Ittifaq",
+    "away": "Al Thaid",
+    "comp": "Division 1",
+    "competitionCode": "all",
+    "time": "2026-10-09T08:15:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1590015
+  },
+  {
+    "home": "Mbeya City",
+    "away": "Kagera Sugar",
     "comp": "Ligi kuu Bara",
     "competitionCode": "all",
-    "time": "2026-10-08T08:15:00-05:00",
-    "goals": "4 - 0",
-    "fixtureId": 1600781
-  },
-  {
-    "home": "Gol Gohar",
-    "away": "Esteghlal Khuzestan",
-    "comp": "Persian Gulf Pro League",
-    "competitionCode": "all",
-    "time": "2026-10-08T08:15:00-05:00",
-    "goals": "3 - 0",
-    "fixtureId": 1639650
-  },
-  {
-    "home": "Tractor Sazi",
-    "away": "Esteghlal FC",
-    "comp": "Persian Gulf Pro League",
-    "competitionCode": "all",
-    "time": "2026-10-08T08:30:00-05:00",
-    "goals": "1 - 1",
-    "fixtureId": 1639646
-  },
-  {
-    "home": "Scotland U19 W",
-    "away": "Croatia U19 W",
-    "comp": "Friendlies Women",
-    "competitionCode": "all",
-    "time": "2026-10-08T08:30:00-05:00",
+    "time": "2026-10-09T08:15:00-05:00",
     "goals": "0 - 0",
-    "fixtureId": 1645145
+    "fixtureId": 1600785
   },
   {
-    "home": "Al Ittihad",
-    "away": "Wadi Degla",
-    "comp": "League Cup",
+    "home": "Chadormalu SC",
+    "away": "Kheybar Khorramabad",
+    "comp": "Persian Gulf Pro League",
     "competitionCode": "all",
-    "time": "2026-10-08T09:00:00-05:00",
-    "goals": "0 - 1",
-    "fixtureId": 1640292
+    "time": "2026-10-09T08:15:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1639649
   },
   {
-    "home": "El Mokawloon",
-    "away": "El Gouna FC",
-    "comp": "League Cup",
+    "home": "Kokand-1912",
+    "away": "Mash'al",
+    "comp": "Super League",
     "competitionCode": "all",
-    "time": "2026-10-08T09:00:00-05:00",
-    "goals": "2 - 0",
-    "fixtureId": 1640293
+    "time": "2026-10-09T08:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1516147
   },
   {
-    "home": "Denizli İYG",
-    "away": "Serik Spor",
-    "comp": "Türkiye Kupası",
+    "home": "Israel W",
+    "away": "Switzerland W",
+    "comp": "World Cup - Women - Qualification Europe",
     "competitionCode": "all",
-    "time": "2026-10-08T09:00:00-05:00",
-    "goals": "0 - 1",
-    "fixtureId": 1640679
+    "time": "2026-10-09T08:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1557250
   },
   {
-    "home": "RC Kouba",
-    "away": "Usm El Harrach",
-    "comp": "Ligue 2",
+    "home": "Rekord Bielsko-Biała",
+    "away": "Sandecja Nowy Sącz",
+    "comp": "II Liga - East",
     "competitionCode": "all",
-    "time": "2026-10-08T09:00:00-05:00",
-    "goals": "4 - 0",
-    "fixtureId": 1643948
+    "time": "2026-10-09T08:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1561679
   },
   {
-    "home": "Al Yarmouk",
-    "away": "Ma'an",
-    "comp": "Cup",
+    "home": "Górnik Polkowice",
+    "away": "Stilon Gorzów",
+    "comp": "III Liga - Group 3",
     "competitionCode": "all",
-    "time": "2026-10-08T09:00:00-05:00",
-    "goals": "4 - 1",
-    "fixtureId": 1645130
+    "time": "2026-10-09T08:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1568518
   },
   {
-    "home": "Belgium U23 W",
-    "away": "Italy U23 W",
-    "comp": "Friendlies Women",
+    "home": "Opatija",
+    "away": "Kustosija",
+    "comp": "First NL",
     "competitionCode": "all",
-    "time": "2026-10-08T09:00:00-05:00",
-    "goals": "1 - 2",
-    "fixtureId": 1645146
+    "time": "2026-10-09T08:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1590180
   },
   {
-    "home": "France U23 W",
-    "away": "Netherlands U23 W",
-    "comp": "Friendlies Women",
+    "home": "Mladost Ždralovi",
+    "away": "HNK Cibalia",
+    "comp": "First NL",
     "competitionCode": "all",
-    "time": "2026-10-08T09:00:00-05:00",
-    "goals": "2 - 0",
-    "fixtureId": 1645147
+    "time": "2026-10-09T08:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1590181
   },
   {
-    "home": "Banants II",
-    "away": "Bentonit Ijevan",
+    "home": "Hrvatski Dragovoljac",
+    "away": "Uskok Klis",
+    "comp": "Second NL",
+    "competitionCode": "all",
+    "time": "2026-10-09T08:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1595253
+  },
+  {
+    "home": "Uljanik",
+    "away": "Križevci",
+    "comp": "Second NL",
+    "competitionCode": "all",
+    "time": "2026-10-09T08:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1595259
+  },
+  {
+    "home": "Persepolis FC",
+    "away": "Sanat Naft",
+    "comp": "Persian Gulf Pro League",
+    "competitionCode": "all",
+    "time": "2026-10-09T08:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1639651
+  },
+  {
+    "home": "Jwaaya FC",
+    "away": "Al Mabarrah",
+    "comp": "Premier League",
+    "competitionCode": "EPL",
+    "time": "2026-10-09T08:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1642037
+  },
+  {
+    "home": "Naestved W",
+    "away": "AaB W",
+    "comp": "B-Liga Women",
+    "competitionCode": "all",
+    "time": "2026-10-09T08:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1643935
+  },
+  {
+    "home": "Tabankulu",
+    "away": "Amawele",
+    "comp": "Premier League",
+    "competitionCode": "EPL",
+    "time": "2026-10-09T08:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1645156
+  },
+  {
+    "home": "Musongati",
+    "away": "Le Messager Ngozi",
+    "comp": "Ligue A",
+    "competitionCode": "all",
+    "time": "2026-10-09T08:45:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1619576
+  },
+  {
+    "home": "Al Kholood",
+    "away": "Al-Qadisiyah FC",
+    "comp": "Pro League",
+    "competitionCode": "all",
+    "time": "2026-10-09T08:50:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1603041
+  },
+  {
+    "home": "Pakhtakor",
+    "away": "Bunyodkor",
+    "comp": "Super League",
+    "competitionCode": "all",
+    "time": "2026-10-09T09:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1516145
+  },
+  {
+    "home": "Buxoro",
+    "away": "Andijan",
+    "comp": "Super League",
+    "competitionCode": "all",
+    "time": "2026-10-09T09:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1516146
+  },
+  {
+    "home": "FK Neftekhimik",
+    "away": "Chelyabinsk",
     "comp": "First League",
     "competitionCode": "all",
-    "time": "2026-10-08T09:30:00-05:00",
-    "goals": "1 - 1",
-    "fixtureId": 1605092
+    "time": "2026-10-09T09:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1577542
   },
   {
-    "home": "Al Shamal",
-    "away": "Al-Duhail SC",
-    "comp": "Stars League",
+    "home": "Bodrum FK",
+    "away": "Keçiörengücü",
+    "comp": "1. Lig",
     "competitionCode": "all",
-    "time": "2026-10-08T09:45:00-05:00",
-    "goals": "0 - 4",
-    "fixtureId": 1597937
+    "time": "2026-10-09T09:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1585769
   },
   {
-    "home": "Shamiya",
-    "away": "Ittihad Al-Shorta",
-    "comp": "Division 1",
+    "home": "Sivasspor",
+    "away": "Pendikspor",
+    "comp": "1. Lig",
     "competitionCode": "all",
-    "time": "2026-10-08T09:50:00-05:00",
-    "goals": "0 - 1",
-    "fixtureId": 1644615
+    "time": "2026-10-09T09:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1585776
   },
   {
-    "home": "Burgan",
-    "away": "Al Jazira",
-    "comp": "Division 1",
+    "home": "AS Kigali",
+    "away": "Gicumbi",
+    "comp": "National Soccer League",
     "competitionCode": "all",
-    "time": "2026-10-08T09:50:00-05:00",
-    "goals": "0 - 1",
-    "fixtureId": 1644616
+    "time": "2026-10-09T09:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1632489
   },
   {
-    "home": "Sporty",
-    "away": "Khaitan",
-    "comp": "Division 1",
+    "home": "Entebbe UPPC",
+    "away": "Police",
+    "comp": "Premier League",
+    "competitionCode": "EPL",
+    "time": "2026-10-09T09:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1635276
+  },
+  {
+    "home": "Moldova W",
+    "away": "Georgia W",
+    "comp": "Friendlies Women",
     "competitionCode": "all",
-    "time": "2026-10-08T09:50:00-05:00",
-    "goals": "1 - 6",
-    "fixtureId": 1644617
+    "time": "2026-10-09T09:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1641695
   },
   {
-    "home": "FC Politehnica Timisoara",
-    "away": "CSA Steaua Bucureşti",
-    "comp": "Liga II",
-    "competitionCode": "all",
-    "time": "2026-10-08T10:00:00-05:00",
-    "goals": "1 - 1",
-    "fixtureId": 1602506
-  },
-  {
-    "home": "Hapoel Ironi Karmiel",
-    "away": "Hapoel Tirat HaCarmel",
-    "comp": "Liga Alef",
-    "competitionCode": "all",
-    "time": "2026-10-08T10:00:00-05:00",
-    "goals": "1 - 0",
-    "fixtureId": 1621353
-  },
-  {
-    "home": "Hapoel Ramat HaSharon",
-    "away": "Hapoel Azor",
-    "comp": "Liga Alef",
-    "competitionCode": "all",
-    "time": "2026-10-08T10:00:00-05:00",
-    "goals": "1 - 1",
-    "fixtureId": 1621633
-  },
-  {
-    "home": "Duhok",
-    "away": "Al Zawra'a",
-    "comp": "Iraqi League",
-    "competitionCode": "all",
-    "time": "2026-10-08T10:00:00-05:00",
-    "goals": "3 - 0",
-    "fixtureId": 1627995
-  },
-  {
-    "home": "HJK Helsinki",
-    "away": "VPS",
-    "comp": "Veikkausliiga",
-    "competitionCode": "all",
-    "time": "2026-10-08T10:00:00-05:00",
-    "goals": "6 - 0",
-    "fixtureId": 1638102
-  },
-  {
-    "home": "Shabab Al Ordon",
-    "away": "Al Buqa'a",
+    "home": "Al Hussein",
+    "away": "Al Arabi",
     "comp": "League",
     "competitionCode": "all",
-    "time": "2026-10-08T10:00:00-05:00",
-    "goals": "0 - 3",
-    "fixtureId": 1643356
-  },
-  {
-    "home": "Sepahan FC",
-    "away": "Fajr Sepasi",
-    "comp": "Persian Gulf Pro League",
-    "competitionCode": "all",
-    "time": "2026-10-08T10:15:00-05:00",
-    "goals": "6 - 1",
-    "fixtureId": 1639647
-  },
-  {
-    "home": "Namungo",
-    "away": "Tabora United",
-    "comp": "Ligi kuu Bara",
-    "competitionCode": "all",
-    "time": "2026-10-08T10:30:00-05:00",
-    "goals": "1 - 0",
-    "fixtureId": 1600782
-  },
-  {
-    "home": "Foolad FC",
-    "away": "Mes Shahr-e Babak",
-    "comp": "Persian Gulf Pro League",
-    "competitionCode": "all",
-    "time": "2026-10-08T10:30:00-05:00",
-    "goals": "2 - 1",
-    "fixtureId": 1639648
-  },
-  {
-    "home": "Naft Maysan",
-    "away": "Erbil",
-    "comp": "Iraqi League",
-    "competitionCode": "all",
-    "time": "2026-10-08T10:45:00-05:00",
-    "goals": "1 - 1",
-    "fixtureId": 1627997
-  },
-  {
-    "home": "Khorfakkan",
-    "away": "Al-Wasl FC",
-    "comp": "League Cup",
-    "competitionCode": "all",
-    "time": "2026-10-08T10:45:00-05:00",
-    "goals": "1 - 2",
-    "fixtureId": 1639240
-  },
-  {
-    "home": "Al Nasr",
-    "away": "Hatta SC",
-    "comp": "League Cup",
-    "competitionCode": "all",
-    "time": "2026-10-08T10:45:00-05:00",
-    "goals": "4 - 1",
-    "fixtureId": 1639243
-  },
-  {
-    "home": "Bokelj",
-    "away": "Petrovac",
-    "comp": "First League",
-    "competitionCode": "all",
-    "time": "2026-10-08T11:00:00-05:00",
+    "time": "2026-10-09T09:00:00-05:00",
     "goals": "0 - 0",
-    "fixtureId": 1558532
+    "fixtureId": 1643357
   },
   {
-    "home": "Mornar",
-    "away": "Jezero",
-    "comp": "First League",
+    "home": "USM Annaba",
+    "away": "US Chaouia",
+    "comp": "Ligue 2",
     "competitionCode": "all",
-    "time": "2026-10-08T11:00:00-05:00",
-    "goals": "3 - 3",
-    "fixtureId": 1558534
-  },
-  {
-    "home": "Hapoel Marmorek",
-    "away": "Maccabi Ashdod",
-    "comp": "Liga Alef",
-    "competitionCode": "all",
-    "time": "2026-10-08T11:00:00-05:00",
-    "goals": "1 - 1",
-    "fixtureId": 1621631
-  },
-  {
-    "home": "NEC",
-    "away": "Express",
-    "comp": "Premier League",
-    "competitionCode": "EPL",
-    "time": "2026-10-08T11:00:00-05:00",
+    "time": "2026-10-09T09:00:00-05:00",
     "goals": "0 - 0",
-    "fixtureId": 1635274
+    "fixtureId": 1643936
   },
   {
-    "home": "KuPS",
-    "away": "AC Oulu",
-    "comp": "Veikkausliiga",
+    "home": "RC Arba",
+    "away": "MC Saida",
+    "comp": "Ligue 2",
     "competitionCode": "all",
-    "time": "2026-10-08T11:00:00-05:00",
-    "goals": "0 - 1",
-    "fixtureId": 1638103
-  },
-  {
-    "home": "UTS Rabat",
-    "away": "Renaissance Berkane",
-    "comp": "Botola Pro",
-    "competitionCode": "all",
-    "time": "2026-10-08T11:00:00-05:00",
+    "time": "2026-10-09T09:00:00-05:00",
     "goals": "0 - 0",
-    "fixtureId": 1644202
+    "fixtureId": 1643937
   },
   {
-    "home": "Hapoel Migdal HaEmek",
-    "away": "Tzeirey Tamra",
-    "comp": "Liga Alef",
+    "home": "Nrb Beni Oulbene",
+    "away": "JS Jijel",
+    "comp": "Ligue 2",
     "competitionCode": "all",
-    "time": "2026-10-08T11:30:00-05:00",
-    "goals": "1 - 0",
-    "fixtureId": 1621354
+    "time": "2026-10-09T09:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1643939
   },
   {
-    "home": "Alingsås W",
-    "away": "Elfsborg W",
-    "comp": "Svenska Cupen - Women",
+    "home": "El Bayadh",
+    "away": "WA Tlemcen",
+    "comp": "Ligue 2",
     "competitionCode": "all",
-    "time": "2026-10-08T11:30:00-05:00",
-    "goals": "0 - 3",
-    "fixtureId": 1636782
+    "time": "2026-10-09T09:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1643940
   },
   {
-    "home": "Holon Yermiyahu",
-    "away": "Nordia Jerusalem",
-    "comp": "Liga Alef",
+    "home": "Tiaret",
+    "away": "ASM Oran",
+    "comp": "Ligue 2",
     "competitionCode": "all",
-    "time": "2026-10-08T11:40:00-05:00",
-    "goals": "5 - 0",
-    "fixtureId": 1621636
+    "time": "2026-10-09T09:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1643941
   },
   {
-    "home": "Al Wakrah",
-    "away": "Al-Gharafa",
+    "home": "Khroub",
+    "away": "Teleghma",
+    "comp": "Ligue 2",
+    "competitionCode": "all",
+    "time": "2026-10-09T09:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1643942
+  },
+  {
+    "home": "NC Magra",
+    "away": "CA Batna",
+    "comp": "Ligue 2",
+    "competitionCode": "all",
+    "time": "2026-10-09T09:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1643943
+  },
+  {
+    "home": "Mostaganem",
+    "away": "GC Mascara",
+    "comp": "Ligue 2",
+    "competitionCode": "all",
+    "time": "2026-10-09T09:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1643944
+  },
+  {
+    "home": "MSP Batna",
+    "away": "CR Béni Thour",
+    "comp": "Ligue 2",
+    "competitionCode": "all",
+    "time": "2026-10-09T09:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1643945
+  },
+  {
+    "home": "IRB Nezla",
+    "away": "MO Constantine",
+    "comp": "Ligue 2",
+    "competitionCode": "all",
+    "time": "2026-10-09T09:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1643946
+  },
+  {
+    "home": "Paradou AC",
+    "away": "JSM Skikda",
+    "comp": "Ligue 2",
+    "competitionCode": "all",
+    "time": "2026-10-09T09:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1643947
+  },
+  {
+    "home": "Sidi Benali",
+    "away": "Hussein Dey",
+    "comp": "Ligue 2",
+    "competitionCode": "all",
+    "time": "2026-10-09T09:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1643949
+  },
+  {
+    "home": "Taghit",
+    "away": "WA Mostaganem",
+    "comp": "Ligue 2",
+    "competitionCode": "all",
+    "time": "2026-10-09T09:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1643950
+  },
+  {
+    "home": "Blida",
+    "away": "Koléa",
+    "comp": "Ligue 2",
+    "competitionCode": "all",
+    "time": "2026-10-09T09:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1643951
+  },
+  {
+    "home": "Sama",
+    "away": "Al Ahli",
+    "comp": "Cup",
+    "competitionCode": "all",
+    "time": "2026-10-09T09:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1645131
+  },
+  {
+    "home": "Nasaf",
+    "away": "Dinamo Samarqand",
+    "comp": "Super League",
+    "competitionCode": "all",
+    "time": "2026-10-09T09:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1516148
+  },
+  {
+    "home": "Be1 NFA",
+    "away": "Dainava",
+    "comp": "1 Lyga",
+    "competitionCode": "all",
+    "time": "2026-10-09T09:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1556461
+  },
+  {
+    "home": "Yantra 2019",
+    "away": "Vihren",
+    "comp": "Second League",
+    "competitionCode": "all",
+    "time": "2026-10-09T09:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1571591
+  },
+  {
+    "home": "Petro de Luanda",
+    "away": "Recreativo da Caála",
+    "comp": "Girabola",
+    "competitionCode": "all",
+    "time": "2026-10-09T09:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1627288
+  },
+  {
+    "home": "Qatar SC",
+    "away": "Al-Rayyan SC",
     "comp": "Stars League",
     "competitionCode": "all",
-    "time": "2026-10-08T12:00:00-05:00",
-    "goals": "3 - 2",
-    "fixtureId": 1597935
-  },
-  {
-    "home": "Al Okhdood",
-    "away": "Al Ula",
-    "comp": "Division 1",
-    "competitionCode": "all",
-    "time": "2026-10-08T12:00:00-05:00",
-    "goals": "1 - 5",
-    "fixtureId": 1604012
-  },
-  {
-    "home": "MB Rouisset",
-    "away": "USM Alger",
-    "comp": "Ligue 1",
-    "competitionCode": "Ligue1",
-    "time": "2026-10-08T12:00:00-05:00",
-    "goals": "1 - 0",
-    "fixtureId": 1611409
-  },
-  {
-    "home": "JS Saoura",
-    "away": "Olympique Akbou",
-    "comp": "Ligue 1",
-    "competitionCode": "Ligue1",
-    "time": "2026-10-08T12:00:00-05:00",
+    "time": "2026-10-09T09:45:00-05:00",
     "goals": "0 - 0",
-    "fixtureId": 1611410
+    "fixtureId": 1597936
   },
   {
-    "home": "Tira",
-    "away": "Ironi Nesher",
-    "comp": "Liga Alef",
-    "competitionCode": "all",
-    "time": "2026-10-08T12:00:00-05:00",
-    "goals": "2 - 1",
-    "fixtureId": 1621358
-  },
-  {
-    "home": "Ind. Juniors",
-    "away": "9 de Octubre",
-    "comp": "Liga Pro Serie B",
-    "competitionCode": "all",
-    "time": "2026-10-08T12:00:00-05:00",
-    "goals": "1 - 0",
-    "fixtureId": 1632439
-  },
-  {
-    "home": "Enskede W",
-    "away": "Brommapojkarna W",
-    "comp": "Svenska Cupen - Women",
-    "competitionCode": "all",
-    "time": "2026-10-08T12:00:00-05:00",
-    "goals": "1 - 2",
-    "fixtureId": 1636784
-  },
-  {
-    "home": "Ghazl El Mehalla",
-    "away": "Abu Qair Semad",
-    "comp": "League Cup",
-    "competitionCode": "all",
-    "time": "2026-10-08T12:00:00-05:00",
-    "goals": "1 - 1",
-    "fixtureId": 1640294
-  },
-  {
-    "home": "Future FC",
-    "away": "National Bank of Egypt",
-    "comp": "League Cup",
-    "competitionCode": "all",
-    "time": "2026-10-08T12:00:00-05:00",
-    "goals": "2 - 0",
-    "fixtureId": 1640295
-  },
-  {
-    "home": "Orduspor 1967",
-    "away": "Karadeniz Ereğli BSK",
-    "comp": "Türkiye Kupası",
-    "competitionCode": "all",
-    "time": "2026-10-08T12:00:00-05:00",
-    "goals": "4 - 1",
-    "fixtureId": 1640697
-  },
-  {
-    "home": "Hapoel Herzliya",
-    "away": "Hapoel Mahane Yehuda",
-    "comp": "Liga Alef",
-    "competitionCode": "all",
-    "time": "2026-10-08T12:15:00-05:00",
+    "home": "Al Nasar",
+    "away": "Al Kuwait",
+    "comp": "Premier League",
+    "competitionCode": "EPL",
+    "time": "2026-10-09T09:50:00-05:00",
     "goals": "0 - 0",
-    "fixtureId": 1621630
+    "fixtureId": 1622647
   },
   {
-    "home": "Vänersborgs FK",
-    "away": "Kumla",
-    "comp": "Division 2 - Norra Götaland",
+    "home": "Al-Fateh",
+    "away": "Al-Ahli Jeddah",
+    "comp": "Pro League",
     "competitionCode": "all",
-    "time": "2026-10-08T12:30:00-05:00",
-    "goals": "3 - 3",
-    "fixtureId": 1510697
+    "time": "2026-10-09T09:55:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1603037
   },
   {
-    "home": "CFR 1907 Cluj",
-    "away": "Universitatea Cluj",
+    "home": "Flekkerøy",
+    "away": "Odd II",
+    "comp": "3. Division - Girone 4",
+    "competitionCode": "all",
+    "time": "2026-10-09T10:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1497080
+  },
+  {
+    "home": "Nõmme United II",
+    "away": "FCI Levadia II",
+    "comp": "Esiliiga A",
+    "competitionCode": "all",
+    "time": "2026-10-09T10:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1519656
+  },
+  {
+    "home": "FA Šiauliai II",
+    "away": "Kauno Žalgiris II",
+    "comp": "1 Lyga",
+    "competitionCode": "all",
+    "time": "2026-10-09T10:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1556468
+  },
+  {
+    "home": "Slavia Praha II",
+    "away": "Vlašim",
+    "comp": "FNL",
+    "competitionCode": "all",
+    "time": "2026-10-09T10:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1559797
+  },
+  {
+    "home": "Corvinul Hunedoara",
+    "away": "FC Voluntari",
     "comp": "Liga I",
     "competitionCode": "all",
-    "time": "2026-10-08T12:30:00-05:00",
-    "goals": "1 - 3",
-    "fixtureId": 1565207
+    "time": "2026-10-09T10:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1565263
   },
   {
-    "home": "Ironi Baka El Garbiya",
-    "away": "Hapoel Nazareth Illit",
-    "comp": "Liga Alef",
+    "home": "Puebla U21",
+    "away": "Club Leon U21",
+    "comp": "Liga MX U21",
     "competitionCode": "all",
-    "time": "2026-10-08T12:30:00-05:00",
-    "goals": "1 - 2",
-    "fixtureId": 1621355
+    "time": "2026-10-09T10:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1592869
   },
   {
-    "home": "Al Talaba",
-    "away": "Al Shorta",
+    "home": "Tigres UANL U21",
+    "away": "Toluca U21",
+    "comp": "Liga MX U21",
+    "competitionCode": "all",
+    "time": "2026-10-09T10:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1592871
+  },
+  {
+    "home": "Zakho",
+    "away": "Newroz",
     "comp": "Iraqi League",
     "competitionCode": "all",
-    "time": "2026-10-08T12:30:00-05:00",
+    "time": "2026-10-09T10:00:00-05:00",
     "goals": "0 - 0",
-    "fixtureId": 1627994
+    "fixtureId": 1627998
   },
   {
-    "home": "Beti Kozkor",
-    "away": "Beti Onak",
-    "comp": "Tercera División RFEF - Group 15",
+    "home": "SJK",
+    "away": "Lahti",
+    "comp": "Veikkausliiga",
     "competitionCode": "all",
-    "time": "2026-10-08T12:45:00-05:00",
-    "goals": "3 - 0",
-    "fixtureId": 1617033
-  },
-  {
-    "home": "UCV Moquegua",
-    "away": "Cienciano",
-    "comp": "Primera División",
-    "competitionCode": "all",
-    "time": "2026-10-08T13:00:00-05:00",
-    "goals": "0 - 2",
-    "fixtureId": 1549506
-  },
-  {
-    "home": "Picuiense",
-    "away": "Sport PB",
-    "comp": "Paraibano 2",
-    "competitionCode": "all",
-    "time": "2026-10-08T13:00:00-05:00",
-    "goals": "1 - 3",
-    "fixtureId": 1610860
-  },
-  {
-    "home": "Spartax",
-    "away": "Cruzeiro PB",
-    "comp": "Paraibano 2",
-    "competitionCode": "all",
-    "time": "2026-10-08T13:00:00-05:00",
-    "goals": "1 - 2",
-    "fixtureId": 1610862
-  },
-  {
-    "home": "Argentinos Juniors Res.",
-    "away": "San Lorenzo Res.",
-    "comp": "Reserve League",
-    "competitionCode": "all",
-    "time": "2026-10-08T13:00:00-05:00",
-    "goals": "0 - 1",
-    "fixtureId": 1612074
-  },
-  {
-    "home": "Atlético Tucumán Res.",
-    "away": "Talleres Córdoba Res.",
-    "comp": "Reserve League",
-    "competitionCode": "all",
-    "time": "2026-10-08T13:00:00-05:00",
-    "goals": "2 - 0",
-    "fixtureId": 1612075
-  },
-  {
-    "home": "Belgrano Córdoba Res.",
-    "away": "San Martín San Juan Res.",
-    "comp": "Reserve League",
-    "competitionCode": "all",
-    "time": "2026-10-08T13:00:00-05:00",
-    "goals": "3 - 2",
-    "fixtureId": 1612076
-  },
-  {
-    "home": "Godoy Cruz Res.",
-    "away": "Barracas Central Res.",
-    "comp": "Reserve League",
-    "competitionCode": "all",
-    "time": "2026-10-08T13:00:00-05:00",
+    "time": "2026-10-09T10:00:00-05:00",
     "goals": "0 - 0",
-    "fixtureId": 1612084
+    "fixtureId": 1638086
   },
   {
-    "home": "Lanús Res.",
-    "away": "Central Córdoba SdE Res.",
-    "comp": "Reserve League",
+    "home": "Finland W",
+    "away": "Serbia W",
+    "comp": "World Cup - Women - Qualification Europe",
     "competitionCode": "all",
-    "time": "2026-10-08T13:00:00-05:00",
-    "goals": "3 - 0",
-    "fixtureId": 1612086
-  },
-  {
-    "home": "Sarmiento Res.",
-    "away": "Vélez Sársfield Res.",
-    "comp": "Reserve League",
-    "competitionCode": "all",
-    "time": "2026-10-08T13:00:00-05:00",
-    "goals": "0 - 1",
-    "fixtureId": 1612089
-  },
-  {
-    "home": "Txantrea",
-    "away": "Cortes",
-    "comp": "Tercera División RFEF - Group 15",
-    "competitionCode": "all",
-    "time": "2026-10-08T13:00:00-05:00",
+    "time": "2026-10-09T10:30:00-05:00",
     "goals": "0 - 0",
-    "fixtureId": 1617037
+    "fixtureId": 1557247
   },
   {
-    "home": "River Ebro",
-    "away": "Pradejón",
-    "comp": "Tercera División RFEF - Group 16",
+    "home": "Tabor Sežana",
+    "away": "Rudar",
+    "comp": "2. SNL",
     "competitionCode": "all",
-    "time": "2026-10-08T13:00:00-05:00",
-    "goals": "1 - 2",
-    "fixtureId": 1617344
-  },
-  {
-    "home": "Atlético Mineiro U20",
-    "away": "Athletic Club MG U20",
-    "comp": "Copa do Brasil U20",
-    "competitionCode": "all",
-    "time": "2026-10-08T13:00:00-05:00",
-    "goals": "2 - 1",
-    "fixtureId": 1639227
-  },
-  {
-    "home": "Cruzeiro U20",
-    "away": "Goiás U20",
-    "comp": "Copa do Brasil U20",
-    "competitionCode": "all",
-    "time": "2026-10-08T13:00:00-05:00",
-    "goals": "1 - 2",
-    "fixtureId": 1639231
-  },
-  {
-    "home": "CSA U20",
-    "away": "Santa Cruz AC U20",
-    "comp": "Copa do Brasil U20",
-    "competitionCode": "all",
-    "time": "2026-10-08T13:00:00-05:00",
+    "time": "2026-10-09T10:30:00-05:00",
     "goals": "0 - 0",
-    "fixtureId": 1639232
+    "fixtureId": 1558966
   },
   {
-    "home": "Grêmio U20",
-    "away": "Operário PR U20",
-    "comp": "Copa do Brasil U20",
+    "home": "Neftchi Baku",
+    "away": "Sabah FA",
+    "comp": "Premyer Liqa",
     "competitionCode": "all",
-    "time": "2026-10-08T13:00:00-05:00",
-    "goals": "1 - 3",
-    "fixtureId": 1639233
+    "time": "2026-10-09T10:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1601905
   },
   {
-    "home": "FAR Rabat",
-    "away": "Widad Témara",
-    "comp": "Botola Pro",
+    "home": "Al Musannah",
+    "away": "Sohar",
+    "comp": "Professional League",
     "competitionCode": "all",
-    "time": "2026-10-08T13:00:00-05:00",
-    "goals": "1 - 0",
-    "fixtureId": 1644203
+    "time": "2026-10-09T10:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1642109
   },
   {
-    "home": "CR Khemis Zemamra",
-    "away": "Hassania Agadir",
-    "comp": "Botola Pro",
-    "competitionCode": "all",
-    "time": "2026-10-08T13:00:00-05:00",
-    "goals": "2 - 5",
-    "fixtureId": 1644204
-  },
-  {
-    "home": "Safa",
-    "away": "Reyady Abaseya",
-    "comp": "Premier League",
-    "competitionCode": "EPL",
-    "time": "2026-10-08T13:45:00-05:00",
-    "goals": "2 - 1",
-    "fixtureId": 1642034
-  },
-  {
-    "home": "Shamrock Rovers",
-    "away": "Drogheda United",
-    "comp": "Premier Division",
-    "competitionCode": "all",
-    "time": "2026-10-08T14:00:00-05:00",
-    "goals": "3 - 1",
-    "fixtureId": 1492780
-  },
-  {
-    "home": "MC Oran",
-    "away": "ES Setif",
+    "home": "ASFB",
+    "away": "Majestic",
     "comp": "Ligue 1",
     "competitionCode": "Ligue1",
-    "time": "2026-10-08T14:00:00-05:00",
+    "time": "2026-10-09T10:30:00-05:00",
     "goals": "0 - 0",
-    "fixtureId": 1611408
+    "fixtureId": 1644710
   },
   {
-    "home": "Always Ready",
-    "away": "Nacional Potosí",
-    "comp": "Copa de la División Profesional",
-    "competitionCode": "all",
-    "time": "2026-10-08T14:00:00-05:00",
-    "goals": "2 - 3",
-    "fixtureId": 1619714
-  },
-  {
-    "home": "Atletico FC",
-    "away": "San Antonio",
-    "comp": "Liga Pro Serie B",
-    "competitionCode": "all",
-    "time": "2026-10-08T14:15:00-05:00",
-    "goals": "2 - 1",
-    "fixtureId": 1632438
-  },
-  {
-    "home": "Flamengo U20",
-    "away": "Vasco da Gama U20",
-    "comp": "Copa do Brasil U20",
-    "competitionCode": "all",
-    "time": "2026-10-08T14:30:00-05:00",
-    "goals": "2 - 2",
-    "fixtureId": 1640550
-  },
-  {
-    "home": "Bentín Tacna Heroica",
-    "away": "Carlos A. Mannucci",
-    "comp": "Segunda División",
-    "competitionCode": "all",
-    "time": "2026-10-08T15:00:00-05:00",
+    "home": "CFFEB",
+    "away": "Salitas",
+    "comp": "Ligue 1",
+    "competitionCode": "Ligue1",
+    "time": "2026-10-09T10:30:00-05:00",
     "goals": "0 - 0",
-    "fixtureId": 1640278
+    "fixtureId": 1644711
   },
   {
-    "home": "Maghreb Fès",
-    "away": "Raja Casablanca",
-    "comp": "Botola Pro",
+    "home": "Sharjah FC",
+    "away": "Al-Jazira",
+    "comp": "League Cup",
     "competitionCode": "all",
-    "time": "2026-10-08T15:00:00-05:00",
+    "time": "2026-10-09T10:45:00-05:00",
     "goals": "0 - 0",
-    "fixtureId": 1644205
+    "fixtureId": 1639244
   },
   {
-    "home": "Atletico Grau",
-    "away": "Club Deportivo Los Chankas",
-    "comp": "Primera División",
+    "home": "Haka",
+    "away": "PK-35",
+    "comp": "Ykkösliiga",
     "competitionCode": "all",
-    "time": "2026-10-08T15:30:00-05:00",
+    "time": "2026-10-09T11:00:00-05:00",
     "goals": "0 - 0",
-    "fixtureId": 1549505
+    "fixtureId": 1504317
   },
   {
-    "home": "Depor FC",
-    "away": "Real Cartagena",
-    "comp": "Primera B",
+    "home": "JäPS",
+    "away": "JIPPO",
+    "comp": "Ykkösliiga",
     "competitionCode": "all",
-    "time": "2026-10-08T15:30:00-05:00",
-    "goals": "2 - 2",
-    "fixtureId": 1549595
+    "time": "2026-10-09T11:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1504318
   },
   {
-    "home": "Ind. Yumbo",
-    "away": "Tigres FC",
-    "comp": "Primera B",
+    "home": "KäPa",
+    "away": "MP",
+    "comp": "Ykkösliiga",
     "competitionCode": "all",
-    "time": "2026-10-08T15:30:00-05:00",
-    "goals": "1 - 1",
-    "fixtureId": 1549599
+    "time": "2026-10-09T11:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1504319
   },
   {
-    "home": "Santo Domingo",
-    "away": "LDU Portoviejo",
-    "comp": "Liga Pro Serie B",
+    "home": "Klubi-04",
+    "away": "EIF",
+    "comp": "Ykkösliiga",
     "competitionCode": "all",
-    "time": "2026-10-08T15:30:00-05:00",
-    "goals": "2 - 2",
-    "fixtureId": 1636705
+    "time": "2026-10-09T11:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1504320
   },
   {
-    "home": "São Paulo U20",
-    "away": "Athletico PR U20",
-    "comp": "Copa do Brasil U20",
+    "home": "Dinamo Moskva U19",
+    "away": "Rodina Moscow U19",
+    "comp": "Youth Championship",
     "competitionCode": "all",
-    "time": "2026-10-08T15:30:00-05:00",
-    "goals": "3 - 1",
-    "fixtureId": 1640287
+    "time": "2026-10-09T11:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1519165
   },
   {
-    "home": "Portmore United",
-    "away": "Waterhouse",
+    "home": "Arsenal",
+    "away": "Dinamo Brest",
     "comp": "Premier League",
     "competitionCode": "EPL",
-    "time": "2026-10-08T15:30:00-05:00",
-    "goals": "1 - 1",
-    "fixtureId": 1644709
-  },
-  {
-    "home": "Boca Juniors Res.",
-    "away": "Colón Res.",
-    "comp": "Reserve League",
-    "competitionCode": "all",
-    "time": "2026-10-08T17:00:00-05:00",
-    "goals": "1 - 0",
-    "fixtureId": 1612077
-  },
-  {
-    "home": "Santos",
-    "away": "Flamengo",
-    "comp": "Serie A",
-    "competitionCode": "SerieA",
-    "time": "2026-10-08T17:30:00-05:00",
-    "goals": "2 - 2",
-    "fixtureId": 1492398
-  },
-  {
-    "home": "Ceara",
-    "away": "Criciuma",
-    "comp": "Serie B",
-    "competitionCode": "all",
-    "time": "2026-10-08T17:30:00-05:00",
-    "goals": "1 - 0",
-    "fixtureId": 1520912
-  },
-  {
-    "home": "Nautico Recife",
-    "away": "Novorizontino",
-    "comp": "Serie B",
-    "competitionCode": "all",
-    "time": "2026-10-08T17:30:00-05:00",
-    "goals": "0 - 2",
-    "fixtureId": 1520915
-  },
-  {
-    "home": "Guarabira",
-    "away": "Auto Esporte",
-    "comp": "Paraibano 2",
-    "competitionCode": "all",
-    "time": "2026-10-08T17:30:00-05:00",
-    "goals": "0 - 1",
-    "fixtureId": 1610858
-  },
-  {
-    "home": "Atletico Paranaense",
-    "away": "Atletico-MG",
-    "comp": "Serie A",
-    "competitionCode": "SerieA",
-    "time": "2026-10-08T18:00:00-05:00",
-    "goals": "2 - 2",
-    "fixtureId": 1492390
-  },
-  {
-    "home": "Botafogo U20",
-    "away": "Bahia U20",
-    "comp": "Copa do Brasil U20",
-    "competitionCode": "all",
-    "time": "2026-10-08T18:00:00-05:00",
-    "goals": "1 - 0",
-    "fixtureId": 1639228
-  },
-  {
-    "home": "São Raimundo RR U20",
-    "away": "Nacional AM U20",
-    "comp": "Copa do Brasil U20",
-    "competitionCode": "all",
-    "time": "2026-10-08T18:00:00-05:00",
-    "goals": "4 - 3",
-    "fixtureId": 1639236
-  },
-  {
-    "home": "Atletico Nacional",
-    "away": "Deportes Tolima",
-    "comp": "Primera A",
-    "competitionCode": "all",
-    "time": "2026-10-08T18:05:00-05:00",
+    "time": "2026-10-09T11:00:00-05:00",
     "goals": "0 - 0",
-    "fixtureId": 1549764
+    "fixtureId": 1525991
   },
   {
-    "home": "Blooming",
-    "away": "Bolívar",
-    "comp": "Copa de la División Profesional",
+    "home": "HNK Gorica",
+    "away": "Rudes",
+    "comp": "HNL",
     "competitionCode": "all",
-    "time": "2026-10-08T19:00:00-05:00",
-    "goals": "1 - 1",
-    "fixtureId": 1619715
+    "time": "2026-10-09T11:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1548537
   },
   {
-    "home": "Fluminense",
-    "away": "Coritiba",
-    "comp": "Serie A",
-    "competitionCode": "SerieA",
-    "time": "2026-10-08T19:30:00-05:00",
-    "goals": "4 - 0",
-    "fixtureId": 1492394
-  },
-  {
-    "home": "Palmeiras",
-    "away": "Bahia",
-    "comp": "Serie A",
-    "competitionCode": "SerieA",
-    "time": "2026-10-08T19:30:00-05:00",
-    "goals": "1 - 0",
-    "fixtureId": 1492396
-  },
-  {
-    "home": "Antigua GFC",
-    "away": "Municipal",
-    "comp": "Liga Nacional",
+    "home": "Vejle",
+    "away": "Hvidovre",
+    "comp": "1. Division",
     "competitionCode": "all",
-    "time": "2026-10-08T20:00:00-05:00",
-    "goals": "1 - 1",
-    "fixtureId": 1559643
+    "time": "2026-10-09T11:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1551351
   },
   {
-    "home": "Alebrijes de Oaxaca",
-    "away": "Correcaminos Uat",
-    "comp": "Liga de Expansión MX",
+    "home": "Wieczysta Kraków",
+    "away": "Wisla Plock",
+    "comp": "Ekstraklasa",
     "competitionCode": "all",
-    "time": "2026-10-08T20:00:00-05:00",
-    "goals": "2 - 1",
-    "fixtureId": 1581444
+    "time": "2026-10-09T11:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1553190
   },
   {
-    "home": "Fortaleza FC",
-    "away": "Millonarios",
-    "comp": "Primera A",
+    "home": "Albania W",
+    "away": "Wales W",
+    "comp": "World Cup - Women - Qualification Europe",
     "competitionCode": "all",
-    "time": "2026-10-08T20:10:00-05:00",
-    "goals": "1 - 1",
-    "fixtureId": 1549817
+    "time": "2026-10-09T11:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1557242
   },
   {
-    "home": "FAS",
-    "away": "Alianza",
-    "comp": "Primera Division",
+    "home": "Kosovo W",
+    "away": "Austria W",
+    "comp": "World Cup - Women - Qualification Europe",
     "competitionCode": "all",
-    "time": "2026-10-08T20:30:00-05:00",
-    "goals": "2 - 1",
-    "fixtureId": 1600599
+    "time": "2026-10-09T11:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1557252
   },
   {
-    "home": "Inter San Carlos",
-    "away": "Perez Zeledon",
+    "home": "Slovakia W",
+    "away": "Ukraine W",
+    "comp": "World Cup - Women - Qualification Europe",
+    "competitionCode": "all",
+    "time": "2026-10-09T11:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1557256
+  },
+  {
+    "home": "Turkey W",
+    "away": "Slovenia W",
+    "comp": "World Cup - Women - Qualification Europe",
+    "competitionCode": "all",
+    "time": "2026-10-09T11:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1557257
+  },
+  {
+    "home": "Vysočina Jihlava",
+    "away": "Prostějov",
+    "comp": "FNL",
+    "competitionCode": "all",
+    "time": "2026-10-09T11:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1559795
+  },
+  {
+    "home": "Táborsko",
+    "away": "Karviná",
+    "comp": "FNL",
+    "competitionCode": "all",
+    "time": "2026-10-09T11:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1559798
+  },
+  {
+    "home": "Ústí nad Labem",
+    "away": "Opava",
+    "comp": "FNL",
+    "competitionCode": "all",
+    "time": "2026-10-09T11:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1559800
+  },
+  {
+    "home": "Zlin",
+    "away": "Slavia Praha",
+    "comp": "Czech Liga",
+    "competitionCode": "all",
+    "time": "2026-10-09T11:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1560040
+  },
+  {
+    "home": "Chojniczanka Chojnice",
+    "away": "Podhale Nowy Targ",
+    "comp": "II Liga - East",
+    "competitionCode": "all",
+    "time": "2026-10-09T11:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1561680
+  },
+  {
+    "home": "Písek",
+    "away": "Viktoria Plzeň II",
+    "comp": "3. liga - CFL A",
+    "competitionCode": "all",
+    "time": "2026-10-09T11:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1562664
+  },
+  {
+    "home": "Elana Toruń",
+    "away": "Flota Świnoujście",
+    "comp": "III Liga - Group 2",
+    "competitionCode": "all",
+    "time": "2026-10-09T11:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1568827
+  },
+  {
+    "home": "Velež",
+    "away": "Siroki Brijeg",
+    "comp": "Premijer Liga",
+    "competitionCode": "all",
+    "time": "2026-10-09T11:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1582809
+  },
+  {
+    "home": "Karlovac 1919",
+    "away": "Bsk Bijelo Brdo",
+    "comp": "First NL",
+    "competitionCode": "all",
+    "time": "2026-10-09T11:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1590179
+  },
+  {
+    "home": "Dodoma Jiji",
+    "away": "Singida Black Stars",
+    "comp": "Ligi kuu Bara",
+    "competitionCode": "all",
+    "time": "2026-10-09T11:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1600786
+  },
+  {
+    "home": "Karmiotissa",
+    "away": "Omonia Nicosia",
+    "comp": "1. Division",
+    "competitionCode": "all",
+    "time": "2026-10-09T11:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1603575
+  },
+  {
+    "home": "Potkozarje",
+    "away": "Slavija",
+    "comp": "1st League - RS",
+    "competitionCode": "all",
+    "time": "2026-10-09T11:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1610037
+  },
+  {
+    "home": "Utiel",
+    "away": "Levante II",
+    "comp": "Tercera División RFEF - Group 6",
+    "competitionCode": "all",
+    "time": "2026-10-09T11:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1614285
+  },
+  {
+    "home": "CSM Targu Jiu",
+    "away": "Unirea Bascov",
+    "comp": "Liga III - Serie 6",
+    "competitionCode": "all",
+    "time": "2026-10-09T11:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1633524
+  },
+  {
+    "home": "Estonia W",
+    "away": "Czechia U23 W",
+    "comp": "Friendlies Women",
+    "competitionCode": "all",
+    "time": "2026-10-09T11:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1641696
+  },
+  {
+    "home": "Drita",
+    "away": "Malisheva",
+    "comp": "Superliga",
+    "competitionCode": "all",
+    "time": "2026-10-09T11:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1642099
+  },
+  {
+    "home": "Khalidiya",
+    "away": "Muharraq",
+    "comp": "Premier League",
+    "competitionCode": "EPL",
+    "time": "2026-10-09T11:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1643394
+  },
+  {
+    "home": "Malkiya",
+    "away": "Al Riffa",
+    "comp": "Premier League",
+    "competitionCode": "EPL",
+    "time": "2026-10-09T11:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1643395
+  },
+  {
+    "home": "Lithuania W",
+    "away": "Sweden W",
+    "comp": "World Cup - Women - Qualification Europe",
+    "competitionCode": "all",
+    "time": "2026-10-09T11:05:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1557253
+  },
+  {
+    "home": "Herd",
+    "away": "Spjelkavik",
+    "comp": "3. Division - Girone 2",
+    "competitionCode": "all",
+    "time": "2026-10-09T11:15:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1496716
+  },
+  {
+    "home": "Belarus W",
+    "away": "Italy W",
+    "comp": "World Cup - Women - Qualification Europe",
+    "competitionCode": "all",
+    "time": "2026-10-09T11:15:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1557243
+  },
+  {
+    "home": "Tartu Welco",
+    "away": "Elva",
+    "comp": "Esiliiga A",
+    "competitionCode": "all",
+    "time": "2026-10-09T11:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1519652
+  },
+  {
+    "home": "Greece W",
+    "away": "England W",
+    "comp": "World Cup - Women - Qualification Europe",
+    "competitionCode": "all",
+    "time": "2026-10-09T11:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1557248
+  },
+  {
+    "home": "FC Rostov",
+    "away": "Akron",
+    "comp": "Premier League",
+    "competitionCode": "EPL",
+    "time": "2026-10-09T11:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1561406
+  },
+  {
+    "home": "SKU Amstetten",
+    "away": "FC BW Linz",
+    "comp": "2. Liga",
+    "competitionCode": "all",
+    "time": "2026-10-09T11:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1567917
+  },
+  {
+    "home": "SV Kapfenberg",
+    "away": "Austria Vienna (Am)",
+    "comp": "2. Liga",
+    "competitionCode": "all",
+    "time": "2026-10-09T11:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1567921
+  },
+  {
+    "home": "Wiślanie Jaśkowice",
+    "away": "Siarka Tarnobrzeg",
+    "comp": "III Liga - Group 4",
+    "competitionCode": "all",
+    "time": "2026-10-09T11:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1568204
+  },
+  {
+    "home": "Eintracht Braunschweig",
+    "away": "Holstein Kiel",
+    "comp": "2. Bundesliga",
+    "competitionCode": "all",
+    "time": "2026-10-09T11:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1576189
+  },
+  {
+    "home": "1. FC Heidenheim",
+    "away": "1. FC Kaiserslautern",
+    "comp": "2. Bundesliga",
+    "competitionCode": "all",
+    "time": "2026-10-09T11:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1576191
+  },
+  {
+    "home": "Arsenal Tula",
+    "away": "Spartak Kostroma",
+    "comp": "First League",
+    "competitionCode": "all",
+    "time": "2026-10-09T11:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1577540
+  },
+  {
+    "home": "Villarreal III",
+    "away": "Buñol",
+    "comp": "Tercera División RFEF - Group 6",
+    "competitionCode": "all",
+    "time": "2026-10-09T11:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1614286
+  },
+  {
+    "home": "Katsina United",
+    "away": "Enyimba",
+    "comp": "NPFL",
+    "competitionCode": "all",
+    "time": "2026-10-09T11:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1628544
+  },
+  {
+    "home": "Al Jazeera",
+    "away": "Al Wihdat",
+    "comp": "League",
+    "competitionCode": "all",
+    "time": "2026-10-09T11:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1643358
+  },
+  {
+    "home": "Croatia W",
+    "away": "Iceland W",
+    "comp": "World Cup - Women - Qualification Europe",
+    "competitionCode": "all",
+    "time": "2026-10-09T11:45:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1557245
+  },
+  {
+    "home": "JS Kabylie",
+    "away": "ASO Chlef",
+    "comp": "Ligue 1",
+    "competitionCode": "Ligue1",
+    "time": "2026-10-09T11:45:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1611406
+  },
+  {
+    "home": "Naft",
+    "away": "Diyala",
+    "comp": "Iraqi League",
+    "competitionCode": "all",
+    "time": "2026-10-09T11:45:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1627993
+  },
+  {
+    "home": "IFK Goteborg",
+    "away": "Vasteras SK FK",
+    "comp": "Allsvenskan",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1494292
+  },
+  {
+    "home": "Brann",
+    "away": "Viking",
+    "comp": "Eliteserien",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1494774
+  },
+  {
+    "home": "Sollentuna",
+    "away": "Stocksund",
+    "comp": "Ettan - Norra",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1505298
+  },
+  {
+    "home": "Varketili",
+    "away": "Dinamo Tbilisi II",
+    "comp": "Liga 3",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1507456
+  },
+  {
+    "home": "IFK Skövde",
+    "away": "Skara",
+    "comp": "Division 2 - Norra Götaland",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1510693
+  },
+  {
+    "home": "FC Nordsjaelland",
+    "away": "Odense",
+    "comp": "Superliga",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1549031
+  },
+  {
+    "home": "AB Copenhagen",
+    "away": "Aarhus Fremad",
+    "comp": "1. Division",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1551347
+  },
+  {
+    "home": "Czechia W",
+    "away": "Scotland W",
+    "comp": "World Cup - Women - Qualification Europe",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1557246
+  },
+  {
+    "home": "Romania W",
+    "away": "Norway W",
+    "comp": "World Cup - Women - Qualification Europe",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1557255
+  },
+  {
+    "home": "Spartak Myjava",
+    "away": "Častkovce",
+    "comp": "3. liga - West",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1566114
+  },
+  {
+    "home": "Concordia",
+    "away": "HT16",
+    "comp": "Oberliga - Hamburg",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1566370
+  },
+  {
+    "home": "Cham",
+    "away": "DJK Bamberg",
+    "comp": "Oberliga - Bayern Nord",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1566810
+  },
+  {
+    "home": "Neudrossenfeld",
+    "away": "ASV Neumarkt",
+    "comp": "Oberliga - Bayern Nord",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1566811
+  },
+  {
+    "home": "Kornburg",
+    "away": "Ingolstadt II",
+    "comp": "Oberliga - Bayern Nord",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1566813
+  },
+  {
+    "home": "Erlbach",
+    "away": "TuS Geretsried",
+    "comp": "Oberliga - Bayern Süd",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1567090
+  },
+  {
+    "home": "1860 Rosenheim",
+    "away": "Pipinsried",
+    "comp": "Oberliga - Bayern Süd",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1567091
+  },
+  {
+    "home": "1880 Wasserburg",
+    "away": "Pfaffenhofen",
+    "comp": "Oberliga - Bayern Süd",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1567263
+  },
+  {
+    "home": "Polonia Środa",
+    "away": "Kluczevia Stargard",
+    "comp": "III Liga - Group 2",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1568826
+  },
+  {
+    "home": "Warta Sieradz",
+    "away": "Wigry Suwałki",
+    "comp": "III Liga - Group 1",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1569130
+  },
+  {
+    "home": "Etar Veliko Tarnovo",
+    "away": "Fratria",
+    "comp": "Second League",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1571584
+  },
+  {
+    "home": "Mannsdorf-Großenzersdorf",
+    "away": "Mattersburg SV 2020",
+    "comp": "Regionalliga - Ost",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1574122
+  },
+  {
+    "home": "Parndorf",
+    "away": "Wiener SC",
+    "comp": "Regionalliga - Ost",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1574123
+  },
+  {
+    "home": "Penafiel",
+    "away": "AVS",
+    "comp": "Segunda Liga",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1576499
+  },
+  {
+    "home": "Sundby",
+    "away": "Ishøj",
+    "comp": "3. Division",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1577798
+  },
+  {
+    "home": "Balingen",
+    "away": "FC Holzhausen",
+    "comp": "Oberliga - Baden-Württemberg",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1582458
+  },
+  {
+    "home": "Preußen Münster",
+    "away": "Rot-Weiß Essen",
+    "comp": "3. Liga",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1584021
+  },
+  {
+    "home": "Galatasaray",
+    "away": "Kasımpaşa",
+    "comp": "Süper Lig",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1584424
+  },
+  {
+    "home": "Ümraniyespor",
+    "away": "Sarıyer",
+    "comp": "1. Lig",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1585777
+  },
+  {
+    "home": "Vanspor FK",
+    "away": "Bandırmaspor",
+    "comp": "1. Lig",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1585778
+  },
+  {
+    "home": "Bayern München II",
+    "away": "SpVgg Unterhaching",
+    "comp": "Regionalliga - Bayern",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1586249
+  },
+  {
+    "home": "FC Schweinfurt 05",
+    "away": "Eltersdorf",
+    "comp": "Regionalliga - Bayern",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1586255
+  },
+  {
+    "home": "Werder Bremen II",
+    "away": "Atlas Delmenhorst",
+    "comp": "Regionalliga - Nord",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1586598
+  },
+  {
+    "home": "Altglienicke",
+    "away": "BFC Dynamo",
+    "comp": "Regionalliga - Nordost",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1586887
+  },
+  {
+    "home": "BSG Chemie Leipzig",
+    "away": "Luckenwalde",
+    "comp": "Regionalliga - Nordost",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1586890
+  },
+  {
+    "home": "FSV Zwickau",
+    "away": "Tasmania Berlin",
+    "comp": "Regionalliga - Nordost",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1586895
+  },
+  {
+    "home": "Kickers Offenbach",
+    "away": "FC 08 Homburg",
+    "comp": "Regionalliga - SudWest",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1587187
+  },
+  {
+    "home": "Al Sadd",
+    "away": "Al-Arabi SC",
+    "comp": "Stars League",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1597933
+  },
+  {
+    "home": "Kalsdorf",
+    "away": "Gleisdorf 09",
+    "comp": "Regionalliga - South",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1607977
+  },
+  {
+    "home": "Weiz",
+    "away": "Allerheiligen",
+    "comp": "Regionalliga - South",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1607978
+  },
+  {
+    "home": "Tillmitsch",
+    "away": "SV Lafnitz",
+    "comp": "Regionalliga - South",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1607979
+  },
+  {
+    "home": "Wolfsberg",
+    "away": "Velden",
+    "comp": "Regionalliga - South",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1607981
+  },
+  {
+    "home": "Bad Schallerbach",
+    "away": "Wallern / Marienkirchen",
+    "comp": "Regionalliga - North",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1608090
+  },
+  {
+    "home": "Gurten",
+    "away": "Wals-Grünau",
+    "comp": "Regionalliga - North",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1608091
+  },
+  {
+    "home": "SK Vorwarts Steyr",
+    "away": "Kuchl",
+    "comp": "Regionalliga - North",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1608092
+  },
+  {
+    "home": "Gorilla",
+    "away": "Rayon Sports",
+    "comp": "National Soccer League",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1632490
+  },
+  {
+    "home": "Gaborone United",
+    "away": "Morupule Wanderers",
+    "comp": "Premier League",
+    "competitionCode": "EPL",
+    "time": "2026-10-09T12:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1634077
+  },
+  {
+    "home": "Tonota",
+    "away": "Sua Flamingoes",
+    "comp": "Premier League",
+    "competitionCode": "EPL",
+    "time": "2026-10-09T12:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1634083
+  },
+  {
+    "home": "URA",
+    "away": "KCCA",
+    "comp": "Premier League",
+    "competitionCode": "EPL",
+    "time": "2026-10-09T12:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1635277
+  },
+  {
+    "home": "Malta W",
+    "away": "Luxembourg W",
+    "comp": "Friendlies Women",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1640025
+  },
+  {
+    "home": "Kazma",
+    "away": "Al Arabi",
+    "comp": "Premier League",
+    "competitionCode": "EPL",
+    "time": "2026-10-09T12:05:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1622650
+  },
+  {
+    "home": "Finnsnes",
+    "away": "Ulfstind",
+    "comp": "3. Division - Girone 5",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:15:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1497263
+  },
+  {
+    "home": "BFA",
+    "away": "Žalgiris II",
+    "comp": "1 Lyga",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:15:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1556466
+  },
+  {
+    "home": "UFC Hallein",
+    "away": "TSV St. Johann",
+    "comp": "Regionalliga - North",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:15:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1608093
+  },
+  {
+    "home": "Austria Klagenfurt",
+    "away": "Bleiburg",
+    "comp": "Regionalliga - South",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:20:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1607982
+  },
+  {
+    "home": "Aldosivi",
+    "away": "Sarmiento Junin",
+    "comp": "Liga Profesional Argentina",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1493167
+  },
+  {
+    "home": "Lindome",
+    "away": "Böljan",
+    "comp": "Division 2 - Västra Götaland",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1511425
+  },
+  {
+    "home": "SC Kriens",
+    "away": "FC WIL 1900",
+    "comp": "Challenge League",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1555063
+  },
+  {
+    "home": "Rapperswil",
+    "away": "Stade Lausanne-Ouchy",
+    "comp": "Challenge League",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1555064
+  },
+  {
+    "home": "Neuchatel Xamax FC",
+    "away": "FC Winterthur",
+    "comp": "Challenge League",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1555066
+  },
+  {
+    "home": "ETSV Hamburg",
+    "away": "Niendorfer TSV",
+    "comp": "Oberliga - Hamburg",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1566371
+  },
+  {
+    "home": "Harksheide",
+    "away": "Norderstedt II",
+    "comp": "Oberliga - Hamburg",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1566372
+  },
+  {
+    "home": "Traiskirchen",
+    "away": "Oberwart",
+    "comp": "Regionalliga - Ost",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1574124
+  },
+  {
+    "home": "Krems / Rehberg",
+    "away": "Wiener Viktoria",
+    "comp": "Regionalliga - Ost",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1574126
+  },
+  {
+    "home": "Heeslinger SC",
+    "away": "Drochtersen/Assel II",
+    "comp": "Oberliga - Niedersachsen",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1588989
+  },
+  {
+    "home": "Fortuna Düsseldorf II",
+    "away": "Büderich",
+    "comp": "Oberliga - Niederrhein",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1592537
+  },
+  {
+    "home": "KFC Uerdingen 05",
+    "away": "Solingen-Wald",
+    "comp": "Oberliga - Niederrhein",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1592753
+  },
+  {
+    "home": "Leher TS",
+    "away": "BTS Neustadt",
+    "comp": "Oberliga - Bremen",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1604261
+  },
+  {
+    "home": "Oberneuland",
+    "away": "Geestemünde",
+    "comp": "Oberliga - Bremen",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1604262
+  },
+  {
+    "home": "Wettswil-Bonstetten",
+    "away": "Winterthur II",
+    "comp": "1. Liga Classic - Group 3",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1609693
+  },
+  {
+    "home": "Gharraf",
+    "away": "Al-Jolan SC",
+    "comp": "Iraqi League",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1627989
+  },
+  {
+    "home": "Teutonia Ottensen",
+    "away": "Vorwärts-Wacker 04",
+    "comp": "Oberliga - Hamburg",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:45:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1566375
+  },
+  {
+    "home": "Moreirense",
+    "away": "GIL Vicente",
+    "comp": "Primeira Liga",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:45:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1575516
+  },
+  {
+    "home": "Huarte",
+    "away": "Gazte Berriak",
+    "comp": "Tercera División RFEF - Group 15",
+    "competitionCode": "all",
+    "time": "2026-10-09T12:45:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1617035
+  },
+  {
+    "home": "Almere City FC",
+    "away": "FC Eindhoven",
+    "comp": "Eerste Divisie",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1551827
+  },
+  {
+    "home": "De Graafschap",
+    "away": "Jong Utrecht",
+    "comp": "Eerste Divisie",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1551828
+  },
+  {
+    "home": "Dordrecht",
+    "away": "Emmen",
+    "comp": "Eerste Divisie",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1551829
+  },
+  {
+    "home": "FC Volendam",
+    "away": "Vitesse",
+    "comp": "Eerste Divisie",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1551830
+  },
+  {
+    "home": "Heracles",
+    "away": "Waalwijk",
+    "comp": "Eerste Divisie",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1551831
+  },
+  {
+    "home": "Jong Ajax",
+    "away": "VVV Venlo",
+    "comp": "Eerste Divisie",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1551832
+  },
+  {
+    "home": "Jong AZ",
+    "away": "Den Bosch",
+    "comp": "Eerste Divisie",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1551833
+  },
+  {
+    "home": "NAC Breda",
+    "away": "MVV",
+    "comp": "Eerste Divisie",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1551834
+  },
+  {
+    "home": "FC OSS",
+    "away": "Helmond Sport",
+    "comp": "Eerste Divisie",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1551835
+  },
+  {
+    "home": "Roda",
+    "away": "Jong PSV U21",
+    "comp": "Eerste Divisie",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1551836
+  },
+  {
+    "home": "PSV Eindhoven",
+    "away": "Heerenveen",
+    "comp": "Eredivisie",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1552180
+  },
+  {
+    "home": "Dunkerque",
+    "away": "Annecy",
+    "comp": "Ligue 2",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1552488
+  },
+  {
+    "home": "Montpellier",
+    "away": "Grenoble",
+    "comp": "Ligue 2",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1552489
+  },
+  {
+    "home": "Nancy",
+    "away": "Guingamp",
+    "comp": "Ligue 2",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1552490
+  },
+  {
+    "home": "PAU",
+    "away": "Laval",
+    "comp": "Ligue 2",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1552492
+  },
+  {
+    "home": "Sochaux",
+    "away": "Boulogne",
+    "comp": "Ligue 2",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1552493
+  },
+  {
+    "home": "Hungary W",
+    "away": "Netherlands W",
+    "comp": "World Cup - Women - Qualification Europe",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1557249
+  },
+  {
+    "home": "Northern Ireland W",
+    "away": "Portugal W",
+    "comp": "World Cup - Women - Qualification Europe",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1557254
+  },
+  {
+    "home": "RSC Anderlecht II",
+    "away": "AS Eupen",
+    "comp": "Challenger Pro League",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1559169
+  },
+  {
+    "home": "Dender",
+    "away": "Club Brugge II",
+    "comp": "Challenger Pro League",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1559171
+  },
+  {
+    "home": "Sepsi OSK Sfantu Gheorghe",
+    "away": "Dinamo Bucuresti",
+    "comp": "Liga I",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1565269
+  },
+  {
+    "home": "Mecklenburg Schwerin",
+    "away": "Hansa Rostock II",
+    "comp": "Oberliga - Nordost-Nord",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1577014
+  },
+  {
+    "home": "Mosta",
+    "away": "Birzebbuga",
+    "comp": "Premier League",
+    "competitionCode": "EPL",
+    "time": "2026-10-09T13:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1582285
+  },
+  {
+    "home": "Venda Nova",
+    "away": "Inter de Minas",
+    "comp": "Mineiro - 3",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1582350
+  },
+  {
+    "home": "Bersenbrück",
+    "away": "Nordhorn",
+    "comp": "Oberliga - Niedersachsen",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1588990
+  },
+  {
+    "home": "Wilhelmshaven",
+    "away": "BW Lohne",
+    "comp": "Oberliga - Niedersachsen",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1588991
+  },
+  {
+    "home": "Nação",
+    "away": "Marcílio Dias",
+    "comp": "Copa Santa Catarina",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1597996
+  },
+  {
+    "home": "Mechtersheim",
+    "away": "Ahrweiler",
+    "comp": "Oberliga - Rheinland-Pfalz / Saar",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1598933
+  },
+  {
+    "home": "Petrópolis",
+    "away": "Artsul",
+    "comp": "Carioca - 2",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1600257
+  },
+  {
+    "home": "Coastal Union",
+    "away": "Azam",
+    "comp": "Ligi kuu Bara",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1600783
+  },
+  {
+    "home": "Al-Nassr",
+    "away": "Al Diriyah",
+    "comp": "Pro League",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1603042
+  },
+  {
+    "home": "Bornheim",
+    "away": "Neunkirchen-Seelscheid",
+    "comp": "Oberliga - Mittelrhein",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1610335
+  },
+  {
+    "home": "RFC Seraing Reserve U21",
+    "away": "Lierse K. U21",
+    "comp": "Reserve Pro League",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1611635
+  },
+  {
+    "home": "RFC de Liege U21",
+    "away": "RAAL La Louviere U21",
+    "comp": "Reserve Pro League",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1611636
+  },
+  {
+    "home": "K. Beerschot V.A. Reserve U21",
+    "away": "Sp. Hasselt U21",
+    "comp": "Reserve Pro League",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1611713
+  },
+  {
+    "home": "Santa Amalia",
+    "away": "Villafranca",
+    "comp": "Tercera División RFEF - Group 14",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1616732
+  },
+  {
+    "home": "Birmingham City U21",
+    "away": "Huddersfield Town U21",
+    "comp": "Premier League Cup",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1627085
+  },
+  {
+    "home": "Brighton U21",
+    "away": "Sheffield United U21",
+    "comp": "Premier League Cup",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1627086
+  },
+  {
+    "home": "Burnley U21",
+    "away": "Preston North End U21",
+    "comp": "Premier League Cup",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1627087
+  },
+  {
+    "home": "Cardiff City U21",
+    "away": "Leicester City U21",
+    "comp": "Premier League Cup",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1627088
+  },
+  {
+    "home": "Ipswich Town U21",
+    "away": "West Bromwich Albion U21",
+    "comp": "Premier League Cup",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1627089
+  },
+  {
+    "home": "Leeds United U21",
+    "away": "Stockport County U21",
+    "comp": "Premier League Cup",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1627090
+  },
+  {
+    "home": "Millwall U21",
+    "away": "West Ham United U21",
+    "comp": "Premier League Cup",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1627091
+  },
+  {
+    "home": "Newcastle United U21",
+    "away": "Luton Town U21",
+    "comp": "Premier League Cup",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1627092
+  },
+  {
+    "home": "Peterborough United U21",
+    "away": "Nottingham Forest U21",
+    "comp": "Premier League Cup",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1627093
+  },
+  {
+    "home": "Reading U21",
+    "away": "Norwich City U21",
+    "comp": "Premier League Cup",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1627094
+  },
+  {
+    "home": "Southampton U21",
+    "away": "Queens Park Rangers U21",
+    "comp": "Premier League Cup",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1627095
+  },
+  {
+    "home": "Stoke City U21",
+    "away": "Charlton Athletic U21",
+    "comp": "Premier League Cup",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1627096
+  },
+  {
+    "home": "Wolves U21",
+    "away": "Fleetwood Town U21",
+    "comp": "Premier League Cup",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1627097
+  },
+  {
+    "home": "Libertad",
+    "away": "Leones del Norte",
+    "comp": "Liga Pro",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1639851
+  },
+  {
+    "home": "Haiti W",
+    "away": "Japan W",
+    "comp": "Friendlies Women",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1640026
+  },
+  {
+    "home": "Flamengo SP U20",
+    "away": "RB Bragantino U20",
+    "comp": "Paulista - U20",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1643515
+  },
+  {
+    "home": "Portuguesa Santista U20",
+    "away": "Corinthians U20",
+    "comp": "Paulista - U20",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1643516
+  },
+  {
+    "home": "Santo André U20",
+    "away": "Juventus U20",
+    "comp": "Paulista - U20",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1643517
+  },
+  {
+    "home": "Sfera U20",
+    "away": "Guarani U20",
+    "comp": "Paulista - U20",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1643518
+  },
+  {
+    "home": "Étoile Carouge",
+    "away": "Yverdon Sport",
+    "comp": "Challenge League",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:15:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1555062
+  },
+  {
+    "home": "Stade Nyonnais",
+    "away": "FC Aarau",
+    "comp": "Challenge League",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:15:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1555065
+  },
+  {
+    "home": "Belgium W",
+    "away": "Poland W",
+    "comp": "World Cup - Women - Qualification Europe",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:15:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1557244
+  },
+  {
+    "home": "Portalban / Gletterens",
+    "away": "Coffrane",
+    "comp": "1. Liga Classic - Group 1",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:15:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1604877
+  },
+  {
+    "home": "Raków Częstochowa",
+    "away": "GKS Katowice",
+    "comp": "Ekstraklasa",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1553188
+  },
+  {
+    "home": "Podbeskidzie",
+    "away": "Pogoń Siedlce",
+    "comp": "I Liga",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1558234
+  },
+  {
+    "home": "First Vienna",
+    "away": "SKN ST. Polten",
+    "comp": "2. Liga",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1567919
+  },
+  {
+    "home": "Borussia Dortmund",
+    "away": "Werder Bremen",
+    "comp": "Bundesliga",
+    "competitionCode": "Bundesliga",
+    "time": "2026-10-09T13:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1575176
+  },
+  {
+    "home": "Afan Lido",
+    "away": "Swansea University",
+    "comp": "FAW Championship",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1580767
+  },
+  {
+    "home": "Avellino",
+    "away": "Sampdoria",
+    "comp": "Serie B",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1601544
+  },
+  {
+    "home": "Union Brescia",
+    "away": "PRO Vercelli",
+    "comp": "Serie C - Girone A",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1608312
+  },
+  {
+    "home": "Francs Borains U21",
+    "away": "RWDM U21",
+    "comp": "Reserve Pro League",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1611637
+  },
+  {
+    "home": "Westerlo U21",
+    "away": "Kortrijk U21",
+    "comp": "Reserve Pro League",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1611638
+  },
+  {
+    "home": "Valle Egüés",
+    "away": "Doneztebe FT",
+    "comp": "Tercera División RFEF - Group 15",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1617034
+  },
+  {
+    "home": "Germany W",
+    "away": "Australia W",
+    "comp": "Friendlies Women",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1628973
+  },
+  {
+    "home": "Derry City",
+    "away": "St Patrick's Athl.",
+    "comp": "Premier Division",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:45:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1492776
+  },
+  {
+    "home": "Shelbourne",
+    "away": "Sligo Rovers",
+    "comp": "Premier Division",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:45:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1492778
+  },
+  {
+    "home": "Waterford",
+    "away": "Galway United",
+    "comp": "Premier Division",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:45:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1492779
+  },
+  {
+    "home": "Athlone Town",
+    "away": "Treaty United",
+    "comp": "First Division",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:45:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1492990
+  },
+  {
+    "home": "Bray Wanderers",
+    "away": "Wexford",
+    "comp": "First Division",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:45:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1492991
+  },
+  {
+    "home": "Cobh Ramblers",
+    "away": "Kerry",
+    "comp": "First Division",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:45:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1492992
+  },
+  {
+    "home": "Cork City",
+    "away": "Finn Harps",
+    "comp": "First Division",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:45:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1492993
+  },
+  {
+    "home": "UCD",
+    "away": "Longford Town",
+    "comp": "First Division",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:45:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1492994
+  },
+  {
+    "home": "Lens",
+    "away": "Lyon",
+    "comp": "Ligue 1",
+    "competitionCode": "Ligue1",
+    "time": "2026-10-09T13:45:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1552775
+  },
+  {
+    "home": "SK Beveren",
+    "away": "Lommel United",
+    "comp": "Jupiler Pro League",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:45:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1558644
+  },
+  {
+    "home": "Portadown",
+    "away": "Glentoran",
+    "comp": "Premiership",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:45:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1562091
+  },
+  {
+    "home": "Newington Youth",
+    "away": "Ards",
+    "comp": "Championship",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:45:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1564889
+  },
+  {
+    "home": "Newry City AFC",
+    "away": "Dundela",
+    "comp": "Championship",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:45:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1564890
+  },
+  {
+    "home": "Rathfriland",
+    "away": "Armagh City",
+    "comp": "Championship",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:45:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1564892
+  },
+  {
+    "home": "Briton Ferry",
+    "away": "GAP Connah S Quay FC",
+    "comp": "Premier League",
+    "competitionCode": "EPL",
+    "time": "2026-10-09T13:45:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1575980
+  },
+  {
+    "home": "Cambrian & Clydach",
+    "away": "Ammanford AFC",
+    "comp": "Premier League",
+    "competitionCode": "EPL",
+    "time": "2026-10-09T13:45:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1575981
+  },
+  {
+    "home": "Cardiff MET",
+    "away": "Trefelin",
+    "comp": "Premier League",
+    "competitionCode": "EPL",
+    "time": "2026-10-09T13:45:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1575982
+  },
+  {
+    "home": "Haverfordwest County AFC",
+    "away": "Caernarfon Town",
+    "comp": "Premier League",
+    "competitionCode": "EPL",
+    "time": "2026-10-09T13:45:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1575984
+  },
+  {
+    "home": "Holywell",
+    "away": "The New Saints",
+    "comp": "Premier League",
+    "competitionCode": "EPL",
+    "time": "2026-10-09T13:45:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1575985
+  },
+  {
+    "home": "Llandudno",
+    "away": "Airbus UK",
+    "comp": "Premier League",
+    "competitionCode": "EPL",
+    "time": "2026-10-09T13:45:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1575986
+  },
+  {
+    "home": "Penybont",
+    "away": "Barry Town",
+    "comp": "Premier League",
+    "competitionCode": "EPL",
+    "time": "2026-10-09T13:45:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1575987
+  },
+  {
+    "home": "Bala Town",
+    "away": "Buckley Town",
+    "comp": "FAW Championship",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:45:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1580527
+  },
+  {
+    "home": "Ruthin Town",
+    "away": "Rhyl",
+    "comp": "FAW Championship",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:45:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1580528
+  },
+  {
+    "home": "Caerphilly Athletic",
+    "away": "Newport City",
+    "comp": "FAW Championship",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:45:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1580768
+  },
+  {
+    "home": "Sutton Utd",
+    "away": "Boreham Wood",
+    "comp": "National League",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:45:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1585281
+  },
+  {
+    "home": "Bohemians",
+    "away": "Waterford",
+    "comp": "FAI Cup",
+    "competitionCode": "all",
+    "time": "2026-10-09T13:45:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1638616
+  },
+  {
+    "home": "West Ham",
+    "away": "QPR",
+    "comp": "Championship",
+    "competitionCode": "all",
+    "time": "2026-10-09T14:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1563190
+  },
+  {
+    "home": "Malaga",
+    "away": "Espanyol",
+    "comp": "La Liga",
+    "competitionCode": "LaLiga",
+    "time": "2026-10-09T14:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1570408
+  },
+  {
+    "home": "Ibiza",
+    "away": "Real Madrid II",
+    "comp": "Primera División RFEF - Group 2",
+    "competitionCode": "all",
+    "time": "2026-10-09T14:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1571165
+  },
+  {
+    "home": "MC Alger",
+    "away": "Témouchent",
+    "comp": "Ligue 1",
+    "competitionCode": "Ligue1",
+    "time": "2026-10-09T14:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1611407
+  },
+  {
+    "home": "San Antonio Bulo Bulo",
+    "away": "Real Tomayapo",
     "comp": "Primera División",
     "competitionCode": "all",
-    "time": "2026-10-08T21:00:00-05:00",
+    "time": "2026-10-09T14:00:00-05:00",
     "goals": "0 - 0",
-    "fixtureId": 1551693
+    "fixtureId": 1619320
+  },
+  {
+    "home": "SC Braga",
+    "away": "Sporting CP",
+    "comp": "Primeira Liga",
+    "competitionCode": "all",
+    "time": "2026-10-09T14:15:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1575512
+  },
+  {
+    "home": "Cailungo",
+    "away": "Libertas",
+    "comp": "Campionato",
+    "competitionCode": "all",
+    "time": "2026-10-09T14:15:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1639895
+  },
+  {
+    "home": "La Fiorita",
+    "away": "Murata",
+    "comp": "Campionato",
+    "competitionCode": "all",
+    "time": "2026-10-09T14:15:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1639896
+  },
+  {
+    "home": "Pennarossa",
+    "away": "Folgore",
+    "comp": "Campionato",
+    "competitionCode": "all",
+    "time": "2026-10-09T14:15:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1639897
+  },
+  {
+    "home": "Real Cundinamarca",
+    "away": "Real Santander",
+    "comp": "Primera B",
+    "competitionCode": "all",
+    "time": "2026-10-09T15:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1549601
+  },
+  {
+    "home": "União Santarém",
+    "away": "Lusitano Évora 1911",
+    "comp": "Liga 3",
+    "competitionCode": "all",
+    "time": "2026-10-09T15:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1597783
+  },
+  {
+    "home": "Anaza",
+    "away": "San Miguel",
+    "comp": "Tercera División RFEF - Group 12",
+    "competitionCode": "all",
+    "time": "2026-10-09T15:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1616114
+  },
+  {
+    "home": "Villa Santa Brígida",
+    "away": "Las Palmas III",
+    "comp": "Tercera División RFEF - Group 12",
+    "competitionCode": "all",
+    "time": "2026-10-09T15:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1616121
+  },
+  {
+    "home": "Mexico W",
+    "away": "Jamaica W",
+    "comp": "Friendlies Women",
+    "competitionCode": "all",
+    "time": "2026-10-09T15:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1638583
+  },
+  {
+    "home": "Peru W",
+    "away": "Philippines W",
+    "comp": "Friendlies Women",
+    "competitionCode": "all",
+    "time": "2026-10-09T15:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1638734
+  },
+  {
+    "home": "Atletico Torque",
+    "away": "Danubio",
+    "comp": "Primera División",
+    "competitionCode": "all",
+    "time": "2026-10-09T15:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1643172
+  },
+  {
+    "home": "Moghreb Tetouan",
+    "away": "FUS Rabat",
+    "comp": "Botola Pro",
+    "competitionCode": "all",
+    "time": "2026-10-09T15:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1644206
+  },
+  {
+    "home": "Tacuary",
+    "away": "Paraguari AC",
+    "comp": "Division Intermedia",
+    "competitionCode": "all",
+    "time": "2026-10-09T15:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1644250
+  },
+  {
+    "home": "Delfin SC",
+    "away": "Mushuc Runa SC",
+    "comp": "Liga Pro",
+    "competitionCode": "all",
+    "time": "2026-10-09T15:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1639821
+  },
+  {
+    "home": "Gimnasia L.P.",
+    "away": "Atletico Tucuman",
+    "comp": "Liga Profesional Argentina",
+    "competitionCode": "all",
+    "time": "2026-10-09T16:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1493170
+  },
+  {
+    "home": "Platense FC",
+    "away": "Juticalpa",
+    "comp": "Liga Nacional",
+    "competitionCode": "all",
+    "time": "2026-10-09T16:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1636815
+  },
+  {
+    "home": "Sao Joao del Rei",
+    "away": "Paracatu",
+    "comp": "Mineiro - 3",
+    "competitionCode": "all",
+    "time": "2026-10-09T16:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1582347
+  },
+  {
+    "home": "Instituto Cordoba",
+    "away": "Boca Juniors",
+    "comp": "Liga Profesional Argentina",
+    "competitionCode": "all",
+    "time": "2026-10-09T17:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1493172
+  },
+  {
+    "home": "SOL DE America",
+    "away": "Sportivo Carapeguá",
+    "comp": "Division Intermedia",
+    "competitionCode": "all",
+    "time": "2026-10-09T17:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1644251
+  },
+  {
+    "home": "Excursionistas",
+    "away": "Villa San Carlos",
+    "comp": "Primera B Metropolitana",
+    "competitionCode": "all",
+    "time": "2026-10-09T18:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1499676
+  },
+  {
+    "home": "Talleres Remedios",
+    "away": "Deportivo Camioneros",
+    "comp": "Primera B Metropolitana",
+    "competitionCode": "all",
+    "time": "2026-10-09T18:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1499680
+  },
+  {
+    "home": "Alianza Valledupar",
+    "away": "Águilas Doradas",
+    "comp": "Primera A",
+    "competitionCode": "all",
+    "time": "2026-10-09T18:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1549813
+  },
+  {
+    "home": "Sporting JAX W",
+    "away": "DC Power W",
+    "comp": "USL Super League",
+    "competitionCode": "all",
+    "time": "2026-10-09T18:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1557213
+  },
+  {
+    "home": "Tapatío",
+    "away": "CA La Paz",
+    "comp": "Liga de Expansión MX",
+    "competitionCode": "all",
+    "time": "2026-10-09T18:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1581442
+  },
+  {
+    "home": "Canada W",
+    "away": "Denmark W",
+    "comp": "Friendlies Women",
+    "competitionCode": "all",
+    "time": "2026-10-09T18:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1628974
+  },
+  {
+    "home": "Palmeiras U20",
+    "away": "Santos U20",
+    "comp": "Copa do Brasil U20",
+    "competitionCode": "all",
+    "time": "2026-10-09T18:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1640286
+  },
+  {
+    "home": "Deportivo Maldonado",
+    "away": "Liverpool Montevideo",
+    "comp": "Primera División",
+    "competitionCode": "all",
+    "time": "2026-10-09T18:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1643168
+  },
+  {
+    "home": "Lexington",
+    "away": "FC Tulsa",
+    "comp": "USL Championship",
+    "competitionCode": "all",
+    "time": "2026-10-09T18:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1493733
+  },
+  {
+    "home": "Inca Aruba",
+    "away": "Platense",
+    "comp": "Primera Division",
+    "competitionCode": "all",
+    "time": "2026-10-09T19:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1600624
+  },
+  {
+    "home": "San Martín Mendoza",
+    "away": "Argentino Monte Maíz",
+    "comp": "Torneo Federal A",
+    "competitionCode": "all",
+    "time": "2026-10-09T19:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1641293
+  },
+  {
+    "home": "Union Santa Fe",
+    "away": "Defensa Y Justicia",
+    "comp": "Liga Profesional Argentina",
+    "competitionCode": "all",
+    "time": "2026-10-09T19:45:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1493181
+  },
+  {
+    "home": "Deportivo Garcilaso",
+    "away": "Sport Huancayo",
+    "comp": "Primera División",
+    "competitionCode": "all",
+    "time": "2026-10-09T20:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1549504
+  },
+  {
+    "home": "Puebla",
+    "away": "Leon",
+    "comp": "Liga MX",
+    "competitionCode": "all",
+    "time": "2026-10-09T20:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1550984
+  },
+  {
+    "home": "Tepatitlán",
+    "away": "Monarcas",
+    "comp": "Liga de Expansión MX",
+    "competitionCode": "all",
+    "time": "2026-10-09T20:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1581447
+  },
+  {
+    "home": "Juventud Antoniana",
+    "away": "Huracan Las Heras",
+    "comp": "Torneo Federal A",
+    "competitionCode": "all",
+    "time": "2026-10-09T20:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1641292
+  },
+  {
+    "home": "Once Caldas",
+    "away": "Llaneros",
+    "comp": "Primera A",
+    "competitionCode": "all",
+    "time": "2026-10-09T20:10:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1549820
+  },
+  {
+    "home": "San Francisco FC",
+    "away": "Deportivo Universitario",
+    "comp": "Liga Panameña de Fútbol",
+    "competitionCode": "all",
+    "time": "2026-10-09T20:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1583783
+  },
+  {
+    "home": "Wellington Phoenix II",
+    "away": "Birkenhead United",
+    "comp": "National League - National",
+    "competitionCode": "all",
+    "time": "2026-10-09T20:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1639026
+  },
+  {
+    "home": "Paraguay W",
+    "away": "El Salvador W",
+    "comp": "Friendlies Women",
+    "competitionCode": "all",
+    "time": "2026-10-09T20:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1641087
+  },
+  {
+    "home": "SKA Khabarovsk II",
+    "away": "Kvant",
+    "comp": "Second League - Group 3",
+    "competitionCode": "all",
+    "time": "2026-10-09T21:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1536724
+  },
+  {
+    "home": "AD Carmelita",
+    "away": "Guadalupe FC",
+    "comp": "Liga de Ascenso",
+    "competitionCode": "all",
+    "time": "2026-10-09T21:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1601458
+  },
+  {
+    "home": "Reboceros La Piedad",
+    "away": "Los Cabos United",
+    "comp": "Primera Premier",
+    "competitionCode": "all",
+    "time": "2026-10-09T21:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1635989
+  },
+  {
+    "home": "Auckland City",
+    "away": "Wellington Olympic",
+    "comp": "National League - National",
+    "competitionCode": "all",
+    "time": "2026-10-09T21:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1639027
+  },
+  {
+    "home": "Tigres UANL",
+    "away": "Toluca",
+    "comp": "Liga MX",
+    "competitionCode": "all",
+    "time": "2026-10-09T22:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1550986
+  },
+  {
+    "home": "Ferrymead Bays",
+    "away": "Miramar",
+    "comp": "National League - National",
+    "competitionCode": "all",
+    "time": "2026-10-09T22:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1639028
+  },
+  {
+    "home": "Jungnang Chorus Mustang",
+    "away": "Haman",
+    "comp": "K4 League",
+    "competitionCode": "all",
+    "time": "2026-10-09T23:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1569852
   }
 ]
