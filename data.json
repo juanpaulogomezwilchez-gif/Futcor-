@@ -221,7 +221,7 @@
     "comp": "J3 League",
     "competitionCode": "all",
     "time": "2026-10-09T04:30:00-05:00",
-    "goals": "2 - 2",
+    "goals": "3 - 2",
     "fixtureId": 1555738
   },
   {
@@ -230,7 +230,7 @@
     "comp": "Youth Championship",
     "competitionCode": "all",
     "time": "2026-10-09T05:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "2 - 1",
     "fixtureId": 1519168
   },
   {
@@ -239,7 +239,7 @@
     "comp": "Youth Championship",
     "competitionCode": "all",
     "time": "2026-10-09T05:00:00-05:00",
-    "goals": "2 - 0",
+    "goals": "5 - 2",
     "fixtureId": 1519229
   },
   {
@@ -257,7 +257,7 @@
     "comp": "J3 League",
     "competitionCode": "all",
     "time": "2026-10-09T05:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 1",
     "fixtureId": 1555737
   },
   {
@@ -266,7 +266,7 @@
     "comp": "J1 League",
     "competitionCode": "all",
     "time": "2026-10-09T05:00:00-05:00",
-    "goals": "1 - 0",
+    "goals": "2 - 0",
     "fixtureId": 1556085
   },
   {
@@ -275,7 +275,7 @@
     "comp": "J1 League",
     "competitionCode": "all",
     "time": "2026-10-09T05:00:00-05:00",
-    "goals": "1 - 0",
+    "goals": "4 - 2",
     "fixtureId": 1556086
   },
   {
@@ -284,7 +284,7 @@
     "comp": "1. Liga U19",
     "competitionCode": "all",
     "time": "2026-10-09T05:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "3 - 0",
     "fixtureId": 1565119
   },
   {
@@ -293,7 +293,7 @@
     "comp": "1. Liga U19",
     "competitionCode": "all",
     "time": "2026-10-09T05:00:00-05:00",
-    "goals": "0 - 1",
+    "goals": "0 - 4",
     "fixtureId": 1565121
   },
   {
@@ -302,17 +302,8 @@
     "comp": "1. Liga U19",
     "competitionCode": "all",
     "time": "2026-10-09T05:00:00-05:00",
-    "goals": "0 - 1",
+    "goals": "2 - 2",
     "fixtureId": 1565122
-  },
-  {
-    "home": "Estoril U23",
-    "away": "Sporting CP U23",
-    "comp": "Liga Revelação U23",
-    "competitionCode": "all",
-    "time": "2026-10-09T05:00:00-05:00",
-    "goals": "0 - 0",
-    "fixtureId": 1598704
   },
   {
     "home": "Torrent",
@@ -320,7 +311,7 @@
     "comp": "Tercera División RFEF - Group 6",
     "competitionCode": "all",
     "time": "2026-10-09T05:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 1",
     "fixtureId": 1614284
   },
   {
@@ -329,7 +320,7 @@
     "comp": "Liga Alef",
     "competitionCode": "all",
     "time": "2026-10-09T05:00:00-05:00",
-    "goals": "0 - 1",
+    "goals": "1 - 1",
     "fixtureId": 1621359
   },
   {
@@ -338,7 +329,7 @@
     "comp": "Liga Alef",
     "competitionCode": "all",
     "time": "2026-10-09T05:00:00-05:00",
-    "goals": "0 - 1",
+    "goals": "3 - 1",
     "fixtureId": 1628901
   },
   {
@@ -347,7 +338,7 @@
     "comp": "U19 league",
     "competitionCode": "all",
     "time": "2026-10-09T05:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "3 - 0",
     "fixtureId": 1629440
   },
   {
@@ -369,6 +360,15 @@
     "fixtureId": 1527742
   },
   {
+    "home": "Estoril U23",
+    "away": "Sporting CP U23",
+    "comp": "Liga Revelação U23",
+    "competitionCode": "all",
+    "time": "2026-10-09T05:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1598704
+  },
+  {
     "home": "Hapoel Hadera",
     "away": "Maccabi Yavne",
     "comp": "Liga Alef",
@@ -383,7 +383,7 @@
     "comp": "Liga Alef",
     "competitionCode": "all",
     "time": "2026-10-09T05:30:00-05:00",
-    "goals": "2 - 0",
+    "goals": "3 - 0",
     "fixtureId": 1621638
   },
   {
@@ -392,7 +392,7 @@
     "comp": "Friendlies Women",
     "competitionCode": "all",
     "time": "2026-10-09T05:30:00-05:00",
-    "goals": "0 - 1",
+    "goals": "0 - 2",
     "fixtureId": 1638582
   },
   {
@@ -401,7 +401,7 @@
     "comp": "Liga Alef",
     "competitionCode": "all",
     "time": "2026-10-09T05:35:00-05:00",
-    "goals": "1 - 0",
+    "goals": "3 - 1",
     "fixtureId": 1621637
   },
   {
@@ -410,7 +410,7 @@
     "comp": "Liga Alef",
     "competitionCode": "all",
     "time": "2026-10-09T05:40:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 1",
     "fixtureId": 1621357
   },
   {
@@ -437,7 +437,7 @@
     "comp": "Liga 3",
     "competitionCode": "all",
     "time": "2026-10-09T06:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 2",
     "fixtureId": 1507453
   },
   {
@@ -446,7 +446,7 @@
     "comp": "Liga 3",
     "competitionCode": "all",
     "time": "2026-10-09T06:00:00-05:00",
-    "goals": "0 - 1",
+    "goals": "1 - 2",
     "fixtureId": 1507454
   },
   {
@@ -455,7 +455,7 @@
     "comp": "Liga 3",
     "competitionCode": "all",
     "time": "2026-10-09T06:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 1",
     "fixtureId": 1507455
   },
   {
@@ -464,7 +464,7 @@
     "comp": "1. Division",
     "competitionCode": "all",
     "time": "2026-10-09T06:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 1",
     "fixtureId": 1534865
   },
   {
@@ -473,7 +473,7 @@
     "comp": "1. Division",
     "competitionCode": "all",
     "time": "2026-10-09T06:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 1",
     "fixtureId": 1534868
   },
   {
@@ -482,7 +482,7 @@
     "comp": "World Cup - Women - Qualification Europe",
     "competitionCode": "all",
     "time": "2026-10-09T06:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 5",
     "fixtureId": 1557251
   },
   {
@@ -491,7 +491,7 @@
     "comp": "1. Liga U19",
     "competitionCode": "all",
     "time": "2026-10-09T06:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 1",
     "fixtureId": 1565123
   },
   {
@@ -509,7 +509,7 @@
     "comp": "Thai League 1",
     "competitionCode": "all",
     "time": "2026-10-09T06:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "2 - 0",
     "fixtureId": 1598038
   },
   {
@@ -527,7 +527,7 @@
     "comp": "Friendlies Women",
     "competitionCode": "all",
     "time": "2026-10-09T06:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "2 - 1",
     "fixtureId": 1644443
   },
   {
@@ -572,7 +572,7 @@
     "comp": "Birinci Dasta",
     "competitionCode": "all",
     "time": "2026-10-09T06:30:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 0",
     "fixtureId": 1630449
   },
   {
@@ -581,7 +581,7 @@
     "comp": "Premier League",
     "competitionCode": "EPL",
     "time": "2026-10-09T06:30:00-05:00",
-    "goals": "0 - 0",
+    "goals": "2 - 0",
     "fixtureId": 1640111
   },
   {
@@ -599,7 +599,7 @@
     "comp": "Super League",
     "competitionCode": "all",
     "time": "2026-10-09T06:35:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 1",
     "fixtureId": 1523271
   },
   {
@@ -1915,6 +1915,15 @@
     "time": "2026-10-09T10:30:00-05:00",
     "goals": "0 - 0",
     "fixtureId": 1644711
+  },
+  {
+    "home": "ÅIFK",
+    "away": "PEPO",
+    "comp": "Kakkonen - Play-offs",
+    "competitionCode": "all",
+    "time": "2026-10-09T10:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1645358
   },
   {
     "home": "Sharjah FC",
