@@ -9932,7 +9932,7 @@
     "comp": "1. Liga Classic - Group 3",
     "competitionCode": "all",
     "time": "2026-10-10T10:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 0",
     "fixtureId": 1609694
   },
   {
@@ -11448,15 +11448,6 @@
     "fixtureId": 1490512
   },
   {
-    "home": "Sporting JAX",
-    "away": "Birmingham Legion",
-    "comp": "USL Championship",
-    "competitionCode": "all",
-    "time": "2026-10-10T12:00:00-05:00",
-    "goals": "0 - 0",
-    "fixtureId": 1493744
-  },
-  {
     "home": "jerv",
     "away": "Arendal",
     "comp": "2. Division - Group 1",
@@ -12299,7 +12290,7 @@
     "comp": "Brasiliense B",
     "competitionCode": "all",
     "time": "2026-10-10T13:30:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 3",
     "fixtureId": 1602099
   },
   {
@@ -12569,7 +12560,7 @@
     "comp": "Primera Nacional",
     "competitionCode": "all",
     "time": "2026-10-10T14:30:00-05:00",
-    "goals": "2 - 0",
+    "goals": "4 - 0",
     "fixtureId": 1498878
   },
   {
@@ -12578,7 +12569,7 @@
     "comp": "Primeira Liga",
     "competitionCode": "all",
     "time": "2026-10-10T14:30:00-05:00",
-    "goals": "1 - 1",
+    "goals": "2 - 1",
     "fixtureId": 1575509
   },
   {
@@ -12587,7 +12578,7 @@
     "comp": "Primeira Liga",
     "competitionCode": "all",
     "time": "2026-10-10T14:30:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 1",
     "fixtureId": 1575513
   },
   {
@@ -12641,7 +12632,7 @@
     "comp": "Canadian Premier League",
     "competitionCode": "all",
     "time": "2026-10-10T15:00:00-05:00",
-    "goals": "1 - 0",
+    "goals": "2 - 1",
     "fixtureId": 1517362
   },
   {
@@ -12668,7 +12659,7 @@
     "comp": "Segunda División",
     "competitionCode": "all",
     "time": "2026-10-10T15:00:00-05:00",
-    "goals": "1 - 1",
+    "goals": "1 - 3",
     "fixtureId": 1600717
   },
   {
@@ -12677,7 +12668,7 @@
     "comp": "Liga de Ascenso",
     "competitionCode": "all",
     "time": "2026-10-10T15:00:00-05:00",
-    "goals": "0 - 1",
+    "goals": "0 - 5",
     "fixtureId": 1601459
   },
   {
@@ -12686,7 +12677,7 @@
     "comp": "Division Profesional - Clausura",
     "competitionCode": "all",
     "time": "2026-10-10T15:00:00-05:00",
-    "goals": "1 - 0",
+    "goals": "1 - 1",
     "fixtureId": 1632030
   },
   {
@@ -12695,7 +12686,7 @@
     "comp": "Liga Mayor",
     "competitionCode": "all",
     "time": "2026-10-10T15:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 1",
     "fixtureId": 1634919
   },
   {
@@ -12713,7 +12704,7 @@
     "comp": "Serie C",
     "competitionCode": "all",
     "time": "2026-10-10T15:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 0",
     "fixtureId": 1637852
   },
   {
@@ -12740,7 +12731,7 @@
     "comp": "Serie C",
     "competitionCode": "all",
     "time": "2026-10-10T15:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "2 - 0",
     "fixtureId": 1637855
   },
   {
@@ -12751,15 +12742,6 @@
     "time": "2026-10-10T15:00:00-05:00",
     "goals": "0 - 0",
     "fixtureId": 1643429
-  },
-  {
-    "home": "Yaracuyanos FC",
-    "away": "Fundación Lara Deportiva",
-    "comp": "Segunda División",
-    "competitionCode": "all",
-    "time": "2026-10-10T15:00:00-05:00",
-    "goals": "0 - 0",
-    "fixtureId": 1645225
   },
   {
     "home": "Parauapebas",
@@ -12785,7 +12767,7 @@
     "comp": "Primera División",
     "competitionCode": "all",
     "time": "2026-10-10T15:30:00-05:00",
-    "goals": "0 - 0",
+    "goals": "2 - 0",
     "fixtureId": 1505535
   },
   {
@@ -12794,7 +12776,7 @@
     "comp": "Primera B",
     "competitionCode": "all",
     "time": "2026-10-10T15:30:00-05:00",
-    "goals": "0 - 0",
+    "goals": "2 - 1",
     "fixtureId": 1511700
   },
   {
@@ -12803,7 +12785,7 @@
     "comp": "Primera División",
     "competitionCode": "all",
     "time": "2026-10-10T15:30:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 1",
     "fixtureId": 1549502
   },
   {
@@ -12839,7 +12821,7 @@
     "comp": "USL League One",
     "competitionCode": "all",
     "time": "2026-10-10T16:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 1",
     "fixtureId": 1494036
   },
   {
@@ -12848,7 +12830,7 @@
     "comp": "Primera División",
     "competitionCode": "all",
     "time": "2026-10-10T16:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 1",
     "fixtureId": 1551693
   },
   {
@@ -12857,7 +12839,7 @@
     "comp": "Liga Nacional",
     "competitionCode": "all",
     "time": "2026-10-10T16:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 1",
     "fixtureId": 1559662
   },
   {
@@ -12866,7 +12848,7 @@
     "comp": "Primera Division",
     "competitionCode": "all",
     "time": "2026-10-10T16:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 1",
     "fixtureId": 1600625
   },
   {
@@ -12875,7 +12857,7 @@
     "comp": "Liga Nacional",
     "competitionCode": "all",
     "time": "2026-10-10T16:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 1",
     "fixtureId": 1636817
   },
   {
@@ -12915,12 +12897,21 @@
     "fixtureId": 1644218
   },
   {
+    "home": "Yaracuyanos FC",
+    "away": "Fundación Lara Deportiva",
+    "comp": "Segunda División",
+    "competitionCode": "all",
+    "time": "2026-10-10T16:00:00-05:00",
+    "goals": "3 - 0",
+    "fixtureId": 1645225
+  },
+  {
     "home": "Carapebus",
     "away": "Niteroiense",
     "comp": "Carioca - 2",
     "competitionCode": "all",
     "time": "2026-10-10T16:30:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 1",
     "fixtureId": 1600255
   },
   {
@@ -12938,7 +12929,7 @@
     "comp": "Primera Premier",
     "competitionCode": "all",
     "time": "2026-10-10T16:30:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 0",
     "fixtureId": 1635990
   },
   {
@@ -12965,7 +12956,7 @@
     "comp": "Primera División",
     "competitionCode": "all",
     "time": "2026-10-10T16:30:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 1",
     "fixtureId": 1643171
   },
   {
