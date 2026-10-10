@@ -5,7 +5,7 @@
     "comp": "K League 1",
     "competitionCode": "all",
     "time": "2026-10-10T00:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "2 - 1",
     "fixtureId": 1507079
   },
   {
@@ -14,7 +14,7 @@
     "comp": "K League 2",
     "competitionCode": "all",
     "time": "2026-10-10T00:00:00-05:00",
-    "goals": "1 - 0",
+    "goals": "2 - 1",
     "fixtureId": 1510462
   },
   {
@@ -23,7 +23,7 @@
     "comp": "K League 2",
     "competitionCode": "all",
     "time": "2026-10-10T00:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 1",
     "fixtureId": 1510463
   },
   {
@@ -32,7 +32,7 @@
     "comp": "K3 League",
     "competitionCode": "all",
     "time": "2026-10-10T00:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 3",
     "fixtureId": 1520567
   },
   {
@@ -41,7 +41,7 @@
     "comp": "K3 League",
     "competitionCode": "all",
     "time": "2026-10-10T00:00:00-05:00",
-    "goals": "1 - 0",
+    "goals": "3 - 2",
     "fixtureId": 1520568
   },
   {
@@ -50,7 +50,7 @@
     "comp": "K3 League",
     "competitionCode": "all",
     "time": "2026-10-10T00:00:00-05:00",
-    "goals": "2 - 0",
+    "goals": "2 - 1",
     "fixtureId": 1520571
   },
   {
@@ -59,7 +59,7 @@
     "comp": "J3 League",
     "competitionCode": "all",
     "time": "2026-10-10T00:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 3",
     "fixtureId": 1555733
   },
   {
@@ -68,7 +68,7 @@
     "comp": "J3 League",
     "competitionCode": "all",
     "time": "2026-10-10T00:00:00-05:00",
-    "goals": "1 - 1",
+    "goals": "2 - 1",
     "fixtureId": 1555735
   },
   {
@@ -77,7 +77,7 @@
     "comp": "J3 League",
     "competitionCode": "all",
     "time": "2026-10-10T00:00:00-05:00",
-    "goals": "1 - 0",
+    "goals": "2 - 0",
     "fixtureId": 1555736
   },
   {
@@ -95,7 +95,7 @@
     "comp": "K4 League",
     "competitionCode": "all",
     "time": "2026-10-10T00:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "2 - 0",
     "fixtureId": 1569853
   },
   {
@@ -104,7 +104,7 @@
     "comp": "K4 League",
     "competitionCode": "all",
     "time": "2026-10-10T00:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "5 - 2",
     "fixtureId": 1569854
   },
   {
@@ -113,7 +113,7 @@
     "comp": "J2 League",
     "competitionCode": "all",
     "time": "2026-10-10T00:00:00-05:00",
-    "goals": "0 - 1",
+    "goals": "1 - 2",
     "fixtureId": 1606686
   },
   {
@@ -122,7 +122,7 @@
     "comp": "J2 League",
     "competitionCode": "all",
     "time": "2026-10-10T00:00:00-05:00",
-    "goals": "0 - 1",
+    "goals": "1 - 2",
     "fixtureId": 1606687
   },
   {
@@ -131,7 +131,7 @@
     "comp": "J2 League",
     "competitionCode": "all",
     "time": "2026-10-10T00:00:00-05:00",
-    "goals": "1 - 0",
+    "goals": "3 - 1",
     "fixtureId": 1606688
   },
   {
@@ -140,7 +140,7 @@
     "comp": "J2 League",
     "competitionCode": "all",
     "time": "2026-10-10T00:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 0",
     "fixtureId": 1606689
   },
   {
@@ -149,7 +149,7 @@
     "comp": "Premier League",
     "competitionCode": "EPL",
     "time": "2026-10-10T00:00:00-05:00",
-    "goals": "3 - 0",
+    "goals": "8 - 0",
     "fixtureId": 1640438
   },
   {
@@ -158,7 +158,7 @@
     "comp": "J1 League",
     "competitionCode": "all",
     "time": "2026-10-10T01:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 0",
     "fixtureId": 1556081
   },
   {
@@ -666,6 +666,15 @@
     "fixtureId": 1639860
   },
   {
+    "home": "Mohammedan Dhaka",
+    "away": "Arambagh",
+    "comp": "Premier League",
+    "competitionCode": "EPL",
+    "time": "2026-10-10T03:45:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1640109
+  },
+  {
     "home": "Bangladesh Police",
     "away": "Fakirerpool",
     "comp": "Premier League",
@@ -871,15 +880,6 @@
     "time": "2026-10-10T04:00:00-05:00",
     "goals": "0 - 0",
     "fixtureId": 1634838
-  },
-  {
-    "home": "Mohammedan Dhaka",
-    "away": "Arambagh",
-    "comp": "Premier League",
-    "competitionCode": "EPL",
-    "time": "2026-10-10T04:00:00-05:00",
-    "goals": "0 - 0",
-    "fixtureId": 1640109
   },
   {
     "home": "Venezia U19",
