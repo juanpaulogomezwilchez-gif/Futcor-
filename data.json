@@ -698,7 +698,7 @@
     "comp": "Campionato Primavera - 1",
     "competitionCode": "all",
     "time": "2026-10-10T04:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "2 - 1",
     "fixtureId": 1569388
   },
   {
@@ -707,7 +707,7 @@
     "comp": "Campionato Primavera - 1",
     "competitionCode": "all",
     "time": "2026-10-10T04:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "2 - 2",
     "fixtureId": 1569390
   },
   {
@@ -1517,7 +1517,7 @@
     "comp": "1. Liga",
     "competitionCode": "all",
     "time": "2026-10-10T06:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 1",
     "fixtureId": 1529635
   },
   {
@@ -1544,7 +1544,7 @@
     "comp": "Second League - Group 1",
     "competitionCode": "all",
     "time": "2026-10-10T06:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 2",
     "fixtureId": 1536287
   },
   {
@@ -1625,7 +1625,7 @@
     "comp": "Campionato Primavera - 1",
     "competitionCode": "all",
     "time": "2026-10-10T06:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "2 - 0",
     "fixtureId": 1569385
   },
   {
@@ -1670,7 +1670,7 @@
     "comp": "Oberliga - Nordost-Nord",
     "competitionCode": "all",
     "time": "2026-10-10T06:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 3",
     "fixtureId": 1577010
   },
   {
@@ -1679,7 +1679,7 @@
     "comp": "Oberliga - Nordost-Nord",
     "competitionCode": "all",
     "time": "2026-10-10T06:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "2 - 1",
     "fixtureId": 1577011
   },
   {
@@ -1688,7 +1688,7 @@
     "comp": "Oberliga - Nordost-Süd",
     "competitionCode": "all",
     "time": "2026-10-10T06:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "6 - 0",
     "fixtureId": 1577252
   },
   {
@@ -1724,7 +1724,7 @@
     "comp": "Oberliga - Baden-Württemberg",
     "competitionCode": "all",
     "time": "2026-10-10T06:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "3 - 1",
     "fixtureId": 1582459
   },
   {
@@ -1769,7 +1769,7 @@
     "comp": "NB III - Northeast",
     "competitionCode": "all",
     "time": "2026-10-10T06:00:00-05:00",
-    "goals": "2 - 0",
+    "goals": "3 - 0",
     "fixtureId": 1593917
   },
   {
@@ -1787,7 +1787,7 @@
     "comp": "NB III - Northeast",
     "competitionCode": "all",
     "time": "2026-10-10T06:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 4",
     "fixtureId": 1593923
   },
   {
@@ -1850,7 +1850,7 @@
     "comp": "NB III - Southeast",
     "competitionCode": "all",
     "time": "2026-10-10T06:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 1",
     "fixtureId": 1594402
   },
   {
@@ -1859,7 +1859,7 @@
     "comp": "NB III - Southeast",
     "competitionCode": "all",
     "time": "2026-10-10T06:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 0",
     "fixtureId": 1594403
   },
   {
@@ -1877,7 +1877,7 @@
     "comp": "NB III - Southwest",
     "competitionCode": "all",
     "time": "2026-10-10T06:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 0",
     "fixtureId": 1594637
   },
   {
@@ -1886,7 +1886,7 @@
     "comp": "NB III - Southwest",
     "competitionCode": "all",
     "time": "2026-10-10T06:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 4",
     "fixtureId": 1594639
   },
   {
@@ -1904,7 +1904,7 @@
     "comp": "U19 Bundesliga",
     "competitionCode": "all",
     "time": "2026-10-10T06:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 2",
     "fixtureId": 1595661
   },
   {
@@ -1913,7 +1913,7 @@
     "comp": "U19 Bundesliga",
     "competitionCode": "all",
     "time": "2026-10-10T06:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "6 - 1",
     "fixtureId": 1595662
   },
   {
@@ -1922,7 +1922,7 @@
     "comp": "U19 Bundesliga",
     "competitionCode": "all",
     "time": "2026-10-10T06:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 1",
     "fixtureId": 1595663
   },
   {
@@ -1931,7 +1931,7 @@
     "comp": "U19 Bundesliga",
     "competitionCode": "all",
     "time": "2026-10-10T06:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "3 - 1",
     "fixtureId": 1595673
   },
   {
@@ -1940,7 +1940,7 @@
     "comp": "U19 Bundesliga",
     "competitionCode": "all",
     "time": "2026-10-10T06:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "2 - 1",
     "fixtureId": 1595676
   },
   {
@@ -1958,7 +1958,7 @@
     "comp": "U19 Bundesliga",
     "competitionCode": "all",
     "time": "2026-10-10T06:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 7",
     "fixtureId": 1595684
   },
   {
@@ -1976,7 +1976,7 @@
     "comp": "Division 2 - Norrland",
     "competitionCode": "all",
     "time": "2026-10-10T06:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "3 - 1",
     "fixtureId": 1601048
   },
   {
@@ -1985,7 +1985,7 @@
     "comp": "Division 2 - Norrland",
     "competitionCode": "all",
     "time": "2026-10-10T06:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "2 - 0",
     "fixtureId": 1601049
   },
   {
@@ -2003,7 +2003,7 @@
     "comp": "Oberliga - Bremen",
     "competitionCode": "all",
     "time": "2026-10-10T06:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "4 - 0",
     "fixtureId": 1604260
   },
   {
@@ -2012,7 +2012,7 @@
     "comp": "Oberliga - Bremen",
     "competitionCode": "all",
     "time": "2026-10-10T06:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 3",
     "fixtureId": 1604263
   },
   {
@@ -2021,7 +2021,7 @@
     "comp": "Tercera División RFEF - Group 12",
     "competitionCode": "all",
     "time": "2026-10-10T06:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "2 - 1",
     "fixtureId": 1616122
   },
   {
@@ -2093,7 +2093,7 @@
     "comp": "Kakkonen - Play-offs",
     "competitionCode": "all",
     "time": "2026-10-10T06:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "4 - 1",
     "fixtureId": 1645359
   },
   {
@@ -2111,7 +2111,7 @@
     "comp": "Erovnuli Liga 2",
     "competitionCode": "all",
     "time": "2026-10-10T06:30:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 0",
     "fixtureId": 1507231
   },
   {
@@ -2129,7 +2129,7 @@
     "comp": "Meistriliiga",
     "competitionCode": "all",
     "time": "2026-10-10T06:30:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 1",
     "fixtureId": 1513639
   },
   {
@@ -2147,7 +2147,7 @@
     "comp": "League One",
     "competitionCode": "all",
     "time": "2026-10-10T06:30:00-05:00",
-    "goals": "0 - 2",
+    "goals": "0 - 3",
     "fixtureId": 1528730
   },
   {
@@ -2165,7 +2165,7 @@
     "comp": "1. Division",
     "competitionCode": "all",
     "time": "2026-10-10T06:30:00-05:00",
-    "goals": "2 - 2",
+    "goals": "3 - 3",
     "fixtureId": 1551348
   },
   {
@@ -2228,7 +2228,7 @@
     "comp": "League One",
     "competitionCode": "all",
     "time": "2026-10-10T06:30:00-05:00",
-    "goals": "0 - 1",
+    "goals": "1 - 2",
     "fixtureId": 1564350
   },
   {
@@ -2237,7 +2237,7 @@
     "comp": "League One",
     "competitionCode": "all",
     "time": "2026-10-10T06:30:00-05:00",
-    "goals": "1 - 1",
+    "goals": "2 - 1",
     "fixtureId": 1564351
   },
   {
@@ -2246,7 +2246,7 @@
     "comp": "Tweede Divisie",
     "competitionCode": "all",
     "time": "2026-10-10T06:30:00-05:00",
-    "goals": "5 - 0",
+    "goals": "6 - 0",
     "fixtureId": 1579497
   },
   {
@@ -2255,7 +2255,7 @@
     "comp": "National League",
     "competitionCode": "all",
     "time": "2026-10-10T06:30:00-05:00",
-    "goals": "1 - 1",
+    "goals": "3 - 1",
     "fixtureId": 1585282
   },
   {
@@ -2282,7 +2282,7 @@
     "comp": "2. Lig",
     "competitionCode": "all",
     "time": "2026-10-10T06:30:00-05:00",
-    "goals": "1 - 1",
+    "goals": "2 - 1",
     "fixtureId": 1591633
   },
   {
@@ -2291,7 +2291,7 @@
     "comp": "Thai League 1",
     "competitionCode": "all",
     "time": "2026-10-10T06:30:00-05:00",
-    "goals": "1 - 2",
+    "goals": "3 - 2",
     "fixtureId": 1598037
   },
   {
@@ -2300,7 +2300,7 @@
     "comp": "Central Youth League",
     "competitionCode": "all",
     "time": "2026-10-10T06:30:00-05:00",
-    "goals": "2 - 2",
+    "goals": "3 - 4",
     "fixtureId": 1599247
   },
   {
@@ -2309,7 +2309,7 @@
     "comp": "Thai League 2",
     "competitionCode": "all",
     "time": "2026-10-10T06:30:00-05:00",
-    "goals": "1 - 0",
+    "goals": "1 - 1",
     "fixtureId": 1602684
   },
   {
@@ -2318,7 +2318,7 @@
     "comp": "Premier League",
     "competitionCode": "EPL",
     "time": "2026-10-10T06:30:00-05:00",
-    "goals": "2 - 1",
+    "goals": "3 - 1",
     "fixtureId": 1603467
   },
   {
@@ -2327,7 +2327,7 @@
     "comp": "1st Division",
     "competitionCode": "all",
     "time": "2026-10-10T06:30:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 0",
     "fixtureId": 1628352
   },
   {
@@ -2345,7 +2345,7 @@
     "comp": "Birinci Dasta",
     "competitionCode": "all",
     "time": "2026-10-10T06:30:00-05:00",
-    "goals": "1 - 0",
+    "goals": "2 - 0",
     "fixtureId": 1630445
   },
   {
@@ -2354,7 +2354,7 @@
     "comp": "Indian Super League",
     "competitionCode": "all",
     "time": "2026-10-10T06:30:00-05:00",
-    "goals": "2 - 2",
+    "goals": "3 - 2",
     "fixtureId": 1642167
   },
   {
@@ -2372,7 +2372,7 @@
     "comp": "Super League",
     "competitionCode": "all",
     "time": "2026-10-10T06:35:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 1",
     "fixtureId": 1523269
   },
   {
@@ -2381,7 +2381,7 @@
     "comp": "Super League",
     "competitionCode": "all",
     "time": "2026-10-10T06:35:00-05:00",
-    "goals": "5 - 1",
+    "goals": "7 - 1",
     "fixtureId": 1523270
   },
   {
@@ -2399,7 +2399,7 @@
     "comp": "FA Cup",
     "competitionCode": "all",
     "time": "2026-10-10T06:45:00-05:00",
-    "goals": "2 - 1",
+    "goals": "4 - 1",
     "fixtureId": 1638798
   },
   {
@@ -2435,7 +2435,7 @@
     "comp": "3. Division - Girone 1",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "3 - 1",
+    "goals": "4 - 2",
     "fixtureId": 1496533
   },
   {
@@ -2444,7 +2444,7 @@
     "comp": "3. Division - Girone 1",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 0",
     "fixtureId": 1496534
   },
   {
@@ -2453,7 +2453,7 @@
     "comp": "3. Division - Girone 1",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "2 - 0",
+    "goals": "4 - 1",
     "fixtureId": 1496539
   },
   {
@@ -2462,7 +2462,7 @@
     "comp": "3. Division - Girone 2",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 1",
     "fixtureId": 1496719
   },
   {
@@ -2471,7 +2471,7 @@
     "comp": "3. Division - Girone 3",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "0 - 4",
+    "goals": "1 - 5",
     "fixtureId": 1496897
   },
   {
@@ -2480,7 +2480,7 @@
     "comp": "3. Division - Girone 3",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 3",
     "fixtureId": 1496898
   },
   {
@@ -2498,7 +2498,7 @@
     "comp": "3. Division - Girone 4",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "2 - 0",
+    "goals": "4 - 0",
     "fixtureId": 1497079
   },
   {
@@ -2507,7 +2507,7 @@
     "comp": "3. Division - Girone 4",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "1 - 1",
+    "goals": "1 - 3",
     "fixtureId": 1497084
   },
   {
@@ -2516,7 +2516,7 @@
     "comp": "3. Division - Girone 5",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "0 - 1",
+    "goals": "1 - 3",
     "fixtureId": 1497265
   },
   {
@@ -2525,7 +2525,7 @@
     "comp": "3. Division - Girone 6",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "0 - 3",
+    "goals": "1 - 7",
     "fixtureId": 1497443
   },
   {
@@ -2534,7 +2534,7 @@
     "comp": "3. Division - Girone 6",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "0 - 1",
+    "goals": "1 - 2",
     "fixtureId": 1497446
   },
   {
@@ -2543,7 +2543,7 @@
     "comp": "1. Deild",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "0 - 2",
+    "goals": "1 - 4",
     "fixtureId": 1506680
   },
   {
@@ -2552,7 +2552,7 @@
     "comp": "1. Deild",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "0 - 1",
+    "goals": "1 - 2",
     "fixtureId": 1506682
   },
   {
@@ -2561,7 +2561,7 @@
     "comp": "Division 2 - Norra Götaland",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "0 - 1",
+    "goals": "1 - 3",
     "fixtureId": 1510692
   },
   {
@@ -2579,7 +2579,7 @@
     "comp": "Division 2 - Norra Svealand",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "2 - 3",
     "fixtureId": 1510874
   },
   {
@@ -2597,7 +2597,7 @@
     "comp": "Division 2 - Södra Götaland",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 2",
     "fixtureId": 1511032
   },
   {
@@ -2615,7 +2615,7 @@
     "comp": "Division 2 - Västra Götaland",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 0",
     "fixtureId": 1511421
   },
   {
@@ -2624,7 +2624,7 @@
     "comp": "Esiliiga A",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "0 - 1",
+    "goals": "1 - 2",
     "fixtureId": 1519654
   },
   {
@@ -2633,7 +2633,7 @@
     "comp": "Premier League",
     "competitionCode": "EPL",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "0 - 1",
+    "goals": "4 - 1",
     "fixtureId": 1525996
   },
   {
@@ -2642,7 +2642,7 @@
     "comp": "Vysshaya Liga",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "2 - 0",
     "fixtureId": 1527747
   },
   {
@@ -2651,7 +2651,7 @@
     "comp": "Premier League",
     "competitionCode": "EPL",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 0",
     "fixtureId": 1528109
   },
   {
@@ -2660,7 +2660,7 @@
     "comp": "1. Liga",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 2",
     "fixtureId": 1529634
   },
   {
@@ -2669,7 +2669,7 @@
     "comp": "1. Division",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "1 - 0",
+    "goals": "3 - 1",
     "fixtureId": 1534549
   },
   {
@@ -2687,7 +2687,7 @@
     "comp": "Second League - Group 1",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 0",
     "fixtureId": 1536288
   },
   {
@@ -2705,7 +2705,7 @@
     "comp": "First League",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 1",
     "fixtureId": 1551118
   },
   {
@@ -2714,7 +2714,7 @@
     "comp": "Ligue 2",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "1 - 1",
+    "goals": "2 - 3",
     "fixtureId": 1552486
   },
   {
@@ -2732,7 +2732,7 @@
     "comp": "Prva Liga",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "0 - 1",
+    "goals": "0 - 3",
     "fixtureId": 1554187
   },
   {
@@ -2741,7 +2741,7 @@
     "comp": "1 Lyga",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "1 - 0",
+    "goals": "1 - 1",
     "fixtureId": 1556467
   },
   {
@@ -2804,7 +2804,7 @@
     "comp": "III Liga - Group 2",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "2 - 2",
+    "goals": "3 - 4",
     "fixtureId": 1568821
   },
   {
@@ -2813,7 +2813,7 @@
     "comp": "III Liga - Group 1",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "1 - 2",
+    "goals": "1 - 4",
     "fixtureId": 1569127
   },
   {
@@ -2831,7 +2831,7 @@
     "comp": "III Liga - Group 1",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "1 - 1",
+    "goals": "2 - 1",
     "fixtureId": 1569129
   },
   {
@@ -2867,7 +2867,7 @@
     "comp": "2. Division",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "0 - 1",
+    "goals": "1 - 1",
     "fixtureId": 1575813
   },
   {
@@ -2876,7 +2876,7 @@
     "comp": "2. Division",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "0 - 1",
+    "goals": "1 - 1",
     "fixtureId": 1575814
   },
   {
@@ -2885,7 +2885,7 @@
     "comp": "2. Division",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "1 - 0",
+    "goals": "3 - 0",
     "fixtureId": 1575815
   },
   {
@@ -2966,7 +2966,7 @@
     "comp": "3. Division",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "1 - 0",
+    "goals": "2 - 0",
     "fixtureId": 1577801
   },
   {
@@ -3056,7 +3056,7 @@
     "comp": "Premier League",
     "competitionCode": "EPL",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "2 - 0",
     "fixtureId": 1581538
   },
   {
@@ -3083,7 +3083,7 @@
     "comp": "3. Liga",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "1 - 2",
+    "goals": "1 - 5",
     "fixtureId": 1584018
   },
   {
@@ -3101,7 +3101,7 @@
     "comp": "3. Liga",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "2 - 0",
+    "goals": "5 - 0",
     "fixtureId": 1584022
   },
   {
@@ -3110,7 +3110,7 @@
     "comp": "3. Liga",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 2",
     "fixtureId": 1584023
   },
   {
@@ -3128,7 +3128,7 @@
     "comp": "Regionalliga - Bayern",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "2 - 1",
+    "goals": "3 - 3",
     "fixtureId": 1586250
   },
   {
@@ -3137,7 +3137,7 @@
     "comp": "Regionalliga - Bayern",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 1",
     "fixtureId": 1586251
   },
   {
@@ -3146,7 +3146,7 @@
     "comp": "Regionalliga - Bayern",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "2 - 1",
+    "goals": "2 - 2",
     "fixtureId": 1586252
   },
   {
@@ -3155,7 +3155,7 @@
     "comp": "Regionalliga - Bayern",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 0",
     "fixtureId": 1586253
   },
   {
@@ -3164,7 +3164,7 @@
     "comp": "Regionalliga - Bayern",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "0 - 1",
+    "goals": "0 - 3",
     "fixtureId": 1586254
   },
   {
@@ -3173,7 +3173,7 @@
     "comp": "Regionalliga - Bayern",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 1",
     "fixtureId": 1586256
   },
   {
@@ -3182,7 +3182,7 @@
     "comp": "Regionalliga - Nord",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 2",
     "fixtureId": 1586591
   },
   {
@@ -3191,7 +3191,7 @@
     "comp": "Regionalliga - Nord",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "0 - 1",
+    "goals": "1 - 3",
     "fixtureId": 1586594
   },
   {
@@ -3209,7 +3209,7 @@
     "comp": "Regionalliga - Nordost",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "1 - 0",
+    "goals": "2 - 1",
     "fixtureId": 1586894
   },
   {
@@ -3218,7 +3218,7 @@
     "comp": "Regionalliga - SudWest",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "1 - 2",
+    "goals": "1 - 3",
     "fixtureId": 1587184
   },
   {
@@ -3227,7 +3227,7 @@
     "comp": "Regionalliga - SudWest",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "0 - 1",
+    "goals": "0 - 2",
     "fixtureId": 1587185
   },
   {
@@ -3236,7 +3236,7 @@
     "comp": "Regionalliga - SudWest",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "2 - 1",
+    "goals": "2 - 3",
     "fixtureId": 1587186
   },
   {
@@ -3245,7 +3245,7 @@
     "comp": "Regionalliga - SudWest",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "1 - 0",
+    "goals": "4 - 0",
     "fixtureId": 1587188
   },
   {
@@ -3254,7 +3254,7 @@
     "comp": "Regionalliga - SudWest",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 0",
     "fixtureId": 1587189
   },
   {
@@ -3263,7 +3263,7 @@
     "comp": "Regionalliga - SudWest",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "1 - 0",
+    "goals": "2 - 0",
     "fixtureId": 1587190
   },
   {
@@ -3272,7 +3272,7 @@
     "comp": "Regionalliga - SudWest",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "1 - 0",
+    "goals": "1 - 1",
     "fixtureId": 1587191
   },
   {
@@ -3281,7 +3281,7 @@
     "comp": "Regionalliga - West",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "1 - 3",
+    "goals": "1 - 5",
     "fixtureId": 1587498
   },
   {
@@ -3290,7 +3290,7 @@
     "comp": "Regionalliga - West",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "2 - 1",
+    "goals": "3 - 2",
     "fixtureId": 1587500
   },
   {
@@ -3299,7 +3299,7 @@
     "comp": "Regionalliga - West",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "0 - 2",
+    "goals": "0 - 5",
     "fixtureId": 1587501
   },
   {
@@ -3308,7 +3308,7 @@
     "comp": "Regionalliga - West",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 0",
     "fixtureId": 1587503
   },
   {
@@ -3317,7 +3317,7 @@
     "comp": "Regionalliga - West",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "1 - 1",
+    "goals": "3 - 1",
     "fixtureId": 1587504
   },
   {
@@ -3326,7 +3326,7 @@
     "comp": "Regionalliga - West",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 1",
     "fixtureId": 1587505
   },
   {
@@ -3353,7 +3353,7 @@
     "comp": "2. Lig",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 2",
     "fixtureId": 1591334
   },
   {
@@ -3362,7 +3362,7 @@
     "comp": "2. Lig",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "2 - 1",
+    "goals": "5 - 1",
     "fixtureId": 1591636
   },
   {
@@ -3398,7 +3398,7 @@
     "comp": "Thai League 1",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "2 - 1",
+    "goals": "3 - 2",
     "fixtureId": 1598039
   },
   {
@@ -3443,7 +3443,7 @@
     "comp": "Central Youth League",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 2",
     "fixtureId": 1599252
   },
   {
@@ -3461,7 +3461,7 @@
     "comp": "Thai League 2",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "2 - 2",
     "fixtureId": 1602685
   },
   {
@@ -3524,7 +3524,7 @@
     "comp": "Premier League 2 Division One",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "1 - 1",
+    "goals": "2 - 2",
     "fixtureId": 1621044
   },
   {
@@ -3542,7 +3542,7 @@
     "comp": "Liga 1",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "2 - 0",
+    "goals": "6 - 1",
     "fixtureId": 1622785
   },
   {
@@ -3551,7 +3551,7 @@
     "comp": "Premier League Cup",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "4 - 0",
+    "goals": "4 - 2",
     "fixtureId": 1627098
   },
   {
@@ -3560,7 +3560,7 @@
     "comp": "U19 league",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 6",
     "fixtureId": 1629444
   },
   {
@@ -3569,7 +3569,7 @@
     "comp": "Challenge League",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 0",
     "fixtureId": 1629697
   },
   {
@@ -3578,7 +3578,7 @@
     "comp": "Super Liga",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "0 - 1",
+    "goals": "0 - 3",
     "fixtureId": 1630243
   },
   {
@@ -3866,7 +3866,7 @@
     "comp": "Kakkonen - Lohko A",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "2 - 1",
+    "goals": "6 - 2",
     "fixtureId": 1635431
   },
   {
@@ -3884,7 +3884,7 @@
     "comp": "Kakkonen - Lohko B",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "3 - 1",
+    "goals": "6 - 1",
     "fixtureId": 1635458
   },
   {
@@ -3893,7 +3893,7 @@
     "comp": "Kakkonen - Lohko C",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "3 - 1",
+    "goals": "6 - 1",
     "fixtureId": 1635484
   },
   {
@@ -3902,7 +3902,7 @@
     "comp": "Kakkonen - Lohko C",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "0 - 2",
+    "goals": "0 - 5",
     "fixtureId": 1635485
   },
   {
@@ -3911,7 +3911,7 @@
     "comp": "Super League 2",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 0",
     "fixtureId": 1636941
   },
   {
@@ -3920,7 +3920,7 @@
     "comp": "Liga 2",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "2 - 0",
     "fixtureId": 1637665
   },
   {
@@ -3929,7 +3929,7 @@
     "comp": "Liga 2",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "3 - 0",
+    "goals": "6 - 0",
     "fixtureId": 1637666
   },
   {
@@ -3938,7 +3938,7 @@
     "comp": "Ykkönen",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "0 - 2",
+    "goals": "1 - 2",
     "fixtureId": 1638174
   },
   {
@@ -3947,7 +3947,7 @@
     "comp": "Ykkönen",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 1",
     "fixtureId": 1638175
   },
   {
@@ -3956,7 +3956,7 @@
     "comp": "Premier League",
     "competitionCode": "EPL",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 1",
     "fixtureId": 1641310
   },
   {
@@ -3965,7 +3965,7 @@
     "comp": "Superliga",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 0",
     "fixtureId": 1642100
   },
   {
@@ -4001,7 +4001,7 @@
     "comp": "Kakkonen - Play-offs",
     "competitionCode": "all",
     "time": "2026-10-10T07:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "3 - 0",
     "fixtureId": 1645360
   },
   {
@@ -4019,7 +4019,7 @@
     "comp": "Division 2",
     "competitionCode": "all",
     "time": "2026-10-10T07:10:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 2",
     "fixtureId": 1634315
   },
   {
@@ -4028,7 +4028,7 @@
     "comp": "Premier League",
     "competitionCode": "EPL",
     "time": "2026-10-10T07:15:00-05:00",
-    "goals": "0 - 2",
+    "goals": "0 - 5",
     "fixtureId": 1561405
   },
   {
@@ -4046,7 +4046,7 @@
     "comp": "3. Division - Girone 3",
     "competitionCode": "all",
     "time": "2026-10-10T07:30:00-05:00",
-    "goals": "2 - 0",
+    "goals": "3 - 1",
     "fixtureId": 1496899
   },
   {
@@ -4064,7 +4064,7 @@
     "comp": "1. Division",
     "competitionCode": "all",
     "time": "2026-10-10T07:30:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 0",
     "fixtureId": 1534473
   },
   {
@@ -4082,7 +4082,7 @@
     "comp": "Super League",
     "competitionCode": "all",
     "time": "2026-10-10T07:30:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 1",
     "fixtureId": 1538696
   },
   {
@@ -4109,7 +4109,7 @@
     "comp": "Second League",
     "competitionCode": "all",
     "time": "2026-10-10T07:30:00-05:00",
-    "goals": "0 - 1",
+    "goals": "1 - 2",
     "fixtureId": 1559387
   },
   {
@@ -4118,7 +4118,7 @@
     "comp": "III Liga - Group 4",
     "competitionCode": "all",
     "time": "2026-10-10T07:30:00-05:00",
-    "goals": "1 - 0",
+    "goals": "3 - 0",
     "fixtureId": 1568199
   },
   {
@@ -4136,7 +4136,7 @@
     "comp": "3. Division",
     "competitionCode": "all",
     "time": "2026-10-10T07:30:00-05:00",
-    "goals": "2 - 1",
+    "goals": "2 - 3",
     "fixtureId": 1577803
   },
   {
@@ -4172,7 +4172,7 @@
     "comp": "4. liga - Divizie E",
     "competitionCode": "all",
     "time": "2026-10-10T07:30:00-05:00",
-    "goals": "0 - 0",
+    "goals": "3 - 3",
     "fixtureId": 1579260
   },
   {
@@ -4208,7 +4208,7 @@
     "comp": "4. liga - Divizie F",
     "competitionCode": "all",
     "time": "2026-10-10T07:30:00-05:00",
-    "goals": "0 - 0",
+    "goals": "2 - 0",
     "fixtureId": 1579378
   },
   {
@@ -4217,7 +4217,7 @@
     "comp": "4. liga - Divizie F",
     "competitionCode": "all",
     "time": "2026-10-10T07:30:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 3",
     "fixtureId": 1579382
   },
   {
@@ -4226,7 +4226,7 @@
     "comp": "Tweede Divisie",
     "competitionCode": "all",
     "time": "2026-10-10T07:30:00-05:00",
-    "goals": "3 - 0",
+    "goals": "4 - 0",
     "fixtureId": 1579492
   },
   {
@@ -4235,7 +4235,7 @@
     "comp": "2. Lig",
     "competitionCode": "all",
     "time": "2026-10-10T07:30:00-05:00",
-    "goals": "1 - 0",
+    "goals": "2 - 2",
     "fixtureId": 1591335
   },
   {
@@ -4244,7 +4244,7 @@
     "comp": "2. Lig",
     "competitionCode": "all",
     "time": "2026-10-10T07:30:00-05:00",
-    "goals": "0 - 1",
+    "goals": "1 - 2",
     "fixtureId": 1591336
   },
   {
@@ -4271,7 +4271,7 @@
     "comp": "Thai League 2",
     "competitionCode": "all",
     "time": "2026-10-10T07:30:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 0",
     "fixtureId": 1602686
   },
   {
@@ -4280,7 +4280,7 @@
     "comp": "Serie C - Girone A",
     "competitionCode": "all",
     "time": "2026-10-10T07:30:00-05:00",
-    "goals": "2 - 0",
+    "goals": "2 - 1",
     "fixtureId": 1608317
   },
   {
@@ -4289,7 +4289,7 @@
     "comp": "Serie C - Girone B",
     "competitionCode": "all",
     "time": "2026-10-10T07:30:00-05:00",
-    "goals": "1 - 2",
+    "goals": "1 - 3",
     "fixtureId": 1608700
   },
   {
@@ -4298,7 +4298,7 @@
     "comp": "Serie C - Girone C",
     "competitionCode": "all",
     "time": "2026-10-10T07:30:00-05:00",
-    "goals": "1 - 0",
+    "goals": "2 - 0",
     "fixtureId": 1609072
   },
   {
@@ -4307,7 +4307,7 @@
     "comp": "Serie C - Girone C",
     "competitionCode": "all",
     "time": "2026-10-10T07:30:00-05:00",
-    "goals": "0 - 1",
+    "goals": "2 - 1",
     "fixtureId": 1609075
   },
   {
@@ -4316,7 +4316,7 @@
     "comp": "Serie C - Girone C",
     "competitionCode": "all",
     "time": "2026-10-10T07:30:00-05:00",
-    "goals": "0 - 1",
+    "goals": "1 - 3",
     "fixtureId": 1609076
   },
   {
@@ -4325,7 +4325,7 @@
     "comp": "Serie C - Girone C",
     "competitionCode": "all",
     "time": "2026-10-10T07:30:00-05:00",
-    "goals": "1 - 0",
+    "goals": "2 - 1",
     "fixtureId": 1609079
   },
   {
@@ -4352,7 +4352,7 @@
     "comp": "2. Division",
     "competitionCode": "all",
     "time": "2026-10-10T07:30:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 0",
     "fixtureId": 1609519
   },
   {
@@ -4370,7 +4370,7 @@
     "comp": "2. Division",
     "competitionCode": "all",
     "time": "2026-10-10T07:30:00-05:00",
-    "goals": "0 - 1",
+    "goals": "2 - 4",
     "fixtureId": 1609521
   },
   {
@@ -4379,7 +4379,7 @@
     "comp": "2. Division",
     "competitionCode": "all",
     "time": "2026-10-10T07:30:00-05:00",
-    "goals": "0 - 2",
+    "goals": "0 - 3",
     "fixtureId": 1609522
   },
   {
@@ -4496,7 +4496,7 @@
     "comp": "Ekstraklasa",
     "competitionCode": "all",
     "time": "2026-10-10T07:45:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 1",
     "fixtureId": 1553182
   },
   {
@@ -4505,7 +4505,7 @@
     "comp": "NB I",
     "competitionCode": "all",
     "time": "2026-10-10T07:45:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 0",
     "fixtureId": 1560253
   },
   {
@@ -4550,7 +4550,7 @@
     "comp": "3. Division - Girone 2",
     "competitionCode": "all",
     "time": "2026-10-10T08:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 1",
     "fixtureId": 1496715
   },
   {
@@ -4559,7 +4559,7 @@
     "comp": "3. Division - Girone 3",
     "competitionCode": "all",
     "time": "2026-10-10T08:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 1",
     "fixtureId": 1496901
   },
   {
@@ -4568,7 +4568,7 @@
     "comp": "3. Division - Girone 3",
     "competitionCode": "all",
     "time": "2026-10-10T08:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "2 - 1",
     "fixtureId": 1496902
   },
   {
@@ -4577,7 +4577,7 @@
     "comp": "3. Division - Girone 4",
     "competitionCode": "all",
     "time": "2026-10-10T08:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 1",
     "fixtureId": 1497083
   },
   {
@@ -4586,7 +4586,7 @@
     "comp": "3. Division - Girone 4",
     "competitionCode": "all",
     "time": "2026-10-10T08:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "2 - 0",
     "fixtureId": 1497085
   },
   {
@@ -4595,7 +4595,7 @@
     "comp": "3. Division - Girone 5",
     "competitionCode": "all",
     "time": "2026-10-10T08:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "2 - 0",
     "fixtureId": 1497261
   },
   {
@@ -4604,7 +4604,7 @@
     "comp": "3. Division - Girone 6",
     "competitionCode": "all",
     "time": "2026-10-10T08:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 0",
     "fixtureId": 1497445
   },
   {
@@ -4622,7 +4622,7 @@
     "comp": "Superettan",
     "competitionCode": "all",
     "time": "2026-10-10T08:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 1",
     "fixtureId": 1497719
   },
   {
@@ -4631,7 +4631,7 @@
     "comp": "Virsliga",
     "competitionCode": "all",
     "time": "2026-10-10T08:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 1",
     "fixtureId": 1515930
   },
   {
@@ -4667,7 +4667,7 @@
     "comp": "Second League - Group 1",
     "competitionCode": "all",
     "time": "2026-10-10T08:00:00-05:00",
-    "goals": "0 - 1",
+    "goals": "2 - 3",
     "fixtureId": 1536285
   },
   {
@@ -4685,7 +4685,7 @@
     "comp": "HNL",
     "competitionCode": "all",
     "time": "2026-10-10T08:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 1",
     "fixtureId": 1548538
   },
   {
@@ -4694,26 +4694,8 @@
     "comp": "Serie A",
     "competitionCode": "SerieA",
     "time": "2026-10-10T08:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "2 - 0",
     "fixtureId": 1550140
-  },
-  {
-    "home": "Detonit Plachkovica",
-    "away": "Kozuv Gevgelija",
-    "comp": "Second League",
-    "competitionCode": "all",
-    "time": "2026-10-10T08:00:00-05:00",
-    "goals": "0 - 0",
-    "fixtureId": 1553647
-  },
-  {
-    "home": "Novaci",
-    "away": "Teteks",
-    "comp": "Second League",
-    "competitionCode": "all",
-    "time": "2026-10-10T08:00:00-05:00",
-    "goals": "0 - 0",
-    "fixtureId": 1553648
   },
   {
     "home": "Ohrid",
@@ -4757,7 +4739,7 @@
     "comp": "Super Liga",
     "competitionCode": "all",
     "time": "2026-10-10T08:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 0",
     "fixtureId": 1553879
   },
   {
@@ -4766,7 +4748,7 @@
     "comp": "1. SNL",
     "competitionCode": "all",
     "time": "2026-10-10T08:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "2 - 2",
     "fixtureId": 1558023
   },
   {
@@ -4775,7 +4757,7 @@
     "comp": "FNL",
     "competitionCode": "all",
     "time": "2026-10-10T08:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 0",
     "fixtureId": 1559794
   },
   {
@@ -4793,7 +4775,7 @@
     "comp": "Czech Liga",
     "competitionCode": "all",
     "time": "2026-10-10T08:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 1",
     "fixtureId": 1560035
   },
   {
@@ -4802,7 +4784,7 @@
     "comp": "Czech Liga",
     "competitionCode": "all",
     "time": "2026-10-10T08:00:00-05:00",
-    "goals": "1 - 0",
+    "goals": "2 - 0",
     "fixtureId": 1560037
   },
   {
@@ -4820,7 +4802,7 @@
     "comp": "2. liga",
     "competitionCode": "all",
     "time": "2026-10-10T08:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "2 - 0",
     "fixtureId": 1561158
   },
   {
@@ -4829,7 +4811,7 @@
     "comp": "2. liga",
     "competitionCode": "all",
     "time": "2026-10-10T08:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 1",
     "fixtureId": 1561159
   },
   {
@@ -4838,7 +4820,7 @@
     "comp": "II Liga - East",
     "competitionCode": "all",
     "time": "2026-10-10T08:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 0",
     "fixtureId": 1561678
   },
   {
@@ -5009,7 +4991,7 @@
     "comp": "III Liga - Group 4",
     "competitionCode": "all",
     "time": "2026-10-10T08:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 0",
     "fixtureId": 1568200
   },
   {
@@ -5036,7 +5018,7 @@
     "comp": "III Liga - Group 3",
     "competitionCode": "all",
     "time": "2026-10-10T08:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 1",
     "fixtureId": 1568521
   },
   {
@@ -5054,7 +5036,7 @@
     "comp": "III Liga - Group 1",
     "competitionCode": "all",
     "time": "2026-10-10T08:00:00-05:00",
-    "goals": "1 - 0",
+    "goals": "1 - 2",
     "fixtureId": 1569131
   },
   {
@@ -5063,7 +5045,7 @@
     "comp": "III Liga - Group 1",
     "competitionCode": "all",
     "time": "2026-10-10T08:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 1",
     "fixtureId": 1569133
   },
   {
@@ -5090,7 +5072,7 @@
     "comp": "Second League",
     "competitionCode": "all",
     "time": "2026-10-10T08:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "3 - 1",
     "fixtureId": 1571585
   },
   {
@@ -5126,7 +5108,7 @@
     "comp": "Second League",
     "competitionCode": "all",
     "time": "2026-10-10T08:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 1",
     "fixtureId": 1571590
   },
   {
@@ -5135,7 +5117,7 @@
     "comp": "Carioca U20",
     "competitionCode": "all",
     "time": "2026-10-10T08:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 1",
     "fixtureId": 1575038
   },
   {
@@ -5144,7 +5126,7 @@
     "comp": "2. Division",
     "competitionCode": "all",
     "time": "2026-10-10T08:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "2 - 0",
     "fixtureId": 1575816
   },
   {
@@ -5162,7 +5144,7 @@
     "comp": "3. liga - MSFL",
     "competitionCode": "all",
     "time": "2026-10-10T08:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 0",
     "fixtureId": 1577962
   },
   {
@@ -5171,7 +5153,7 @@
     "comp": "3. liga - MSFL",
     "competitionCode": "all",
     "time": "2026-10-10T08:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 0",
     "fixtureId": 1577963
   },
   {
@@ -5180,7 +5162,7 @@
     "comp": "3. liga - MSFL",
     "competitionCode": "all",
     "time": "2026-10-10T08:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 2",
     "fixtureId": 1577964
   },
   {
@@ -5189,7 +5171,7 @@
     "comp": "3. liga - MSFL",
     "competitionCode": "all",
     "time": "2026-10-10T08:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 1",
     "fixtureId": 1577967
   },
   {
@@ -5216,7 +5198,7 @@
     "comp": "Tweede Divisie",
     "competitionCode": "all",
     "time": "2026-10-10T08:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 2",
     "fixtureId": 1579494
   },
   {
@@ -5225,7 +5207,7 @@
     "comp": "Tweede Divisie",
     "competitionCode": "all",
     "time": "2026-10-10T08:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 2",
     "fixtureId": 1579495
   },
   {
@@ -5234,7 +5216,7 @@
     "comp": "Tweede Divisie",
     "competitionCode": "all",
     "time": "2026-10-10T08:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 0",
     "fixtureId": 1579496
   },
   {
@@ -5243,7 +5225,7 @@
     "comp": "Tweede Divisie",
     "competitionCode": "all",
     "time": "2026-10-10T08:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "2 - 6",
     "fixtureId": 1579498
   },
   {
@@ -5270,7 +5252,7 @@
     "comp": "Süper Lig",
     "competitionCode": "all",
     "time": "2026-10-10T08:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 3",
     "fixtureId": 1584429
   },
   {
@@ -5279,7 +5261,7 @@
     "comp": "1. Lig",
     "competitionCode": "all",
     "time": "2026-10-10T08:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "2 - 1",
     "fixtureId": 1585772
   },
   {
@@ -5288,7 +5270,7 @@
     "comp": "Serie B",
     "competitionCode": "all",
     "time": "2026-10-10T08:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 0",
     "fixtureId": 1601545
   },
   {
@@ -5504,7 +5486,7 @@
     "comp": "Regionalliga - South",
     "competitionCode": "all",
     "time": "2026-10-10T08:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 1",
     "fixtureId": 1607980
   },
   {
@@ -5783,7 +5765,7 @@
     "comp": "Campionato Primavera - 2",
     "competitionCode": "all",
     "time": "2026-10-10T08:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 0",
     "fixtureId": 1623581
   },
   {
@@ -5792,7 +5774,7 @@
     "comp": "Campionato Primavera - 2",
     "competitionCode": "all",
     "time": "2026-10-10T08:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 1",
     "fixtureId": 1623583
   },
   {
@@ -5810,7 +5792,7 @@
     "comp": "Campionato Primavera - 2",
     "competitionCode": "all",
     "time": "2026-10-10T08:00:00-05:00",
-    "goals": "1 - 0",
+    "goals": "2 - 2",
     "fixtureId": 1623590
   },
   {
@@ -5819,7 +5801,7 @@
     "comp": "Campionato Primavera - 2",
     "competitionCode": "all",
     "time": "2026-10-10T08:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 1",
     "fixtureId": 1623591
   },
   {
@@ -5828,7 +5810,7 @@
     "comp": "Campionato Primavera - 2",
     "competitionCode": "all",
     "time": "2026-10-10T08:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 1",
     "fixtureId": 1623593
   },
   {
@@ -5837,7 +5819,7 @@
     "comp": "Campionato Primavera - 2",
     "competitionCode": "all",
     "time": "2026-10-10T08:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "2 - 0",
     "fixtureId": 1623596
   },
   {
@@ -5855,7 +5837,7 @@
     "comp": "Serie D - Girone F",
     "competitionCode": "all",
     "time": "2026-10-10T08:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 0",
     "fixtureId": 1626230
   },
   {
@@ -5936,7 +5918,7 @@
     "comp": "Challenge League",
     "competitionCode": "all",
     "time": "2026-10-10T08:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 1",
     "fixtureId": 1629698
   },
   {
@@ -6035,7 +6017,7 @@
     "comp": "National Soccer League",
     "competitionCode": "all",
     "time": "2026-10-10T08:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 0",
     "fixtureId": 1632492
   },
   {
@@ -6062,7 +6044,7 @@
     "comp": "Ykkönen",
     "competitionCode": "all",
     "time": "2026-10-10T08:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "6 - 0",
     "fixtureId": 1638176
   },
   {
@@ -6116,7 +6098,7 @@
     "comp": "Campionato",
     "competitionCode": "all",
     "time": "2026-10-10T08:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 4",
     "fixtureId": 1639898
   },
   {
@@ -6143,7 +6125,7 @@
     "comp": "Segunda División",
     "competitionCode": "all",
     "time": "2026-10-10T08:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 0",
     "fixtureId": 1643446
   },
   {
@@ -6152,7 +6134,7 @@
     "comp": "Paulista - U20",
     "competitionCode": "all",
     "time": "2026-10-10T08:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 0",
     "fixtureId": 1643519
   },
   {
@@ -6170,7 +6152,7 @@
     "comp": "Division Intermedia",
     "competitionCode": "all",
     "time": "2026-10-10T08:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 0",
     "fixtureId": 1644253
   },
   {
@@ -6179,7 +6161,7 @@
     "comp": "Division Intermedia",
     "competitionCode": "all",
     "time": "2026-10-10T08:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 0",
     "fixtureId": 1644254
   },
   {
@@ -6188,7 +6170,7 @@
     "comp": "Premier Soccer League",
     "competitionCode": "all",
     "time": "2026-10-10T08:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 1",
     "fixtureId": 1644393
   },
   {
@@ -6215,7 +6197,7 @@
     "comp": "Premier Soccer League",
     "competitionCode": "all",
     "time": "2026-10-10T08:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 2",
     "fixtureId": 1644396
   },
   {
@@ -6296,7 +6278,7 @@
     "comp": "Professional League",
     "competitionCode": "all",
     "time": "2026-10-10T08:05:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 0",
     "fixtureId": 1642110
   },
   {
@@ -6305,7 +6287,7 @@
     "comp": "Tweede Divisie",
     "competitionCode": "all",
     "time": "2026-10-10T08:15:00-05:00",
-    "goals": "0 - 0",
+    "goals": "2 - 0",
     "fixtureId": 1579490
   },
   {
@@ -6332,7 +6314,7 @@
     "comp": "1. Deild",
     "competitionCode": "all",
     "time": "2026-10-10T08:30:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 1",
     "fixtureId": 1506681
   },
   {
@@ -6341,7 +6323,7 @@
     "comp": "Super Liga",
     "competitionCode": "all",
     "time": "2026-10-10T08:30:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 1",
     "fixtureId": 1551570
   },
   {
@@ -6359,8 +6341,26 @@
     "comp": "Super Liga",
     "competitionCode": "all",
     "time": "2026-10-10T08:30:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 1",
     "fixtureId": 1551574
+  },
+  {
+    "home": "Detonit Plachkovica",
+    "away": "Kozuv Gevgelija",
+    "comp": "Second League",
+    "competitionCode": "all",
+    "time": "2026-10-10T08:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1553647
+  },
+  {
+    "home": "Novaci",
+    "away": "Teteks",
+    "comp": "Second League",
+    "competitionCode": "all",
+    "time": "2026-10-10T08:30:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1553648
   },
   {
     "home": "Arka Gdynia",
@@ -6368,7 +6368,7 @@
     "comp": "I Liga",
     "competitionCode": "all",
     "time": "2026-10-10T08:30:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 0",
     "fixtureId": 1558230
   },
   {
@@ -6377,7 +6377,7 @@
     "comp": "I Liga",
     "competitionCode": "all",
     "time": "2026-10-10T08:30:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 1",
     "fixtureId": 1558231
   },
   {
@@ -6386,7 +6386,7 @@
     "comp": "I Liga",
     "competitionCode": "all",
     "time": "2026-10-10T08:30:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 1",
     "fixtureId": 1558236
   },
   {
@@ -6431,7 +6431,7 @@
     "comp": "2. Liga",
     "competitionCode": "all",
     "time": "2026-10-10T08:30:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 0",
     "fixtureId": 1567922
   },
   {
@@ -6440,7 +6440,7 @@
     "comp": "2. Liga",
     "competitionCode": "all",
     "time": "2026-10-10T08:30:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 1",
     "fixtureId": 1567923
   },
   {
@@ -6458,7 +6458,7 @@
     "comp": "Bundesliga",
     "competitionCode": "Bundesliga",
     "time": "2026-10-10T08:30:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 1",
     "fixtureId": 1575178
   },
   {
@@ -6467,7 +6467,7 @@
     "comp": "Bundesliga",
     "competitionCode": "Bundesliga",
     "time": "2026-10-10T08:30:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 0",
     "fixtureId": 1575180
   },
   {
@@ -6476,7 +6476,7 @@
     "comp": "Bundesliga",
     "competitionCode": "Bundesliga",
     "time": "2026-10-10T08:30:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 2",
     "fixtureId": 1575181
   },
   {
@@ -6494,7 +6494,7 @@
     "comp": "Bundesliga",
     "competitionCode": "Bundesliga",
     "time": "2026-10-10T08:30:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 1",
     "fixtureId": 1575184
   },
   {
@@ -6503,7 +6503,7 @@
     "comp": "FAW Championship",
     "competitionCode": "all",
     "time": "2026-10-10T08:30:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 1",
     "fixtureId": 1580529
   },
   {
@@ -6530,7 +6530,7 @@
     "comp": "FAW Championship",
     "competitionCode": "all",
     "time": "2026-10-10T08:30:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 1",
     "fixtureId": 1580532
   },
   {
@@ -6539,7 +6539,7 @@
     "comp": "FAW Championship",
     "competitionCode": "all",
     "time": "2026-10-10T08:30:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 0",
     "fixtureId": 1580533
   },
   {
@@ -6602,7 +6602,7 @@
     "comp": "FAW Championship",
     "competitionCode": "all",
     "time": "2026-10-10T08:30:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 0",
     "fixtureId": 1580774
   },
   {
@@ -6755,7 +6755,7 @@
     "comp": "First NL",
     "competitionCode": "all",
     "time": "2026-10-10T08:30:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 0",
     "fixtureId": 1590185
   },
   {
@@ -6782,7 +6782,7 @@
     "comp": "Second NL",
     "competitionCode": "all",
     "time": "2026-10-10T08:30:00-05:00",
-    "goals": "0 - 0",
+    "goals": "2 - 0",
     "fixtureId": 1595257
   },
   {
@@ -6791,7 +6791,7 @@
     "comp": "Second NL",
     "competitionCode": "all",
     "time": "2026-10-10T08:30:00-05:00",
-    "goals": "0 - 0",
+    "goals": "2 - 0",
     "fixtureId": 1595260
   },
   {
@@ -6827,7 +6827,7 @@
     "comp": "Ligue 1",
     "competitionCode": "Ligue1",
     "time": "2026-10-10T08:30:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 1",
     "fixtureId": 1607443
   },
   {
@@ -6845,7 +6845,7 @@
     "comp": "Ligue 1",
     "competitionCode": "Ligue1",
     "time": "2026-10-10T08:30:00-05:00",
-    "goals": "0 - 0",
+    "goals": "2 - 0",
     "fixtureId": 1607445
   },
   {
@@ -6854,7 +6854,7 @@
     "comp": "Ligue 1",
     "competitionCode": "Ligue1",
     "time": "2026-10-10T08:30:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 0",
     "fixtureId": 1607449
   },
   {
@@ -6872,7 +6872,7 @@
     "comp": "Campionato Primavera - 2",
     "competitionCode": "all",
     "time": "2026-10-10T08:30:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 2",
     "fixtureId": 1623588
   },
   {
@@ -6944,7 +6944,7 @@
     "comp": "Ligue 2",
     "competitionCode": "all",
     "time": "2026-10-10T08:30:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 1",
     "fixtureId": 1644223
   },
   {
@@ -6953,7 +6953,7 @@
     "comp": "Ligue 2",
     "competitionCode": "all",
     "time": "2026-10-10T08:30:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 2",
     "fixtureId": 1644224
   },
   {
@@ -6971,7 +6971,7 @@
     "comp": "Ligue 2",
     "competitionCode": "all",
     "time": "2026-10-10T08:30:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 1",
     "fixtureId": 1644227
   },
   {
@@ -8168,7 +8168,7 @@
     "comp": "National League",
     "competitionCode": "all",
     "time": "2026-10-10T09:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 0",
     "fixtureId": 1585285
   },
   {
@@ -8366,7 +8366,7 @@
     "comp": "National League - South",
     "competitionCode": "all",
     "time": "2026-10-10T09:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 1",
     "fixtureId": 1588380
   },
   {
