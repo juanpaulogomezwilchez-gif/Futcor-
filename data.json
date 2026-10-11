@@ -113,7 +113,7 @@
     "comp": "J1 League",
     "competitionCode": "all",
     "time": "2026-10-11T01:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 2",
     "fixtureId": 1556089
   },
   {
@@ -122,7 +122,7 @@
     "comp": "J1 League",
     "competitionCode": "all",
     "time": "2026-10-11T01:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 2",
     "fixtureId": 1556090
   },
   {
@@ -131,7 +131,7 @@
     "comp": "J2 League",
     "competitionCode": "all",
     "time": "2026-10-11T01:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 0",
     "fixtureId": 1606694
   },
   {
@@ -149,7 +149,7 @@
     "comp": "J1 League",
     "competitionCode": "all",
     "time": "2026-10-11T02:00:00-05:00",
-    "goals": "0 - 1",
+    "goals": "1 - 1",
     "fixtureId": 1556087
   },
   {
@@ -158,7 +158,7 @@
     "comp": "PFL",
     "competitionCode": "all",
     "time": "2026-10-11T02:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 2",
     "fixtureId": 1639095
   },
   {
@@ -167,7 +167,7 @@
     "comp": "League Two",
     "competitionCode": "all",
     "time": "2026-10-11T02:30:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 1",
     "fixtureId": 1638472
   },
   {
@@ -176,7 +176,7 @@
     "comp": "League Two",
     "competitionCode": "all",
     "time": "2026-10-11T02:30:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 1",
     "fixtureId": 1638473
   },
   {
@@ -230,7 +230,7 @@
     "comp": "U19 league",
     "competitionCode": "all",
     "time": "2026-10-11T03:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 1",
     "fixtureId": 1629443
   },
   {
@@ -1760,7 +1760,7 @@
     "comp": "League One",
     "competitionCode": "all",
     "time": "2026-10-11T06:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 0",
     "fixtureId": 1528732
   },
   {
@@ -6705,6 +6705,15 @@
     "fixtureId": 1639188
   },
   {
+    "home": "Chabab Atl. Khenifra",
+    "away": "Chabab Mohammédia",
+    "comp": "Botola 2",
+    "competitionCode": "all",
+    "time": "2026-10-11T09:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1641171
+  },
+  {
     "home": "Churchill Brothers",
     "away": "Mumbai City",
     "comp": "Indian Super League",
@@ -7668,15 +7677,6 @@
     "fixtureId": 1640707
   },
   {
-    "home": "Chabab Atl. Khenifra",
-    "away": "Chabab Mohammédia",
-    "comp": "Botola 2",
-    "competitionCode": "all",
-    "time": "2026-10-11T10:00:00-05:00",
-    "goals": "0 - 0",
-    "fixtureId": 1641171
-  },
-  {
     "home": "Olympique Dcheïra",
     "away": "Wydad Fès",
     "comp": "Botola 2",
@@ -8352,15 +8352,6 @@
     "fixtureId": 1625923
   },
   {
-    "home": "H2O Purepechas",
-    "away": "Lobos ULMX",
-    "comp": "Primera Premier",
-    "competitionCode": "all",
-    "time": "2026-10-11T11:00:00-05:00",
-    "goals": "0 - 0",
-    "fixtureId": 1635995
-  },
-  {
     "home": "U. San Martin",
     "away": "Bentín Tacna Heroica",
     "comp": "Segunda División",
@@ -8622,13 +8613,13 @@
     "fixtureId": 1635279
   },
   {
-    "home": "Montañeses",
-    "away": "Tapachula",
+    "home": "H2O Purepechas",
+    "away": "Lobos ULMX",
     "comp": "Primera Premier",
     "competitionCode": "all",
     "time": "2026-10-11T12:00:00-05:00",
     "goals": "0 - 0",
-    "fixtureId": 1635996
+    "fixtureId": 1635995
   },
   {
     "home": "Yacoub El Mansour",
@@ -8890,6 +8881,15 @@
     "time": "2026-10-11T13:00:00-05:00",
     "goals": "0 - 0",
     "fixtureId": 1630329
+  },
+  {
+    "home": "Montañeses",
+    "away": "Tapachula",
+    "comp": "Primera Premier",
+    "competitionCode": "all",
+    "time": "2026-10-11T13:00:00-05:00",
+    "goals": "0 - 0",
+    "fixtureId": 1635996
   },
   {
     "home": "Brusque",
