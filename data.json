@@ -12708,15 +12708,6 @@
     "fixtureId": 1637852
   },
   {
-    "home": "Brusque",
-    "away": "Paysandu",
-    "comp": "Serie C",
-    "competitionCode": "all",
-    "time": "2026-10-10T15:00:00-05:00",
-    "goals": "0 - 1",
-    "fixtureId": 1637853
-  },
-  {
     "home": "Maringá",
     "away": "Floresta",
     "comp": "Serie C",
@@ -12911,7 +12902,7 @@
     "comp": "Liga Premier Serie A",
     "competitionCode": "all",
     "time": "2026-10-10T16:30:00-05:00",
-    "goals": "1 - 0",
+    "goals": "1 - 1",
     "fixtureId": 1631759
   },
   {
@@ -12938,7 +12929,7 @@
     "comp": "Liga Pro",
     "competitionCode": "all",
     "time": "2026-10-10T16:30:00-05:00",
-    "goals": "1 - 2",
+    "goals": "3 - 2",
     "fixtureId": 1639850
   },
   {
@@ -12947,7 +12938,7 @@
     "comp": "Primera División",
     "competitionCode": "all",
     "time": "2026-10-10T16:30:00-05:00",
-    "goals": "0 - 1",
+    "goals": "1 - 1",
     "fixtureId": 1643171
   },
   {
@@ -12956,7 +12947,7 @@
     "comp": "USL Championship",
     "competitionCode": "all",
     "time": "2026-10-10T17:00:00-05:00",
-    "goals": "1 - 0",
+    "goals": "0 - 2",
     "fixtureId": 1493734
   },
   {
@@ -12965,7 +12956,7 @@
     "comp": "USL Super League",
     "competitionCode": "all",
     "time": "2026-10-10T17:00:00-05:00",
-    "goals": "0 - 2",
+    "goals": "0 - 3",
     "fixtureId": 1557215
   },
   {
@@ -12974,7 +12965,7 @@
     "comp": "Liga de Expansión MX",
     "competitionCode": "all",
     "time": "2026-10-10T17:00:00-05:00",
-    "goals": "1 - 2",
+    "goals": "4 - 2",
     "fixtureId": 1581481
   },
   {
@@ -12983,7 +12974,7 @@
     "comp": "Segunda División",
     "competitionCode": "all",
     "time": "2026-10-10T17:00:00-05:00",
-    "goals": "2 - 2",
+    "goals": "5 - 4",
     "fixtureId": 1610601
   },
   {
@@ -12992,7 +12983,7 @@
     "comp": "Liga Premier Serie A",
     "competitionCode": "all",
     "time": "2026-10-10T17:00:00-05:00",
-    "goals": "0 - 3",
+    "goals": "2 - 4",
     "fixtureId": 1631755
   },
   {
@@ -13001,7 +12992,7 @@
     "comp": "Liga Premier Serie A",
     "competitionCode": "all",
     "time": "2026-10-10T17:00:00-05:00",
-    "goals": "2 - 2",
+    "goals": "2 - 3",
     "fixtureId": 1631757
   },
   {
@@ -13010,7 +13001,7 @@
     "comp": "Liga Mayor",
     "competitionCode": "all",
     "time": "2026-10-10T17:00:00-05:00",
-    "goals": "0 - 1",
+    "goals": "1 - 2",
     "fixtureId": 1634917
   },
   {
@@ -13019,7 +13010,7 @@
     "comp": "Primera División",
     "competitionCode": "all",
     "time": "2026-10-10T17:00:00-05:00",
-    "goals": "1 - 1",
+    "goals": "4 - 1",
     "fixtureId": 1638775
   },
   {
@@ -13028,7 +13019,7 @@
     "comp": "Segunda División",
     "competitionCode": "all",
     "time": "2026-10-10T17:00:00-05:00",
-    "goals": "0 - 1",
+    "goals": "2 - 1",
     "fixtureId": 1643449
   },
   {
@@ -13055,7 +13046,7 @@
     "comp": "Division Profesional - Clausura",
     "competitionCode": "all",
     "time": "2026-10-10T17:20:00-05:00",
-    "goals": "0 - 2",
+    "goals": "0 - 3",
     "fixtureId": 1632031
   },
   {
@@ -13073,7 +13064,7 @@
     "comp": "USL Championship",
     "competitionCode": "all",
     "time": "2026-10-10T18:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 0",
     "fixtureId": 1493737
   },
   {
@@ -13091,7 +13082,7 @@
     "comp": "USL Championship",
     "competitionCode": "all",
     "time": "2026-10-10T18:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 1",
     "fixtureId": 1493742
   },
   {
@@ -13100,7 +13091,7 @@
     "comp": "USL League One",
     "competitionCode": "all",
     "time": "2026-10-10T18:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "2 - 0",
     "fixtureId": 1494031
   },
   {
@@ -13109,7 +13100,7 @@
     "comp": "USL League One",
     "competitionCode": "all",
     "time": "2026-10-10T18:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "2 - 0",
     "fixtureId": 1494037
   },
   {
@@ -13127,7 +13118,7 @@
     "comp": "Liga MX",
     "competitionCode": "all",
     "time": "2026-10-10T18:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 0",
     "fixtureId": 1550985
   },
   {
@@ -13136,7 +13127,7 @@
     "comp": "Liga MX",
     "competitionCode": "all",
     "time": "2026-10-10T18:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 1",
     "fixtureId": 1550987
   },
   {
@@ -13145,7 +13136,7 @@
     "comp": "Primera División",
     "competitionCode": "all",
     "time": "2026-10-10T18:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 1",
     "fixtureId": 1551695
   },
   {
@@ -13154,7 +13145,7 @@
     "comp": "Liga Nacional",
     "competitionCode": "all",
     "time": "2026-10-10T18:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 0",
     "fixtureId": 1559666
   },
   {
@@ -13172,7 +13163,7 @@
     "comp": "Primera Premier",
     "competitionCode": "all",
     "time": "2026-10-10T18:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 2",
     "fixtureId": 1635992
   },
   {
@@ -13181,7 +13172,7 @@
     "comp": "National League - National",
     "competitionCode": "all",
     "time": "2026-10-10T18:00:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 0",
     "fixtureId": 1639029
   },
   {
@@ -13199,7 +13190,7 @@
     "comp": "Primera A",
     "competitionCode": "all",
     "time": "2026-10-10T18:10:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 1",
     "fixtureId": 1549819
   },
   {
@@ -13217,7 +13208,7 @@
     "comp": "Liga Nacional",
     "competitionCode": "all",
     "time": "2026-10-10T18:15:00-05:00",
-    "goals": "0 - 0",
+    "goals": "2 - 1",
     "fixtureId": 1636816
   },
   {
@@ -13226,7 +13217,7 @@
     "comp": "Major League Soccer",
     "competitionCode": "all",
     "time": "2026-10-10T18:30:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 0",
     "fixtureId": 1490513
   },
   {
@@ -13244,7 +13235,7 @@
     "comp": "Major League Soccer",
     "competitionCode": "all",
     "time": "2026-10-10T18:30:00-05:00",
-    "goals": "0 - 0",
+    "goals": "2 - 1",
     "fixtureId": 1490515
   },
   {
@@ -13253,7 +13244,7 @@
     "comp": "Major League Soccer",
     "competitionCode": "all",
     "time": "2026-10-10T18:30:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 1",
     "fixtureId": 1490516
   },
   {
@@ -13271,7 +13262,7 @@
     "comp": "Major League Soccer",
     "competitionCode": "all",
     "time": "2026-10-10T18:30:00-05:00",
-    "goals": "0 - 0",
+    "goals": "2 - 0",
     "fixtureId": 1490518
   },
   {
@@ -13280,7 +13271,7 @@
     "comp": "Major League Soccer",
     "competitionCode": "all",
     "time": "2026-10-10T18:30:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 1",
     "fixtureId": 1490519
   },
   {
@@ -13289,7 +13280,7 @@
     "comp": "USL League One",
     "competitionCode": "all",
     "time": "2026-10-10T18:30:00-05:00",
-    "goals": "0 - 0",
+    "goals": "0 - 1",
     "fixtureId": 1494035
   },
   {
@@ -13307,7 +13298,7 @@
     "comp": "Primera División",
     "competitionCode": "all",
     "time": "2026-10-10T18:30:00-05:00",
-    "goals": "0 - 0",
+    "goals": "1 - 0",
     "fixtureId": 1638781
   },
   {
